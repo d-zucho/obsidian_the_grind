@@ -6,8 +6,9 @@ language: react, jsx
 
 When we use an `<input>` and want to use what is entered as the `component's` `state`, first connect the input to state with a `useState()` call.
 
-In the `input` attribute sction, connect a :
-`onChange` handler `handleTextChange`
+In the `input` attribute sction, connect  th following:
+`onChange` handler `handleTextChange` to update state as input is typed;
+`value={text}` attribute (setting the *value* to *state* name), as well as passing it as a *prop* 
 
 ```jsx
 
