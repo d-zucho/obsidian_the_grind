@@ -155,20 +155,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
-  "active": "14e3b11cb3981a9e",
+  "active": "45ea1e70e99b1bcc",
   "lastOpenFiles": [
-    "018 - C.md",
+    "000-Index.md",
     "014 - PHP & Databases.md",
+    "Advantages of Using a Database Instead of a Flat File.md",
+    "018 - C.md",
     "Set Form Input as State.md",
     "Python Variables.md",
     "handleClick To Delete Item in List.md",
     "015 - React.md",
     "050 - Projects.md",
-    "ReadMe.md",
-    "016 - Python.md",
-    "018 - C/main function.md"
+    "ReadMe.md"
   ]
 }
