@@ -1,5 +1,5 @@
 ---
-language: react, jsxp
+language: react, jsx
 ---
 
 # handleClick To Delete Item in List

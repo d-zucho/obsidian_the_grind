@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "050 - Projects.md",
+            "file": "Set Form Input as State.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "050 - Projects.md",
+                "file": "Set Form Input as State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "050 - Projects.md",
+                "file": "Set Form Input as State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "050 - Projects.md"
+                "file": "Set Form Input as State.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "45ea1e70e99b1bcc",
   "lastOpenFiles": [
-    "ReadMe.md",
-    "050 - Projects.md",
-    "015 - React.md",
-    "016 - Python.md",
     "handleClick To Delete Item in List.md",
+    "Set Form Input as State.md",
+    "015 - React.md",
+    "050 - Projects.md",
+    "ReadMe.md",
+    "016 - Python.md",
     "Python Variables.md",
     "018 - C/main function.md",
     "001 - Programming/001 - Programming.md",
-    "000-Index.md",
-    "018 - C.md"
+    "000-Index.md"
   ]
 }

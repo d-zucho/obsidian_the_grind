@@ -8,4 +8,12 @@ cards-deck: Default
 
 [[React State]]
 
+### handleClick events to Delete Item in Mapped List
+
+[[handleClick To Delete Item in List]]  :
 ![[handleClick To Delete Item in List]]
+
+
+
+### Set Form Input as State
+![[Set Form Input as State]]
