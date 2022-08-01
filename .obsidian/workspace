@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "014 - PHP & Databases.md",
+            "file": "020 - Resources.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "014 - PHP & Databases.md",
+                "file": "020 - Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "014 - PHP & Databases.md",
+                "file": "020 - Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "014 - PHP & Databases.md"
+                "file": "020 - Resources.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "45ea1e70e99b1bcc",
   "lastOpenFiles": [
-    "000-Index.md",
     "014 - PHP & Databases.md",
+    "000-Index.md",
     "Advantages of Using a Database Instead of a Flat File.md",
     "018 - C.md",
     "Set Form Input as State.md",
