@@ -6,64 +6,47 @@ language: react, jsx
 
 When we use an `<input>` and want to use what is entered as the `component's` `state`, first connect the input to state with a `useState()` call.
 
-```javascript
+In the `input` attribute sction, connect a :
+`onChange` handler `handleTextChange`
+
+```jsx
 
 // FeedbackForm Component
 const FeedbackForm = () => {
 
-const [text, setText] = useState('')  // conn
+	const [text, setText] = useState('')  
+	
+	const handleTextChange = (e) => {
+	
+		// set 'text' state as input text with event handler
+		setText(e.target.value)
+	}
 
-const handleTextChange = (e) => {
+	return (
+		<Card>
+		
+			<form>
+			
+				<h2>How would you rate your service with us?</h2>
+				
+				
+				<div className='input-group'>
 
-// set 'text' state as input text
-
-  
-
-setText(e.target.value)
-
-}
-
-  
-
-return (
-
-<Card>
-
-<form>
-
-<h2>How would you rate your service with us?</h2>
-
-{/* @todo - rating select component */}
-
-<div className='input-group'>
-
-<label htmlFor='review-text' />
-
-<input
-
-placeholder='Write your review here...'
-
-type='text'
-
-name='review-text'
-
-id='review-text'
-
-onChange={handleTextChange}
-
-value={text}
-
-/>
-
-<button>Submit</button>
-
-</div>
-
-</form>
-
-</Card>
-
-)
-
-}
+					<!-- input field where any changes will be connected
+						 to component state through handleChangeText function	
+					 -->
+					<input
+						placeholder='Write your review here...'
+						type='text'
+						name='review-text'
+						id='review-text'
+						onChange={handleTextChange}
+						value={text}
+					/>
+					<button>Submit</button>
+				</div>
+			</form>
+		</Card>
+		)
+	}
 ```
