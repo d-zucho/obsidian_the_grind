@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "020 - Resources.md",
+            "file": "001 - Programming/001 - Programming.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 191
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "020 - Resources.md",
+                "file": "001 - Programming/001 - Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "020 - Resources.md",
+                "file": "001 - Programming/001 - Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "020 - Resources.md"
+                "file": "001 - Programming/001 - Programming.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "45ea1e70e99b1bcc",
   "lastOpenFiles": [
-    "014 - PHP & Databases.md",
     "000-Index.md",
+    "020 - Resources.md",
+    "014 - PHP & Databases.md",
     "Advantages of Using a Database Instead of a Flat File.md",
     "018 - C.md",
     "Set Form Input as State.md",
     "Python Variables.md",
     "handleClick To Delete Item in List.md",
     "015 - React.md",
-    "050 - Projects.md",
-    "ReadMe.md"
+    "050 - Projects.md"
   ]
 }
