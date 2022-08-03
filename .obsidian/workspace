@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Using Context API.md",
+            "file": "001 - Programming/017 - Node.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 191
+    "width": 347
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -92,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "001 - Programming/017 - Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "001 - Programming/017 - Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "001 - Programming/017 - Node.md"
+              }
             }
           },
           {
@@ -153,17 +157,17 @@
     "direction": "horizontal",
     "width": 246
   },
-  "active": "8fe41bccd6078011",
+  "active": "45ea1e70e99b1bcc",
   "lastOpenFiles": [
-    "Using Context API.md",
-    "015 - React.md",
+    "001 - Programming/018 - C.md",
+    "001 - Programming/012 - JavaScript.md",
+    "001 - Programming/014 - PHP & Databases.md",
+    "018 - C/Data Types.md",
+    "001 - Programming/017 - Node.md",
     "001 - Programming/001 - Programming.md",
+    "Using Context API.md",
+    "001 - Programming/015 - React.md",
     "000-Index.md",
-    "020 - Resources.md",
-    "014 - PHP & Databases.md",
-    "Advantages of Using a Database Instead of a Flat File.md",
-    "018 - C.md",
-    "Set Form Input as State.md",
-    "Python Variables.md"
+    "020 - Resources.md"
   ]
 }
