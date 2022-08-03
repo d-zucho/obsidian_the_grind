@@ -17,3 +17,6 @@ cards-deck: Default
 
 ### Set Form Input as State
 ![[Set Form Input as State]]
+
+## Context API
+![[Using Context API]]
