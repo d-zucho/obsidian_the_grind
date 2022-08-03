@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "001 - Programming/001 - Programming.md",
+            "file": "015 - React.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 - Programming/001 - Programming.md",
+                "file": "015 - React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 - Programming/001 - Programming.md",
+                "file": "015 - React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - Programming/001 - Programming.md"
+                "file": "015 - React.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "45ea1e70e99b1bcc",
   "lastOpenFiles": [
+    "001 - Programming/001 - Programming.md",
     "000-Index.md",
     "020 - Resources.md",
     "014 - PHP & Databases.md",
@@ -167,7 +168,6 @@
     "Set Form Input as State.md",
     "Python Variables.md",
     "handleClick To Delete Item in List.md",
-    "015 - React.md",
-    "050 - Projects.md"
+    "015 - React.md"
   ]
 }
