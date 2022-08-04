@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "001 - Programming/001 - Programming.md",
+            "file": "020 - Resources/020 - Resources.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 - Programming/001 - Programming.md",
+                "file": "020 - Resources/020 - Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 - Programming/001 - Programming.md",
+                "file": "020 - Resources/020 - Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - Programming/001 - Programming.md"
+                "file": "020 - Resources/020 - Resources.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "45ea1e70e99b1bcc",
   "lastOpenFiles": [
-    "030 - Interview Tips.md",
+    "010 - Programming/016 - Python.md",
+    "020 - Resources/020 - Resources.md",
+    "010 - Programming/018 - C/018 - C.md",
+    "010 - Programming/010 - Programming.md",
     "040 - Design.md",
-    "050 - Projects.md",
     "000-Index.md",
-    "001 - Programming/018 - C.md",
-    "001 - Programming/017 - Node.md",
-    "001 - Programming/012 - JavaScript.md",
-    "001 - Programming/014 - PHP & Databases.md",
-    "018 - C/Data Types.md",
-    "001 - Programming/001 - Programming.md"
+    "020 - Resources.md",
+    "030 - Interview Tips.md",
+    "050 - Projects.md",
+    "010 - Programming/017 - Node.md"
   ]
 }

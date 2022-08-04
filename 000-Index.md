@@ -3,7 +3,7 @@
 
 ## Languages
 
-[[001 - Programming]]
+[[010 - Programming]]
 [[020 - Resources]]
 [[030 - Interview Tips]]
 [[040 - Design]]
