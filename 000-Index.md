@@ -4,7 +4,7 @@
 ## Languages
 
 [[010 - Programming]]
-[[Things To Read]]
+[[020 - Resources]]
 [[030 - Interview Tips]]
 [[040 - Design]]
 [[050 - Projects]]

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "45ea1e70e99b1bcc",
+        "id": "f5d84f0650f63763",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 - Programming/010 - Programming.md",
+            "file": "020 - Resources/Untitled.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -59,6 +59,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "9ee4cb0f9c10ffd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a664a9acad4eaf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 - Resources/Things To Read.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/010 - Programming.md",
+                "file": "020 - Resources/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/010 - Programming.md",
+                "file": "020 - Resources/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/010 - Programming.md"
+                "file": "020 - Resources/Untitled.md"
               }
             }
           },
@@ -143,14 +162,14 @@
     "direction": "horizontal",
     "width": 246
   },
-  "active": "45ea1e70e99b1bcc",
+  "active": "f5d84f0650f63763",
   "lastOpenFiles": [
-    "000-Index.md",
-    "020 - Resources/020 - Resources.md",
     "020 - Resources/Things To Read.md",
+    "020 - Resources/020 - Resources.md",
+    "010 - Programming/010 - Programming.md",
+    "000-Index.md",
     "010 - Programming/016 - Python.md",
     "010 - Programming/018 - C/018 - C.md",
-    "010 - Programming/010 - Programming.md",
     "040 - Design.md",
     "030 - Interview Tips.md",
     "050 - Projects.md",
