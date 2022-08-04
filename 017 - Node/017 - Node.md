@@ -14,3 +14,11 @@ Back:: [[010 - Programming]]
 
 Though JavaScript is a Syncronous language, Node can handle tasks asychronously 
 
+%% Begin Waypoint %%
+- **[[017 - Node]]**
+	- [[017 - Node]]
+	- [[Intro]]
+	- [[Node Architecture]]
+	- [[Written as Single Threaded]]
+
+%% End Waypoint %%

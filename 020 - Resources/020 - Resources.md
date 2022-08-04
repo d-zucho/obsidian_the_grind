@@ -6,8 +6,8 @@ back:: [[000-Index]]
 %% Begin Waypoint %%
 - **[[020 - Resources]]**
 	- [[020 - Resources]]
+	- [[Bloom's and SOLO Taxonomies]]
 	- [[Things To Read]]
-	- [[Untitled]]
 
 %% End Waypoint %%
 
