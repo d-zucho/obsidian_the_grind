@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "020 - Resources/Bloom's and SOLO Taxonomies.md",
+            "file": "020 - Resources/020 - Resources.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "020 - Resources/Bloom's and SOLO Taxonomies.md",
+                "file": "020 - Resources/020 - Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "020 - Resources/Bloom's and SOLO Taxonomies.md",
+                "file": "020 - Resources/020 - Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "020 - Resources/Bloom's and SOLO Taxonomies.md"
+                "file": "020 - Resources/020 - Resources.md"
               }
             }
           },
@@ -159,11 +159,11 @@
   },
   "active": "0830a998b12518a2",
   "lastOpenFiles": [
-    "020 - Resources/020 - Resources.md",
     "020 - Resources/Bloom's and SOLO Taxonomies.md",
+    "020 - Resources/Things To Read.md",
+    "020 - Resources/020 - Resources.md",
     "999-Templates/zootel.md",
     "017 - Node/017 - Node.md",
-    "020 - Resources/Things To Read.md",
     "010 - Programming/010 - Programming.md",
     "000-Index.md",
     "010 - Programming/016 - Python.md",
