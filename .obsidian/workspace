@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "020 - Resources/020 - Resources.md",
+            "file": "010 - Programming/010 - Programming.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -59,20 +59,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "4b0bada01ad27315",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8fe41bccd6078011",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "020 - Resources/020 - Resources.md",
+                "file": "010 - Programming/010 - Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "020 - Resources/020 - Resources.md",
+                "file": "010 - Programming/010 - Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "020 - Resources/020 - Resources.md"
+                "file": "010 - Programming/010 - Programming.md"
               }
             }
           },
@@ -159,13 +145,13 @@
   },
   "active": "45ea1e70e99b1bcc",
   "lastOpenFiles": [
-    "010 - Programming/016 - Python.md",
+    "000-Index.md",
     "020 - Resources/020 - Resources.md",
+    "020 - Resources/Things To Read.md",
+    "010 - Programming/016 - Python.md",
     "010 - Programming/018 - C/018 - C.md",
     "010 - Programming/010 - Programming.md",
     "040 - Design.md",
-    "000-Index.md",
-    "020 - Resources.md",
     "030 - Interview Tips.md",
     "050 - Projects.md",
     "010 - Programming/017 - Node.md"

@@ -6,8 +6,8 @@ back:: [[000-Index]]
 %% Begin Waypoint %%
 - **[[020 - Resources]]**
 	- [[020 - Resources]]
+	- [[Things To Read]]
 
 %% End Waypoint %%
 
 
-/g
