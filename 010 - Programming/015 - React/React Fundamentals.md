@@ -19,6 +19,8 @@ tags: react/fundamentals
 `component` : a piece of code that returns / renders a piece of code in `jsx` 
 <!--SR:!2022-08-05,1,230-->
 
-- asd
-- lets try another card as a {{cloze}} #card #react/card 
-- 
+
+- lets try another card as a ==cloze==  #card #react/card 
+<!--SR:!2022-08-07,3,268-->
+
+

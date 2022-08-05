@@ -7,6 +7,7 @@
 - **[[020 - Resources]]**
 	- [[020 - Resources]]
 	- [[Bloom's and SOLO Taxonomies]]
+	- [[Feyman Technique]]
 	- [[Things To Read]]
 
 %% End Waypoint %%
