@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 - Programming/015 - React.md",
+            "file": "020 - Resources/020 - Resources.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -26,6 +26,7 @@
       {
         "id": "fb8dfc1f92895c76",
         "type": "tabs",
+        "dimension": 78.56377277599142,
         "children": [
           {
             "id": "14e3b11cb3981a9e",
@@ -63,6 +64,7 @@
       {
         "id": "ffbe02624c1acb5b",
         "type": "tabs",
+        "dimension": 21.436227224008576,
         "children": [
           {
             "id": "f5d84f0650f63763",
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "020 - Resources/020 - Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "020 - Resources/020 - Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "020 - Resources/020 - Resources.md"
+              }
             }
           },
           {
@@ -153,17 +159,17 @@
     "direction": "horizontal",
     "width": 246
   },
-  "active": "f5d84f0650f63763",
+  "active": "0830a998b12518a2",
   "lastOpenFiles": [
-    "010 - Programming/015 - React.md",
-    "010 - Programming/010 - Programming.md",
+    "020 - Resources/Pasted image 20220804094016.png",
+    "020 - Resources/Pasted image 20220804094352.png",
+    "020 - Resources/Pasted image 20220804094412.png",
+    "ReadMe.md",
+    "010 - Programming/015 - React/handleClick To Delete Item in List.md",
+    "010 - Programming/015 - React/015 - React.md",
+    "010 - Programming/015 - React/Using Context API.md",
+    "010 - Programming/015 - React/React State.md",
     "010 - Programming/017 - Node/017 - Node.md",
-    "010 - Programming/018 - C/018 - C.md",
-    "010 - Programming/018 - C/Data Types.md",
-    "020 - Resources/020 - Resources.md",
-    "020 - Resources/Bloom's and SOLO Taxonomies.md",
-    "020 - Resources/Things To Read.md",
-    "999-Templates/zootel.md",
-    "000-Index.md"
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md"
   ]
 }

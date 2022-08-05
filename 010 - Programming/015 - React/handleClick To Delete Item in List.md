@@ -1,5 +1,6 @@
 ---
 language: react, jsx
+tags: react/map
 ---
 
 # handleClick To Delete Item in List
