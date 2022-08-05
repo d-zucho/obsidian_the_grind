@@ -13,5 +13,6 @@
   "calendar",
   "obsidian-drag-n-drop-plugin",
   "obsidian-git",
-  "folder-note-core"
+  "folder-note-core",
+  "obsidian-dynamic-toc"
 ]

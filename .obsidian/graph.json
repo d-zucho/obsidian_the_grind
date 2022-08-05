@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"001 - Programming",
@@ -15,16 +15,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "nodeSizeMultiplier": 1.12174479166667,
+  "lineSizeMultiplier": 1.2662109375,
+  "collapse-forces": true,
   "centerStrength": 0,
-  "repelStrength": 7.22436797752809,
-  "linkStrength": 0.761762640449438,
-  "linkDistance": 251,
-  "scale": 0.07382153289350396,
+  "repelStrength": 8.49173553719008,
+  "linkStrength": 1,
+  "linkDistance": 319,
+  "scale": 0.09345508107096463,
   "close": true
 }
