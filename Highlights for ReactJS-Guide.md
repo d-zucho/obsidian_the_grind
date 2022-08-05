@@ -1,3 +1,0 @@
-
-## Source
-[[ReactJS-Guide.pdf]]

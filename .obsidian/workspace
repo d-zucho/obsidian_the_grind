@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "24f8d2be6da89d40",
+        "id": "c733c0bd3f59e811",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Highlights for ReactJS-Guide.md",
+            "file": "020 - Resources/020 - Resources.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182
+    "width": 394
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Highlights for ReactJS-Guide.md",
+                "file": "020 - Resources/020 - Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Highlights for ReactJS-Guide.md",
+                "file": "020 - Resources/020 - Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Highlights for ReactJS-Guide.md"
+                "file": "020 - Resources/020 - Resources.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "direction": "horizontal",
     "width": 148
   },
-  "active": "24f8d2be6da89d40",
+  "active": "c733c0bd3f59e811",
   "lastOpenFiles": [
-    "ReactJS-Guide.pdf",
+    "010 - Programming/010 - Programming.md",
+    "Pasted image 20220804094412.png",
+    "Python Variables.md",
     "Highlights for ReactJS-Guide.md",
+    "020 - Resources/ReactJS-Guide.pdf",
     "ReactJS-Guide.md",
     "Advantages of Using a Database Instead of a Flat File.md",
     "010 - Programming/015 - React/Props.md",
     "010 - Programming/015 - React/015 - React.md",
-    "020 - Resources/Things To Read.md",
-    "020 - Resources/20 Rules of Knowledge Formulation.md",
-    "020 - Resources/020 - Resources.md",
-    "020 - Resources/Feyman Technique.md"
+    "020 - Resources/Things To Read.md"
   ]
 }
