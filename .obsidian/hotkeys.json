@@ -7,5 +7,14 @@
       ],
       "key": "F"
     }
+  ],
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "O"
+    }
   ]
 }

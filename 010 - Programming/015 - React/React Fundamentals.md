@@ -3,23 +3,17 @@ course: js-mastery
 tags: react/fundamentals
 ---
 
-
-```toc
-```
-
 # React Fundamentals
 
+- [[#Starting Off|Starting Off]]
 
 
 
-# first
+## Starting Off
 
-## first a
+- *`index.js`* is starting point of all React apps
+	- inside of `index.js`, is the one, and only, time we call `ReactDOM` to render components to DOM.
 
-## first b
-
-# second
-
-# third
-## third a
-### third aa
+-  What is a component? #card #react/card
+	- `component` : a piece of code that returns / renders a piece of code in `jsx`
+	- 
