@@ -7,12 +7,9 @@
         "id": "a754798a65c4c925",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "010 - Programming/015 - React/Props.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "ReactJS-Guide.pdf"
           }
         }
       }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/015 - React/Props.md",
+                "file": "ReactJS-Guide.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/015 - React/Props.md",
+                "file": "ReactJS-Guide.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/015 - React/Props.md"
+                "file": "ReactJS-Guide.pdf"
               }
             }
           },
@@ -169,6 +166,8 @@
   },
   "active": "a754798a65c4c925",
   "lastOpenFiles": [
+    "Advantages of Using a Database Instead of a Flat File.md",
+    "010 - Programming/015 - React/Props.md",
     "010 - Programming/015 - React/015 - React.md",
     "020 - Resources/Things To Read.md",
     "020 - Resources/20 Rules of Knowledge Formulation.md",
@@ -176,8 +175,6 @@
     "020 - Resources/Feyman Technique.md",
     "010 - Programming/015 - React/React Fundamentals.md",
     "020 - Resources/Pasted image 20220804094412.png",
-    "020 - Resources/Pasted image 20220804094016.png",
-    "020 - Resources/Pasted image 20220804094352.png",
-    "ReadMe.md"
+    "020 - Resources/Pasted image 20220804094016.png"
   ]
 }
