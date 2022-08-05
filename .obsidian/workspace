@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "020 - Resources/Feyman Technique.md",
+            "file": "020 - Resources/020 - Resources.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "020 - Resources/Feyman Technique.md",
+                "file": "020 - Resources/020 - Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "020 - Resources/Feyman Technique.md",
+                "file": "020 - Resources/020 - Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "020 - Resources/Feyman Technique.md"
+                "file": "020 - Resources/020 - Resources.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "720cac93dad557fe",
   "lastOpenFiles": [
+    "020 - Resources/Feyman Technique.md",
     "020 - Resources/020 - Resources.md",
     "010 - Programming/015 - React/React Fundamentals.md",
     "010 - Programming/015 - React/015 - React.md",
@@ -177,7 +178,6 @@
     "020 - Resources/Pasted image 20220804094016.png",
     "020 - Resources/Pasted image 20220804094352.png",
     "ReadMe.md",
-    "010 - Programming/015 - React/handleClick To Delete Item in List.md",
-    "010 - Programming/015 - React/Using Context API.md"
+    "010 - Programming/015 - React/handleClick To Delete Item in List.md"
   ]
 }
