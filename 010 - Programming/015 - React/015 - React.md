@@ -6,6 +6,7 @@ cards-deck: Default
 - **[[015 - React]]**
 	- [[015 - React]]
 	- [[handleClick To Delete Item in List]]
+	- [[Props]]
 	- [[React Fundamentals]]
 	- [[React State]]
 	- [[Set Form Input as State]]
