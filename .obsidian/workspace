@@ -26,7 +26,7 @@
       {
         "id": "fb8dfc1f92895c76",
         "type": "tabs",
-        "dimension": 62.80814576634513,
+        "dimension": 62.80814576634512,
         "children": [
           {
             "id": "14e3b11cb3981a9e",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347
+    "width": 218
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "22f630ffaa5b886a",
@@ -167,13 +167,13 @@
     "direction": "horizontal",
     "width": 246
   },
-  "active": "95234e49f3c6f701",
+  "active": "14e3b11cb3981a9e",
   "lastOpenFiles": [
+    "010 - Programming/015 - React/React Fundamentals.md",
     "010 - Programming/015 - React/015 - React.md",
     "020 - Resources/020 - Resources.md",
     "020 - Resources/Things To Read.md",
     "020 - Resources/Pasted image 20220804094412.png",
-    "010 - Programming/015 - React/React Fundamentals.md",
     "020 - Resources/Pasted image 20220804094016.png",
     "020 - Resources/Pasted image 20220804094352.png",
     "ReadMe.md",

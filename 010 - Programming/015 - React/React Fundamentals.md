@@ -14,7 +14,11 @@ tags: react/fundamentals
 - *`index.js`* is starting point of all React apps
 	- inside of `index.js`, is the one, and only, time we call `ReactDOM` to render components to DOM.
 
--  What is a component?:: - 
-	- `component` : a piece of code that returns / renders a piece of code in `jsx` #card #react/
-	-  
-	- 
+* What is a component?  #card #react/card
+?
+`component` : a piece of code that returns / renders a piece of code in `jsx` 
+<!--SR:!2022-08-05,1,230-->
+
+- asd
+- lets try another card as a {{cloze}} #card #react/card 
+- 
