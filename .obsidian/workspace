@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 - Programming/015 - React/handleClick To Delete Item in List.md",
+            "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/015 - React/handleClick To Delete Item in List.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/015 - React/handleClick To Delete Item in List.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/015 - React/handleClick To Delete Item in List.md"
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md"
               }
             }
           },
@@ -167,8 +167,9 @@
     "direction": "horizontal",
     "width": 148
   },
-  "active": "14e3b11cb3981a9e",
+  "active": "c733c0bd3f59e811",
   "lastOpenFiles": [
+    "010 - Programming/015 - React/handleClick To Delete Item in List.md",
     "010 - Programming/015 - React/015 - React.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "020 - Resources/020 - Resources.md",
@@ -177,7 +178,6 @@
     "Python Variables.md",
     "Highlights for ReactJS-Guide.md",
     "ReactJS-Guide.pdf",
-    "ReactJS-Guide.md",
-    "Advantages of Using a Database Instead of a Flat File.md"
+    "ReactJS-Guide.md"
   ]
 }

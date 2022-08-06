@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": null,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "livePreview": true
 }
