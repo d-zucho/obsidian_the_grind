@@ -2,7 +2,7 @@
 ---
 
 ## Languages
-
+[[1 - Personal]]
 [[010 - Programming]]
 [[020 - Resources]]
 [[030 - Interview Tips]]
@@ -10,9 +10,24 @@
 [[050 - Projects]]
 
 - [ ] Get homework don
-- [ ] ] 
+- [ ] 
 
 ## Projects
+
+
+___
+
+## Todo
+
+```todoist
+{
+"name": "Due Today",
+"filter": "view all"
+}
+```
+
+
+
 
 
 

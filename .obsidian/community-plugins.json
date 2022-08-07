@@ -15,5 +15,6 @@
   "obsidian-git",
   "folder-note-core",
   "obsidian-plugin-toc",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "todoist-sync-plugin"
 ]
