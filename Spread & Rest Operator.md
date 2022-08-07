@@ -4,6 +4,13 @@ topics: refresher, syntax
 
 # Spread & Rest Operator
 
+
+- [[#Spread Operator|Spread Operator]]
+	- [[#Spread Operator#When is it Used?|When is it Used?]]
+			- [[#Example with Array:|Example with Array:]]
+			- [[#Example with Object:|Example with Object:]]
+
+
 The `spread` and `rest` operator both have the same syntax:: `...`
 
 
@@ -13,7 +20,8 @@ The **difference**, is how it is used, which will determine if it is a spread or
 
 When using it  as the ==spread== operator, you end goal is : #card #javascript/card 
 	to pull out elements of a list or properties out of an object and "spread" them out, without having to recode every line and property.
-##### Example:
+
+### When is it Used?
 The spread operator is often used when changing `state` in react. Why? #card  #react/card #javascript/card 
 	- Since `state` is immutable, when we want to make a change, we do it by "copying" or "piulling out" the properties of the previous state, and adding new values or changing old to the new values.
 
@@ -37,3 +45,5 @@ const newObject = {
 	age: 31
 }
 ```
+
+What is **rest operato** #review-later 
