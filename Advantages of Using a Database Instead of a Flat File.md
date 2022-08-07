@@ -1,6 +1,8 @@
 
 
 # Advantages of Using a Database Instead of a Flat File
+#review-later 
+
 
 - Faster access to data
 - Easily extract sets of data that fit certain criteria (query)

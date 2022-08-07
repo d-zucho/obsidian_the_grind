@@ -12,7 +12,7 @@ What are props? #card #react/card
 
 
 
-Howasd
+
 
 
 
