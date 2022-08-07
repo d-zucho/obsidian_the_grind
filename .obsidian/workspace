@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 - Programming/017 - Node/Intro.md",
+            "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/017 - Node/Intro.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/017 - Node/Intro.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/017 - Node/Intro.md"
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md"
               }
             }
           },
@@ -169,12 +169,12 @@
   },
   "active": "c733c0bd3f59e811",
   "lastOpenFiles": [
+    "010 - Programming/017 - Node/Intro.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "010 - Programming/015 - React/Props.md",
     "010 - Programming/015 - React/Set Form Input as State.md",
     "010 - Programming/015 - React/handleClick To Delete Item in List.md",
     "010 - Programming/015 - React/Using Context API.md",
-    "010 - Programming/017 - Node/Intro.md",
     "010 - Programming/015 - React/React State.md",
     "010 - Programming/017 - Node/017 - Node.md",
     "010 - Programming/015 - React/015 - React.md",
