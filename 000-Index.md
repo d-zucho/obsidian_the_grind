@@ -9,6 +9,8 @@
 [[040 - Design]]
 [[050 - Projects]]
 
+- [ ] Get homework don
+- [ ] ] 
 
 ## Projects
 
