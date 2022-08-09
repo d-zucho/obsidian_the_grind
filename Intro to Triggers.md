@@ -24,8 +24,8 @@ ___
 ==PLSQL== - Procedure Language SQL 
 		- MySQL with procedure language can declare variables and flow control ( if/else conditions ) #mysql/keyword #mysql/card 
 		- PLSQL is ***procedure oreinted logic*** while SQL is ***declarative logic***
-		- PLSQL
-
+		- PLSQL ==procedures== are :
+			- aaaa
 ---
 
 
