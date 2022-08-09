@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 - Programming/010 - Programming.md",
+            "file": "Intro to Triggers.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -181,14 +181,14 @@
     "width": 172,
     "collapsed": true
   },
-  "active": "f418f0c3ab745612",
+  "active": "c733c0bd3f59e811",
   "lastOpenFiles": [
     "SQL - Database Design.md",
     "Constraints.md",
-    "Intro to Triggers.md",
     "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
-    "010 - Programming/015 - React/015 - React.md",
+    "Intro to Triggers.md",
     "010 - Programming/010 - Programming.md",
+    "010 - Programming/015 - React/015 - React.md",
     "010 - Programming/018 - C/018 - C.md",
     "010 - Programming/017 - Node/017 - Node.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",

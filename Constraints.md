@@ -15,7 +15,8 @@ tags: mysql/database-design
 
 ```ad-info
 title: Main Concept
- Rules which define the 'allowable' state of database
+- Rules which define the 'allowable' state of database
+- Work only with Foreign Keys
 ```
 
 EXAMPLE :

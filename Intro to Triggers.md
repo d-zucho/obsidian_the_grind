@@ -9,7 +9,7 @@ Triggers aid in prohibiting bad database states
 
 They are ***PLSQL*** code that is 'triggered' on data manipulation
 
-
+Triggers are associated with **specific tables**
 ___
 ```ad-summary
 title: Key Point
@@ -23,6 +23,8 @@ ___
 
 ==PLSQL== - Procedure Language SQL 
 		- MySQL with procedure language can declare variables and flow control ( if/else conditions ) #mysql/keyword #mysql/card 
+		- PLSQL is ***procedure oreinted logic*** while SQL is ***declarative logic***
+		- PLSQL
 
 ---
 
@@ -30,13 +32,14 @@ ___
 !!! - Support for triggers varries frequntly
 
 
-```ad-warning
+```ad-danger
+title: Warning
 Triggers do NOT work with *views*
 ```
 
 
 
-#### Trigger Syntax
+#### Trigger Syntax - Create a trigger
 To create a trigger:
 ```mysql
 create trigger [triggerName]

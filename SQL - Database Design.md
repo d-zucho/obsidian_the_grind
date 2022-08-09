@@ -29,3 +29,10 @@ For quiz
 [[Intro to Triggers|Triggers]] : PLSQL code that is triggered on data manipulation
 
 [[Constraints]] are rules that specify how foreign and primary key tables co-exist during data manipulation.
+
+##### Triggers vs. Constraints
+
+[[Triggers]] and [[Constraints]] both occur after some form of data manipulation
+
+But, triggers have the entire PLSQL library available to them
+
