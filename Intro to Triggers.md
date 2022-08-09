@@ -3,9 +3,6 @@ language: mysql
 tags: mysql/database-design
 ---
 
-- [[#Triggers are ***PLSQL***  code that is 'triggered' on data manipulation|Triggers are ***PLSQL***  code that is 'triggered' on data manipulation]]
-- [[#PLSQL|PLSQL]]
-- [[#PLSQL#Trigger Syntax - Create a trigger|Trigger Syntax - Create a trigger]]
 
 
 - [[#Triggers|Triggers]]
@@ -45,12 +42,16 @@ ___
 			-  can use sql statements in code
 			- can use flow control
 
+
+#### PLSQL Variables
+
 ==PLSQL variables== :
  - type must match MySQL field types
  - Can only declare onve variable at a time
  - Variable declarations must be at bginning of PLSQL block
-!!! - Support for triggers varries frequntly
 
+* Variable with '@' declare "session variables"
+ 
 
 ```ad-danger
 title: Warning
