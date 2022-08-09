@@ -3,6 +3,10 @@ language: mysql
 tags: mysql/database-design
 ---
 
+- [[#Referential Integrity|Referential Integrity]]
+
+
+
 # Intro to Constraints
 
 ==Constraints==  are rules that specify how foreign and primary key tables co-exist during data manipulation #mysql/keyword
@@ -19,7 +23,6 @@ EXAMPLE :
 	 - price  decimal(5, 2); limited to 0.00 - 999.99
 
 
-
 What happens when a record/row in a table with a foreign key, when a table with a primary key is changed? #card #mysql/card
 	 One of four things can happen:
 		 1. No Action -- nothing
@@ -31,7 +34,10 @@ What happens when a record/row in a table with a foreign key, when a table with 
 To add a constraint, use the syntax:
 	- `alter table [tableName] add [...constraint name]`
 
-==Referential Integrity== means  to maintain integrity by making sure the foreign key always references to the primary key #mysql/keyword 
+## Referential Integrity
+
+==Referential Integrity== means  to maintain integrity by making sure the foreign key always references to the primary key #mysql/keyword #mysql/referencial-integrity
+
 
 ```ad-example
 title: Example - Referential Integrity Violation
@@ -41,4 +47,4 @@ Referential Integrity **Violation** occurs when a foreign key points to a non-ex
 ***Enforcing Referential Integrity*** :
 	- select storage engine that supports referential integrity
 		- storage engine = software component that manages the storage of data
-	- add foreign key constraint
+	-  add foreign key constraint
