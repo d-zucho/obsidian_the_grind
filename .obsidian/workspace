@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 186
+    "width": 186,
+    "collapsed": true
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -197,6 +198,7 @@
   "active": "29d5da7a3cd716a7",
   "lastOpenFiles": [
     "Intro to Triggers.md",
+    "PLSQL.md",
     "SQL - Database Design.md",
     "Constraints.md",
     "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
@@ -204,7 +206,6 @@
     "010 - Programming/015 - React/015 - React.md",
     "010 - Programming/018 - C/018 - C.md",
     "010 - Programming/017 - Node/017 - Node.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "Spread & Rest Operator.md"
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md"
   ]
 }
