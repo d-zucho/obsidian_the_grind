@@ -4,5 +4,7 @@ lecture: fruitTrigger.sql
 ---
 
 
-*Primary Key* : a unique identifier for rows in a database
+*Primary Key* : a column, or set of columns that uniquely identifies each row.
+
+
 
