@@ -33,3 +33,12 @@ To add a constraint, use the syntax:
 
 ==Referential Integrity== means  to maintain integrity by making sure the foreign key always references to the primary key #mysql/keyword 
 
+```ad-example
+title: Example - Referential Integrity Violation
+Referential Integrity **Violation** occurs when a foreign key points to a non-existent primary key
+```
+
+***Enforcing Referential Integrity*** :
+	- select storage engine that supports referential integrity
+		- storage engine = software component that manages the storage of data
+	- add foreign key constraint
