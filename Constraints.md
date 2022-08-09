@@ -5,9 +5,9 @@ tags: mysql/database-design
 
 - [[#Referential Integrity|Referential Integrity]]
 
-
-
 # Intro to Constraints
+
+
 
 ==Constraints==  are rules that specify how foreign and primary key tables co-exist during data manipulation #mysql/keyword
 	- Mainly deal with the relationship between *foreign key* & *primary key*
@@ -48,3 +48,14 @@ Referential Integrity **Violation** occurs when a foreign key points to a non-ex
 	- select storage engine that supports referential integrity
 		- storage engine = software component that manages the storage of data
 	-  add foreign key constraint
+
+##### Referential Integrity Violation Syntax Example
+
+<mark style="background: #FFFFFF">Syntax Example</mark> 
+```mysql
+# checks for violation of referential integrity
+SELECT * from `inventoryQuantity`
+LEFT JOIN `fruit`
+on fuit.fruitID = inventoryQuantity.fruitID
+WHERE fruit.fruitID IS NULL;
+```

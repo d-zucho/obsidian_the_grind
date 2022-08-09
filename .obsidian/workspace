@@ -22,20 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f44d01169d4d6b04",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Constraints.md",
+            "file": "SQL - Database Design.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -120,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Constraints.md",
+                "file": "SQL - Database Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Constraints.md",
+                "file": "SQL - Database Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Constraints.md"
+                "file": "SQL - Database Design.md"
               }
             }
           },
@@ -194,17 +181,17 @@
     "width": 172,
     "collapsed": true
   },
-  "active": "f44d01169d4d6b04",
+  "active": "f418f0c3ab745612",
   "lastOpenFiles": [
     "Constraints.md",
     "SQL - Database Design.md",
+    "Intro to Triggers.md",
     "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
     "010 - Programming/015 - React/015 - React.md",
     "010 - Programming/010 - Programming.md",
     "010 - Programming/018 - C/018 - C.md",
     "010 - Programming/017 - Node/017 - Node.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "Spread & Rest Operator.md",
-    "Advantages of Using a Database Instead of a Flat File.md"
+    "Spread & Rest Operator.md"
   ]
 }
