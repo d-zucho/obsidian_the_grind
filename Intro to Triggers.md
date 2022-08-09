@@ -3,7 +3,19 @@ language: mysql
 tags: mysql/database-design
 ---
 
-# Triggers
+- [[#Triggers are ***PLSQL***  code that is 'triggered' on data manipulation|Triggers are ***PLSQL***  code that is 'triggered' on data manipulation]]
+- [[#PLSQL|PLSQL]]
+- [[#PLSQL#Trigger Syntax - Create a trigger|Trigger Syntax - Create a trigger]]
+
+
+- [[#Triggers|Triggers]]
+			- [[#Triggers are ***PLSQL***  code that is 'triggered' on data manipulation|Triggers are ***PLSQL***  code that is 'triggered' on data manipulation]]
+	- [[#Triggers#PLSQL|PLSQL]]
+		- [[#PLSQL#Trigger Syntax - Create a trigger|Trigger Syntax - Create a trigger]]
+
+
+
+## Triggers
 
 Triggers aid in prohibiting bad database states 
 
@@ -21,6 +33,8 @@ ___
 
 ##### Triggers are ***PLSQL***  code that is 'triggered' on data manipulation
 
+### PLSQL 
+
 ==PLSQL== - Procedure Language SQL   
 		- MySQL with procedure language (PLSQL) can declare variables and flow control ( if/else conditions ) #mysql/keyword #mysql/card 
 		- PLSQL is ***procedure oreinted logic*** while SQL is ***declarative logic***
@@ -31,7 +45,10 @@ ___
 			-  can use sql statements in code
 			- can use flow control
 
-==PLSQL variables== 
+==PLSQL variables== :
+ - type must match MySQL field types
+ - Can only declare onve variable at a time
+ - Variable declarations must be at bginning of PLSQL block
 !!! - Support for triggers varries frequntly
 
 
