@@ -3,13 +3,13 @@ back: [[010 - Programming]]]
 
 
 
-## C
+## PHP
 
 
 
 
 
-## Databases
+## Databases / SQL
 [[Advantages of Using a Database Instead of a Flat File]]
 
 [[Relational Database Concepts]]
