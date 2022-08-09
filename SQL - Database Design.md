@@ -11,6 +11,7 @@ alter TABLE orderLine
 add primary key( orderID, fruitID ), #cannot insert twice
 # if you delete orderID = 24, cascade delete in orderLine
 add CONSTRAINT FOREIGN key (orderID) #referential integrity
+REFERENCES `orders`(orderID)
 on DELETE cascade, 
 # if fruit exists in orderLine, you cannot delete it from fruit
 add CONSTRAINT FOREIGN key (fruitID) REFERENCES
