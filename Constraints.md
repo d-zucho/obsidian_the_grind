@@ -14,6 +14,12 @@ title: Main Concept
  Rules which define the 'allowable' state of database
 ```
 
+EXAMPLE :
+ the type definitions can be considered restraints
+	 - price  decimal(5, 2); limited to 0.00 - 999.99
+
+
+
 ###### What happens when a record/row in a table with a foreign key, when a table with a primary key is changed? #card #mysql/card
 	 One of four things can happen:
 		 1. No Action -- nothing
@@ -25,7 +31,5 @@ title: Main Concept
 
 
 
-
-
-
-
+To add a constraint, use the syntax:
+	- `alter table [tableName] add [...constraint name]`

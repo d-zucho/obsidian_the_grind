@@ -35,7 +35,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Constrints.md",
+            "file": "Constraints.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192
+    "width": 186
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Constrints.md",
+                "file": "Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Constrints.md",
+                "file": "Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Constrints.md"
+                "file": "Constraints.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "f44d01169d4d6b04",
   "lastOpenFiles": [
+    "Constraints.md",
     "SQL - Database Design.md",
     "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
     "010 - Programming/015 - React/015 - React.md",
@@ -204,7 +205,6 @@
     "010 - Programming/017 - Node/017 - Node.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "Spread & Rest Operator.md",
-    "Advantages of Using a Database Instead of a Flat File.md",
-    "010 - Programming/015 - React/Props.md"
+    "Advantages of Using a Database Instead of a Flat File.md"
   ]
 }

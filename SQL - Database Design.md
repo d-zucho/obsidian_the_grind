@@ -28,4 +28,4 @@ For quiz
 
 [[Intro to Triggers|Triggers]] : PLSQL code that is triggered on data manipulation
 
-[[Constrints]] are rules that specify how foreign and primary key tables co-exist during data manipulation.
+[[Constraints]] are rules that specify how foreign and primary key tables co-exist during data manipulation.
