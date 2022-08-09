@@ -42,7 +42,7 @@ ___
 			-  can use sql statements in code
 			- can use flow control
 
-
+[[PLSQL]]
 #### PLSQL Variables
 
 ==PLSQL variables== :
