@@ -20,7 +20,7 @@ EXAMPLE :
 
 
 
-###### What happens when a record/row in a table with a foreign key, when a table with a primary key is changed? #card #mysql/card
+What happens when a record/row in a table with a foreign key, when a table with a primary key is changed? #card #mysql/card
 	 One of four things can happen:
 		 1. No Action -- nothing
 		 2. Restrict -- stops attempted action
@@ -28,8 +28,7 @@ EXAMPLE :
 		 4. Set foreign key to null
 
 
-
-
-
 To add a constraint, use the syntax:
 	- `alter table [tableName] add [...constraint name]`
+
+==Referential Integrity== means  to maintain integrity by making sure the foreign key always references to the primary key
