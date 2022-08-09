@@ -20,4 +20,9 @@ add CONSTRAINT FOREIGN key (fruitID) REFERENCES
 
 ==**cascade delete**== : means that if an item in "parent table" is deleted, any corresponding records/rows will be deleted in the "child table"
 
+```ad-note
+For quiz
+`call fruitShared.desplayAllForeignKeys( database() )`
+```
+
 
