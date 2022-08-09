@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#react",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,

@@ -1,8 +1,29 @@
 ---
 language: mysql
-tags: database-design
+tags: mysql/database-design
 ---
 
 # Intro to Constraints
 
-==Constraints==  are rules that specify how foreign and primary key tables co-exist during data manipulation.
+==Constraints==  are rules that specify how foreign and primary key tables co-exist during data manipulation #mysql/keyword
+
+```ad-info
+title: Main Concept
+ Rules which define the 'allowable' state of database
+```
+
+###### What happens when a record/row in a table with a foreign key, when a table with a primary key is changed?
+	 One of four things can happen:
+		 1. No Action -- nothing
+		 2. Restrict -- stops attempted action
+		 3. Cascade -- delete
+		 4. Set foreign key to null
+
+
+
+
+
+
+
+
+
