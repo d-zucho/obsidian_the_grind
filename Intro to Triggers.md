@@ -74,4 +74,6 @@ on [tableName]
 ```
 
 
-#### 
+#### Cursors
+
+A ==cursor== is an object that helps us enumerate over and process the individual rows returned by a query
