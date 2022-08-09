@@ -31,4 +31,5 @@ What happens when a record/row in a table with a foreign key, when a table with 
 To add a constraint, use the syntax:
 	- `alter table [tableName] add [...constraint name]`
 
-==Referential Integrity== means  to maintain integrity by making sure the foreign key always references to the primary key
+==Referential Integrity== means  to maintain integrity by making sure the foreign key always references to the primary key #mysql/keyword 
+
