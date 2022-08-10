@@ -45,6 +45,5 @@ PL/SQL is a procedural, block-structured langues == is written in blocks of logi
 | 1    | **Declarations** - starts with DECLARE; opetional section and defines all variables, cursors, and other elements                                                                                   |
 | 2    | **Executable Commands** - Mandatory Section; Begins with keywords *Begin* and *End*. Consists of executable PLSQL statements. SHould have at least one executable line; can even be a NULL command |
 | 3    | **Exception Handling** - Section starts with `Exception`. This optional section contains **exceptions**. Section contains exception(s) that handle errors in the program.                          |
-|      |                                                                                                                                                                                                    |
-| 
-|                                                                                                                                                                                                    |
+
+###
