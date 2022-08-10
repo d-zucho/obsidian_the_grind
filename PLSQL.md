@@ -54,26 +54,12 @@ collapse: true
 
 
 ```
-```ad-question
-title: Question
-background: green
-```
 
 
 
 
 
 
-
-\
-
-
-
-
-
-
-
->[!code]
 
 
 
