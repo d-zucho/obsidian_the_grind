@@ -3,6 +3,11 @@ language: mysql, plsql
 tags: mysql, mysql/plsql
 ---
 
+- [[#What is PLSQL|What is PLSQL]]
+- [[#Advantages of PLSQL|Advantages of PLSQL]]
+- [[#Syntax|Syntax]]
+
+
 # PLSQL
 
 ## What is PLSQL
@@ -46,18 +51,11 @@ PL/SQL is a procedural, block-structured langues == is written in blocks of logi
 | 2    | **Executable Commands** - Mandatory Section; Begins with keywords *Begin* and *End*. Consists of executable PLSQL statements. SHould have at least one executable line; can even be a NULL command |
 | 3    | **Exception Handling** - Section starts with `Exception`. This optional section contains **exceptions**. Section contains exception(s) that handle errors in the program.                          |
 
-```ad-note
-title: Cursor Syntax
-collapse: true
-
-
-
-
+```mysql
+DECLARE orderLineRows CURSOR FOR
+select fruitID, quantity from orderLine
+where orderLine.orderID = old.orderID
 ```
-
-
-
-
 
 
 
