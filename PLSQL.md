@@ -52,7 +52,7 @@ PL/SQL is a procedural, block-structured langues == is written in blocks of logi
 | 3    | **Exception Handling** - Section starts with `Exception`. This optional section contains **exceptions**. Section contains exception(s) that handle errors in the program.                          |
 
 ```mysql
-# This code states that if customer tries to order an amount that is greater than
+# This code states that if customer tries to order an amount that is greater than available, change customer order amount to amount available
 
 DECLARE desired int; # desited is what we want to snd to cutomer
 DECLARE orderLineRows CURSOR FOR
@@ -75,7 +75,7 @@ CLOSE orderLineRows
 ```
 
 
-
+/git
 
 
 
