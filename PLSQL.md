@@ -52,9 +52,26 @@ PL/SQL is a procedural, block-structured langues == is written in blocks of logi
 | 3    | **Exception Handling** - Section starts with `Exception`. This optional section contains **exceptions**. Section contains exception(s) that handle errors in the program.                          |
 
 ```mysql
+# This code states that if customer tries to order an amount that is greater than
+
+DECLARE desired int; # desited is what we want to snd to cutomer
 DECLARE orderLineRows CURSOR FOR
 select fruitID, quantity from orderLine
-where orderLine.orderID = old.orderID
+where orderLine.orderID = old.orderID;
+OPEN orderLineRows;
+select FOUND_ROWS() ubti riwCiybt;
+while rowCount > 0 do
+	FETCH orderLineRows into fID, desired;
+	set available = (select ifnull(quantity, 0) from fruitView where fruitID = fID);
+	IF (desired > available) then
+		#remember orderID, fruitID is the primary key for orderLine
+		update orderLine set orderLine.quantity = available
+		where orderLine.orderID = new.orderID and orderLine.fruitID = fID;
+		set desired = available;
+	END IF; call updateInventory( fiD, desired );
+	set rowCount = rowCount - 1;
+END while;
+CLOSE orderLineRows
 ```
 
 
