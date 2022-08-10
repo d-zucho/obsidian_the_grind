@@ -30,31 +30,6 @@ ___
 
 ##### Triggers are ***PLSQL***  code that is 'triggered' on data manipulation
 
-### PLSQL 
-
-==PLSQL== - Procedure Language SQL   
-		- MySQL with procedure language (PLSQL) can declare variables and flow control ( if/else conditions ) #mysql/keyword #mysql/card 
-		- PLSQL is ***procedure oreinted logic*** while SQL is ***declarative logic***
-		- PLSQL ==procedures== are :
-			- accept input
-			- block of code that executes as a group
-			- can declara variables
-			-  can use sql statements in code
-			- can use flow control
-
-[[PLSQL]]
-#### PLSQL Variables
-
-==PLSQL variables== :
- - type must match MySQL field types
- - Can only declare onve variable at a time
- - Variable declarations must be at bginning of PLSQL block
-* Delimeter required when declaring variables
-yout
-
-* Variable with '@' declare "session variables"
-	* New sessions occur on each page load
- 
 
 ```ad-danger
 title: Warning
