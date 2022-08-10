@@ -1,19 +1,5 @@
 {
-  "userAdmonitions": {
-    "question": {
-      "type": "question",
-      "color": "71, 255, 136",
-      "icon": {
-        "name": "question",
-        "type": "font-awesome"
-      },
-      "command": true,
-      "title": "Question",
-      "injectColor": true,
-      "noTitle": false,
-      "copy": false
-    }
-  },
+  "userAdmonitions": {},
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.0.3",
@@ -33,6 +19,6 @@
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": false,
-  "useSnippet": false,
+  "useSnippet": true,
   "snippetPath": "custom-admonitions.03f05e"
 }

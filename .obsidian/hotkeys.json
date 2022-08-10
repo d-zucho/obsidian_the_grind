@@ -34,5 +34,14 @@
       ],
       "key": "T"
     }
+  ],
+  "obsidian-admonition:insert-question-callout": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Q"
+    }
   ]
 }

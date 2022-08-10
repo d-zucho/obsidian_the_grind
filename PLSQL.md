@@ -60,16 +60,12 @@ background: green
 ```
 
 
-```ad-tip
-title: Question
-icon: cloud
-asd
-```
-
->[!qustion]
->
 
 
+
+
+
+\
 
 
 
