@@ -1,5 +1,19 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "question": {
+      "type": "question",
+      "color": "71, 255, 136",
+      "icon": {
+        "name": "question",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "Question",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.0.3",
