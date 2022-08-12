@@ -61,4 +61,5 @@ on fuit.fruitID = inventoryQuantity.fruitID
 WHERE fruit.fruitID IS NULL;
 ```
 
-<mark style="background:#FFFFFF">Helooooo</mark>
+
+ffg
