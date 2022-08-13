@@ -62,4 +62,3 @@ WHERE fruit.fruitID IS NULL;
 ```
 
 
-ffg
