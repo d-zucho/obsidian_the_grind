@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Loading a DataFrame.md",
+            "file": "010 - Programming/Data Hierarchy.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loading a DataFrame.md",
+                "file": "010 - Programming/Data Hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loading a DataFrame.md",
+                "file": "010 - Programming/Data Hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loading a DataFrame.md"
+                "file": "010 - Programming/Data Hierarchy.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "452d39993bae98c0",
   "lastOpenFiles": [
+    "Loading a DataFrame.md",
     "016 - Python/016 - Python.md",
     "Python Variables.md",
     "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
@@ -191,7 +192,6 @@
     "Intro to Triggers.md",
     "PLSQL.md",
     "SQL - Database Design.md",
-    "010 - Programming/010 - Programming.md",
-    "010 - Programming/015 - React/015 - React.md"
+    "010 - Programming/010 - Programming.md"
   ]
 }
