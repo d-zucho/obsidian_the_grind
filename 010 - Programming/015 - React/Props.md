@@ -8,7 +8,7 @@ What are props? #card #react/card
 - Props, simply shortened version of `properties`
 - asdasd
 - asd
-<!--SR:!2022-08-14,1,210-->
+<!--SR:!2022-08-15,1,190-->
 
 
 

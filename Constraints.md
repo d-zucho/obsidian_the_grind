@@ -11,7 +11,7 @@ tags: mysql/database-design
 
 ==Constraints==  are rules that specify how foreign and primary key tables co-exist during data manipulation #mysql/keyword
 	- Mainly deal with the relationship between *foreign key* & *primary key*
-<!--SR:!2022-08-14,1,230-->
+<!--SR:!2022-08-15,1,210-->
 
 
 ```ad-info
