@@ -12,6 +12,7 @@ topics: refresher, syntax
 
 
 The `spread` and `rest` operator both have the same syntax:: `...`
+<!--SR:!2022-08-16,3,250-->
 
 
 The **difference**, is how it is used, which will determine if it is a spread or rest operator.
@@ -20,6 +21,7 @@ The **difference**, is how it is used, which will determine if it is a spread or
 
 When using it  as the ==spread== operator, you end goal is : #card #javascript/card 
 	to pull out elements of a list or properties out of an object and "spread" them out, without having to recode every line and property.
+<!--SR:!2022-08-16,3,250-->
 
 ### When is it Used?
 The spread operator is often used when changing `state` in react. Why? #card  #react/card #javascript/card 
