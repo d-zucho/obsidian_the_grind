@@ -107,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/Data Hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/Data Hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "010 - Programming/Data Hierarchy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,11 +177,11 @@
     "width": 172,
     "collapsed": true
   },
-  "active": "452d39993bae98c0",
+  "active": "f5d84f0650f63763",
   "lastOpenFiles": [
+    "010 - Programming/Data Hierarchy.md",
     "SQL - Database Design.md",
     "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
-    "010 - Programming/Data Hierarchy.md",
     "Loading a DataFrame.md",
     "016 - Python/016 - Python.md",
     "Python Variables.md",

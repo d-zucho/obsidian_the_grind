@@ -3,6 +3,7 @@ area: general
 tags: computer-science
 
 ---
+[[010 - Programming]]/[[016 - Python]]
 source:: [[Intro to Python -for Computer Science and Data Science]]
 # Data Hierarchy
 
