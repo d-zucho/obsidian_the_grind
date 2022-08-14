@@ -9,20 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "016 - Python/016 - Python.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "452d39993bae98c0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "010 - Programming/Data Hierarchy.md",
+            "file": "CS50 - Harvard Intro to CS.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -107,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS50 - Harvard Intro to CS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS50 - Harvard Intro to CS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS50 - Harvard Intro to CS.md"
+              }
             }
           },
           {
@@ -177,17 +168,17 @@
     "width": 172,
     "collapsed": true
   },
-  "active": "f5d84f0650f63763",
+  "active": "c733c0bd3f59e811",
   "lastOpenFiles": [
-    "010 - Programming/Data Hierarchy.md",
+    "000-Index/000-Index.md",
     "SQL - Database Design.md",
+    "016 - Python/016 - Python.md",
+    "010 - Programming/Data Hierarchy.md",
     "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
     "Loading a DataFrame.md",
-    "016 - Python/016 - Python.md",
     "Python Variables.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "Constraints.md",
-    "Intro to Triggers.md",
-    "PLSQL.md"
+    "Intro to Triggers.md"
   ]
 }

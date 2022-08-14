@@ -9,8 +9,14 @@
 [[040 - Design]]
 [[050 - Projects]]
 
-- [ ] Get homework don
-- [ ] 
+______
+
+## Courses
+
+ - [[CS50 - Harvard Intro to CS]]
+ - 
+
+
 
 ## Projects
 
