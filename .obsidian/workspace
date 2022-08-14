@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS50 - Harvard Intro to CS.md",
+            "file": "016 - Python/016 - Python.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50 - Harvard Intro to CS.md",
+                "file": "016 - Python/016 - Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50 - Harvard Intro to CS.md",
+                "file": "016 - Python/016 - Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50 - Harvard Intro to CS.md"
+                "file": "016 - Python/016 - Python.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "c733c0bd3f59e811",
   "lastOpenFiles": [
+    "CS50 - Harvard Intro to CS.md",
     "000-Index/000-Index.md",
     "SQL - Database Design.md",
     "016 - Python/016 - Python.md",
@@ -178,7 +179,6 @@
     "Loading a DataFrame.md",
     "Python Variables.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "Constraints.md",
-    "Intro to Triggers.md"
+    "Constraints.md"
   ]
 }
