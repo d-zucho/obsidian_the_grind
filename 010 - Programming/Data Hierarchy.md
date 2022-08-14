@@ -1,8 +1,9 @@
 ---
 area: general
 tags: computer-science
----
 
+---
+source:: [[Intro to Python -for Computer Science and Data Science]]
 # Data Hierarchy
 
 ![[Pasted image 20220813211221.png]]
@@ -15,3 +16,13 @@ tags: computer-science
 ==characters== - digits, letters and sprcial symbols; these are the computer's character set  used to write programs
 
 ==fields== - just as characters are composed of bits, a ***field*** is composed of griup of characters (or bytes) to combine meaning. 
+
+==record== - a group of related *fields* of information; like a [[SQL - Database Design|SQL]] row
+
+>[!example] 
+>Related fields of information, such as information on an employee
+
+
+
+
+
