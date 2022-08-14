@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000-Index/000-Index.md",
+            "file": "What is Pandas.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -26,7 +26,6 @@
       {
         "id": "fb8dfc1f92895c76",
         "type": "tabs",
-        "dimension": 62.80814576634512,
         "children": [
           {
             "id": "14e3b11cb3981a9e",
@@ -60,21 +59,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "ffbe02624c1acb5b",
-        "type": "tabs",
-        "dimension": 37.19185423365487,
-        "children": [
-          {
-            "id": "f5d84f0650f63763",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-Index/000-Index.md",
+                "file": "What is Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-Index/000-Index.md",
+                "file": "What is Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-Index/000-Index.md"
+                "file": "What is Pandas.md"
               }
             }
           },
@@ -170,15 +154,15 @@
   },
   "active": "5eefd82233f276e7",
   "lastOpenFiles": [
+    "010 - Programming/Data Hierarchy.md",
+    "What is Pandas.md",
+    "016 - Python/016 - Python.md",
+    "000-Index/000-Index.md",
     "020 - Resources/020 - Resources.md",
     "020 - Resources/Untitled.md",
-    "016 - Python/016 - Python.md",
     "CS50 - Harvard Intro to CS.md",
-    "000-Index/000-Index.md",
     "SQL - Database Design.md",
-    "010 - Programming/Data Hierarchy.md",
     "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
-    "Loading a DataFrame.md",
-    "Python Variables.md"
+    "Loading a DataFrame.md"
   ]
 }
