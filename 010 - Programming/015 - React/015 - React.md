@@ -5,14 +5,14 @@ cards-deck: Default
 %% Begin Waypoint %%
 - **[[015 - React]]**
 	- [[015 - React]]
+	- [[Flux]]
 	- [[handleClick To Delete Item in List]]
 	- [[Props]]
 	- [[React Fundamentals]]
 	- [[React State]]
 	- [[Set Form Input as State]]
 	- [[Using Context API]]
-	- [[Flux]]
-	- 
+	- [[VirtualDOM]]
 
 %% End Waypoint %%
 
