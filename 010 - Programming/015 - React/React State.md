@@ -9,6 +9,11 @@ React's state helps make website **interactive**
 
 - It is a structure that ==keeps track of how data changes over time== in your application. 
 
+```ad-important
+When state object changes, the component re-renders
+```
+
+
 ## Purpose 
 
 
@@ -43,3 +48,4 @@ const [day, setDay] = useState('')
 
 
 
+## Local State & Global State
