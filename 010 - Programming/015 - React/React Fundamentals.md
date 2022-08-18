@@ -17,7 +17,7 @@ tags: react/fundamentals
 * What is a component?  #card #react/card
 ?
 `component` : a piece of code that returns / renders a piece of code in `jsx` 
-<!--SR:!2022-08-15,1,150-->
+<!--SR:!2022-08-19,1,130-->
 
 
 - lets try another card as a ==cloze==  #card #react/card 

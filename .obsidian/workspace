@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1b7b0ddb6d14ce4c",
+        "id": "69580dcead76df9f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spread & Rest Operator.md",
+            "file": "060 - Courses/Coursera/How The Internet Works.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spread & Rest Operator.md",
+                "file": "060 - Courses/Coursera/How The Internet Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spread & Rest Operator.md",
+                "file": "060 - Courses/Coursera/How The Internet Works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spread & Rest Operator.md"
+                "file": "060 - Courses/Coursera/How The Internet Works.md"
               }
             }
           },
@@ -152,17 +152,17 @@
     "width": 172,
     "collapsed": true
   },
-  "active": "1b7b0ddb6d14ce4c",
+  "active": "69580dcead76df9f",
   "lastOpenFiles": [
+    "060 - Courses/060 - Courses.md",
+    "000-Index/000-Index.md",
+    "CS50 - Harvard Intro to CS.md",
+    "Spread & Rest Operator.md",
     "ReactJS-Guide.pdf",
     "888 - Assets/Pasted image 20220804094016.png",
     "060 - Courses/Coursera/How The Internet Works.md",
     "030 - Interview Tips/030 - Interview Tips 1.md",
     "030 - Interview Tips/030 - Interview Tips.md",
-    "000-Index/000-Index.md",
-    "060 - Courses/Untitled.md",
-    "050 - Projects/050 - Projects.md",
-    "020 - Resources/020 - Resources.md",
-    "010 - Programming/010 - Programming.md"
+    "060 - Courses/Untitled.md"
   ]
 }

@@ -3,6 +3,7 @@ language: mysql
 tags: mysql/database-design
 ---
 back:: [[SQL - Database Design]]
+<!--SR:!2022-08-19,1,221-->
 
 
 - [[#Referential Integrity|Referential Integrity]]
@@ -13,7 +14,7 @@ back:: [[SQL - Database Design]]
 
 ==Constraints==  are rules that specify how foreign and primary key tables co-exist during data manipulation #mysql/keyword
 	- Mainly deal with the relationship between *foreign key* & *primary key*
-<!--SR:!2022-08-15,1,210-->
+<!--SR:!2022-08-19,1,190-->
 
 
 ```ad-info
@@ -41,7 +42,7 @@ To add a constraint, use the syntax:
 ## Referential Integrity
 
 ==Referential Integrity== means  to maintain integrity by making sure the foreign key always references to the primary key #mysql/keyword #mysql/referencial-integrity
-<!--SR:!2022-08-16,3,250-->
+<!--SR:!2022-08-20,2,230-->
 
 
 ```ad-example
