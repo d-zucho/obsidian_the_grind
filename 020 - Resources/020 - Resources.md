@@ -10,7 +10,6 @@
 	- [[Bloom's and SOLO Taxonomies]]
 	- [[Feyman Technique]]
 	- [[Things To Read]]
-	- [[Untitled]]
 
 %% End Waypoint %%
 
