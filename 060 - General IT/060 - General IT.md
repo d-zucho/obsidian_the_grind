@@ -4,6 +4,7 @@
 %% Begin Waypoint %%
 - **[[060 - General IT]]**
 	- [[060 - General IT]]
+	- [[Cloud Computing]]
 	- [[How The Internet Works]]
 	- [[Network Basics]]
 	- [[Web Hosting]]

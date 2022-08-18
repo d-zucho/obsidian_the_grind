@@ -8,7 +8,8 @@
 [[030 - Interview Tips 1]]
 [[040 - Design]]
 [[050 - Projects]]
-[[060 - Courses]]
+[[060 - General IT]]
+
 
 ______
 

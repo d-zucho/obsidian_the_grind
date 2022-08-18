@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "060 - General IT/Web Hosting.md",
+            "file": "000-Index/000-Index.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -92,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "060 - General IT/Web Hosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "060 - General IT/Web Hosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "060 - General IT/Web Hosting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,17 +161,17 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "8443051f18662c0b",
+  "active": "acb26829df6dadbf",
   "lastOpenFiles": [
+    "000-Index/000-Index.md",
     "060 - General IT/060 - General IT.md",
+    "060 - General IT/Cloud Computing.md",
+    "060 - General IT/Web Hosting.md",
     "060 - General IT/Network Basics.md",
     "060 - General IT/How The Internet Works.md",
     "Advantages of Using a Database Instead of a Flat File.md",
     "060 - General IT/What is a Web Browser.md",
     "060 - General IT/060 - Courses.md",
-    "060 - General IT/Coursera/Coursera.md",
-    "010 - Programming/Data Hierarchy.md",
-    "050 - Projects/050 - Projects.md",
-    "040 - Design/040 - Design.md"
+    "060 - General IT/Coursera/Coursera.md"
   ]
 }
