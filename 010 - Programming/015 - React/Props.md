@@ -14,9 +14,12 @@ What are props? #card #react/card
 <!--SR:!2022-08-15,1,190-->
 
 
+>[!info]
+>Props should be ==immutable== and only travel from ==top down==
 
 
 
 ![[Props_reactBook_img.jpeg]]
+
 
 

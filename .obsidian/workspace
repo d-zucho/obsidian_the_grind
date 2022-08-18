@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/015 - React/React State.md",
+                "file": "010 - Programming/015 - React/Props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/015 - React/React State.md",
+                "file": "010 - Programming/015 - React/Props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/015 - React/React State.md"
+                "file": "010 - Programming/015 - React/Props.md"
               }
             }
           },
@@ -178,10 +178,10 @@
     "width": 172,
     "collapsed": true
   },
-  "active": "17ee0467652a1b7e",
+  "active": "a5538d937ac2dd56",
   "lastOpenFiles": [
-    "010 - Programming/015 - React/Props.md",
     "010 - Programming/015 - React/React Fundamentals.md",
+    "010 - Programming/015 - React/Props.md",
     "010 - Programming/015 - React/React State.md",
     "010 - Programming/015 - React/Set Form Input as State.md",
     "010 - Programming/018 - C/018 - C.md",
