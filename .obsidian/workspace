@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000-Index/000-Index.md",
+            "file": "060 - General IT/Intro to Internet Protocols.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -92,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "060 - General IT/Intro to Internet Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "060 - General IT/Intro to Internet Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "060 - General IT/Intro to Internet Protocols.md"
+              }
             }
           },
           {
@@ -161,17 +165,17 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "acb26829df6dadbf",
+  "active": "8443051f18662c0b",
   "lastOpenFiles": [
+    "060 - General IT/How The Internet Works.md",
+    "060 - General IT/Intro to Internet Protocols.md",
+    "060 - General IT/Network Basics.md",
+    "060 - General IT/Web Hosting.md",
+    "060 - General IT/What is a Web Browser.md",
+    "060 - General IT/Cloud Computing.md",
     "000-Index/000-Index.md",
     "060 - General IT/060 - General IT.md",
-    "060 - General IT/Cloud Computing.md",
-    "060 - General IT/Web Hosting.md",
-    "060 - General IT/Network Basics.md",
-    "060 - General IT/How The Internet Works.md",
     "Advantages of Using a Database Instead of a Flat File.md",
-    "060 - General IT/What is a Web Browser.md",
-    "060 - General IT/060 - Courses.md",
-    "060 - General IT/Coursera/Coursera.md"
+    "060 - General IT/060 - Courses.md"
   ]
 }
