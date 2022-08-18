@@ -21,6 +21,19 @@ cards-deck: Default
 # React
 
 
+
+```ad-summary
+title: Ways To Pass Data To/From Components
+1. Render Props
+2. Context API
+3. React Hooks(useContext API)
+4. React-Redux / Redux
+5. Other state management libraries (i.e. XState, MobX)
+```
+
+
+
+
 [[React State]]
 
 ### handleClick events to Delete Item in Mapped List

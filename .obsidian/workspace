@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e834c01a72e4470a",
+        "id": "511a4cf5e2d77050",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flux.md",
+                "file": "010 - Programming/015 - React/015 - React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flux.md",
+                "file": "010 - Programming/015 - React/015 - React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flux.md"
+                "file": "010 - Programming/015 - React/015 - React.md"
               }
             }
           },
@@ -165,17 +165,17 @@
     "width": 172,
     "collapsed": true
   },
-  "active": "043844d8f13ab4bb",
+  "active": "511a4cf5e2d77050",
   "lastOpenFiles": [
+    "010 - Programming/015 - React/React State.md",
     "010 - Programming/015 - React/015 - React.md",
+    "Flux.md",
     "010 - Programming/015 - React/handleClick To Delete Item in List.md",
     "010 - Programming/015 - React/React Fundamentals.md",
-    "010 - Programming/015 - React/React State.md",
     "010 - Programming/015 - React/Props.md",
     "010 - Programming/015 - React/Set Form Input as State.md",
     "010 - Programming/018 - C/018 - C.md",
     "Constraints.md",
-    "020 - Resources/020 - Resources.md",
-    "010 - Programming/015 - React/Using Context API.md"
+    "020 - Resources/020 - Resources.md"
   ]
 }
