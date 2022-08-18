@@ -24,3 +24,11 @@ tags: react/fundamentals
 <!--SR:!2022-09-16,34,288-->
 
 
+## React Props
+
+![[Props]]
+
+
+## React State
+
+![[React State]]

@@ -7,6 +7,7 @@ back: [[015 - React]]
 
 React's state helps make website **interactive**
 
+- It is a structure that ==keeps track of how data changes over time== in your application. 
 
 ## Purpose 
 
