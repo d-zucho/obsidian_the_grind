@@ -3,8 +3,7 @@
 %% Begin Waypoint %%
 - **[[060 - Courses]]**
 	- [[060 - Courses]]
-	- **Coursera**
-		- [[How The Internet Works]]
+	- **[[Coursera]]**
 
 %% End Waypoint %%
 

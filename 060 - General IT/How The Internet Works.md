@@ -1,6 +1,7 @@
 ---
 type: course
-source: Coursera
+source: coursera
+topic: general-IT
 ---
 
 # How the Web Works
