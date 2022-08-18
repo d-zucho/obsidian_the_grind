@@ -1,4 +1,4 @@
-
+back:: [[014 - PHP & Databases]]
 
 # Advantages of Using a Database Instead of a Flat File
 #review-later 
@@ -10,3 +10,4 @@
 - Provides random access to your data
 - Built-in privilege systems
 - Helps eliminate redundant data
+w

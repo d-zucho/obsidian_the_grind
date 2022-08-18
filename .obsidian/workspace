@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5eefd82233f276e7",
+        "id": "e834c01a72e4470a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "What is Pandas.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "What is Pandas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,17 +143,17 @@
     "width": 172,
     "collapsed": true
   },
-  "active": "5eefd82233f276e7",
+  "active": "e834c01a72e4470a",
   "lastOpenFiles": [
-    "010 - Programming/Data Hierarchy.md",
-    "What is Pandas.md",
-    "016 - Python/016 - Python.md",
-    "000-Index/000-Index.md",
+    "Constraints.md",
     "020 - Resources/020 - Resources.md",
-    "020 - Resources/Untitled.md",
-    "CS50 - Harvard Intro to CS.md",
-    "SQL - Database Design.md",
-    "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
-    "Loading a DataFrame.md"
+    "010 - Programming/015 - React/Using Context API.md",
+    "010 - Programming/015 - React/React State.md",
+    "010 - Programming/015 - React/Props.md",
+    "010 - Programming/015 - React/015 - React.md",
+    "What is Pandas.md",
+    "Spread & Rest Operator.md",
+    "Review Later.md",
+    "Python Variables.md"
   ]
 }

@@ -2,6 +2,8 @@
 language: mysql
 tags: mysql/database-design
 ---
+back:: [[SQL - Database Design]]
+
 
 - [[#Referential Integrity|Referential Integrity]]
 

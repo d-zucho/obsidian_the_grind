@@ -1,6 +1,9 @@
 ---
 topics: refresher, syntax
+language: javascript
 ---
+ back:: [[012 - JavaScript]]
+
 
 # Spread & Rest Operator
 
