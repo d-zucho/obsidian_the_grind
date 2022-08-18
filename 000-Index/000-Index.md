@@ -5,7 +5,7 @@
 [[1 - Personal]]
 [[010 - Programming]]
 [[020 - Resources]]
-[[030 - Interview Tips]]
+[[030 - Interview Tips 1]]
 [[040 - Design]]
 [[050 - Projects]]
 

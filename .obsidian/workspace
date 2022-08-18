@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "72470db5154fa910",
+        "id": "1b7b0ddb6d14ce4c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Spread & Rest Operator.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spread & Rest Operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spread & Rest Operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spread & Rest Operator.md"
+              }
             }
           },
           {
@@ -143,17 +152,17 @@
     "width": 172,
     "collapsed": true
   },
-  "active": "14e3b11cb3981a9e",
+  "active": "1b7b0ddb6d14ce4c",
   "lastOpenFiles": [
-    "050 - Projects.md",
-    "030 - General IT/How The Internet Works.md",
-    "030 - General IT/030 - General IT.md",
-    "020 - Resources/020 - Resources.md",
+    "ReactJS-Guide.pdf",
+    "888 - Assets/Pasted image 20220804094016.png",
+    "060 - Courses/Coursera/How The Internet Works.md",
+    "030 - Interview Tips/030 - Interview Tips 1.md",
+    "030 - Interview Tips/030 - Interview Tips.md",
     "000-Index/000-Index.md",
-    "010 - Programming/010 - Programming.md",
-    "Untitled.md",
-    "010 - Programming/015 - React/015 - React.md",
-    "010 - Programming/015 - React/Flux.md",
-    "010 - Programming/015 - React/handleClick To Delete Item in List.md"
+    "060 - Courses/Untitled.md",
+    "050 - Projects/050 - Projects.md",
+    "020 - Resources/020 - Resources.md",
+    "010 - Programming/010 - Programming.md"
   ]
 }
