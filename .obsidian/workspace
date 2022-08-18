@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "22f630ffaa5b886a",
@@ -149,10 +149,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 172,
-    "collapsed": true
+    "width": 172
   },
-  "active": "69580dcead76df9f",
+  "active": "c40eafaacc03838f",
   "lastOpenFiles": [
     "060 - Courses/060 - Courses.md",
     "000-Index/000-Index.md",

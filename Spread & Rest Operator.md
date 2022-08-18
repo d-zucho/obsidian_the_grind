@@ -3,6 +3,7 @@ topics: refresher, syntax
 language: javascript
 ---
  back:: [[012 - JavaScript]]
+<!--SR:!2022-08-19,1,226-->
 
 
 # Spread & Rest Operator
