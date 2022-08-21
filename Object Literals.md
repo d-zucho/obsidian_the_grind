@@ -3,7 +3,7 @@ language: javascript
 topic: data-types
 ---
 
-# Object - Literaks
+# Object - Literals
 
 
 - Objects are a kind of data type that is made up of properties (or *key-value pairs* ).
