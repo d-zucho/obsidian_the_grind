@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8443051f18662c0b",
+        "id": "db22e76c0176a146",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "020 - Resources/020 - Resources.md",
+            "file": "011 - HTML & CSS/011 - HTML & CSS.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "020 - Resources/020 - Resources.md",
+                "file": "011 - HTML & CSS/011 - HTML & CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "020 - Resources/020 - Resources.md",
+                "file": "011 - HTML & CSS/011 - HTML & CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "020 - Resources/020 - Resources.md"
+                "file": "011 - HTML & CSS/011 - HTML & CSS.md"
               }
             }
           },
@@ -165,17 +165,17 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "8443051f18662c0b",
+  "active": "db22e76c0176a146",
   "lastOpenFiles": [
     "020 - Resources/020 - Resources.md",
+    "030 - Interview Tips/030 - Interview Tips.md",
+    "011 - HTML & CSS/011 - HTML & CSS.md",
+    "010 - Programming/010 - Programming.md",
     "060 - General IT/Intro to Internet Protocols.md",
     "060 - General IT/How The Internet Works.md",
     "060 - General IT/Network Basics.md",
     "060 - General IT/Web Hosting.md",
     "060 - General IT/What is a Web Browser.md",
-    "060 - General IT/Cloud Computing.md",
-    "000-Index/000-Index.md",
-    "060 - General IT/060 - General IT.md",
-    "Advantages of Using a Database Instead of a Flat File.md"
+    "060 - General IT/Cloud Computing.md"
   ]
 }

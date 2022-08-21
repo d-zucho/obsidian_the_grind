@@ -8,7 +8,7 @@ Links:: [[000-Index]]
 ## Languages
 ---
 
-[[011 - HTML]]
+[[011 - HTML & CSS]]
 [[012 - JavaScript]]
 [[013 - CSS]]
 [[014 - PHP & Databases]]

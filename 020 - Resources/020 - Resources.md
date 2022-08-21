@@ -19,4 +19,4 @@
 
 [How to Create a Portfolio Website](https://pagespeedchecklist.com/how-to-create-a-portfolio-website)
 
-
+[Use Lazy Loading on Images!!!!](https://pagespeedchecklist.com/lazy-load-images)
