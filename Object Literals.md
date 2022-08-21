@@ -31,6 +31,12 @@ myObject['name']
 ______
 
 
+```ad-info
+all keys are turned into strings
+```
+
+
+
 
 
 
