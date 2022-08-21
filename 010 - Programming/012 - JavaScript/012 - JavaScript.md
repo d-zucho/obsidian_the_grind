@@ -12,6 +12,8 @@ back: [[010 - Programming]]
 [[Object Literals]]
 [[The 'for...of loop']]
 
+[[Reduce Function]]
+
 ___
 
 #### Loops
