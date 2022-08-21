@@ -19,4 +19,14 @@ Has **2 parameter** :
 [3, 5, 7, 9, 11].reduce((accumulator, currentValue) => {
 	return accumulator + currentValue
 })
+
+// output:  35
 ```
+
+```ad-check
+title: Explanation
+collapse: open
+![[CleanShot 2022-08-21 at 12.47.56.png]]
+
+```
+
