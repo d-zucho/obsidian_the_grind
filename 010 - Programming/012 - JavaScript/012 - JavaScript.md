@@ -11,3 +11,12 @@ back: [[010 - Programming]]
 
 [[Object Literals]]
 [[The 'for...of loop']]
+
+___
+
+#### Loops
+
+###### The for ... of loop
+![[The 'for...of loop']]
+
+---

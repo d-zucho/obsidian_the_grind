@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The 'for...of loop'.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The 'for...of loop'.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The 'for...of loop'.md"
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md"
               }
             }
           },
@@ -178,8 +178,9 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "58871b2688240121",
+  "active": "83a188301640bad6",
   "lastOpenFiles": [
+    "The 'for...of loop'.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "Object Literals.md",
     "010 - Programming/010 - Programming.md",
@@ -188,7 +189,6 @@
     "030 - Interview Tips/030 - Interview Tips.md",
     "060 - General IT/Intro to Internet Protocols.md",
     "060 - General IT/How The Internet Works.md",
-    "060 - General IT/Network Basics.md",
-    "060 - General IT/Web Hosting.md"
+    "060 - General IT/Network Basics.md"
   ]
 }
