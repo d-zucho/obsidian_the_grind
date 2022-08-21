@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "83a188301640bad6",
+        "id": "aabea3a42be91c0c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+            "file": "Reduce Function.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "Reduce Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "Reduce Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md"
+                "file": "Reduce Function.md"
               }
             }
           },
@@ -165,17 +165,17 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "83a188301640bad6",
+  "active": "aabea3a42be91c0c",
   "lastOpenFiles": [
-    "The 'for...of loop'.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "Reduce Function.md",
+    "The 'for...of loop'.md",
     "Object Literals.md",
     "010 - Programming/010 - Programming.md",
     "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "020 - Resources/020 - Resources.md",
     "030 - Interview Tips/030 - Interview Tips.md",
     "060 - General IT/Intro to Internet Protocols.md",
-    "060 - General IT/How The Internet Works.md",
-    "060 - General IT/Network Basics.md"
+    "060 - General IT/How The Internet Works.md"
   ]
 }
