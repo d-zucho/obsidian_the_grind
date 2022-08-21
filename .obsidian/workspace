@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "db22e76c0176a146",
+        "id": "83a188301640bad6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "011 - HTML & CSS/011 - HTML & CSS.md",
+            "file": "Object Literals.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "011 - HTML & CSS/011 - HTML & CSS.md",
+                "file": "Object Literals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "011 - HTML & CSS/011 - HTML & CSS.md",
+                "file": "Object Literals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "011 - HTML & CSS/011 - HTML & CSS.md"
+                "file": "Object Literals.md"
               }
             }
           },
@@ -165,17 +165,17 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "db22e76c0176a146",
+  "active": "83a188301640bad6",
   "lastOpenFiles": [
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "010 - Programming/010 - Programming.md",
+    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "020 - Resources/020 - Resources.md",
     "030 - Interview Tips/030 - Interview Tips.md",
-    "011 - HTML & CSS/011 - HTML & CSS.md",
-    "010 - Programming/010 - Programming.md",
     "060 - General IT/Intro to Internet Protocols.md",
     "060 - General IT/How The Internet Works.md",
     "060 - General IT/Network Basics.md",
     "060 - General IT/Web Hosting.md",
-    "060 - General IT/What is a Web Browser.md",
-    "060 - General IT/Cloud Computing.md"
+    "060 - General IT/What is a Web Browser.md"
   ]
 }
