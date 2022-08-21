@@ -8,4 +8,4 @@ back: [[012 - JavaScript]]
 
  it's a reducer function on each element of the array resulting in a single value.
 
-main goal is to take an array and apply an element  "*reduce*" it down to a signle value
+Main goal is to take an array and apply an element  "*reduce*" it down to a signle value
