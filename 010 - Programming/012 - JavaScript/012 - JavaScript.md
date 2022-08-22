@@ -14,6 +14,9 @@ back: [[010 - Programming]]
 
 [[Reduce Function]]
 
+[[DOM Properties & Methods]]
+
+
 ___
 
 #### Loops

@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reduce Function.md",
+            "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5b479143d30bf1ce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DOM Properties & Methods.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reduce Function.md",
+                "file": "DOM Properties & Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reduce Function.md",
+                "file": "DOM Properties & Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reduce Function.md"
+                "file": "DOM Properties & Methods.md"
               }
             }
           },
@@ -165,7 +178,7 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "aabea3a42be91c0c",
+  "active": "5b479143d30bf1ce",
   "lastOpenFiles": [
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "Reduce Function.md",
