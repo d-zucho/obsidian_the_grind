@@ -3,6 +3,17 @@ back:: [[010 - Programming]]
 
 
 
+%% Begin Waypoint %%
+- **[[011 - HTML & CSS]]**
+	- [[011 - HTML & CSS]]
+	- [[CSS - Aspect-Ratio Property]]
+	- [[Something to test]]
+
+%% End Waypoint %%
+
+
+
+
 #### Check this out later!!!!  
 [==Lazy Loading images== for better performance for websites](https://pagespeedchecklist.com/lazy-load-images)
 
