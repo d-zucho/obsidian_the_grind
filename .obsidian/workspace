@@ -9,20 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "5b479143d30bf1ce",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DOM Properties & Methods.md",
+            "file": "010 - Programming/011 - HTML & CSS/CSS - Aspect-Ratio Property.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -105,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOM Properties & Methods.md",
+                "file": "010 - Programming/011 - HTML & CSS/CSS - Aspect-Ratio Property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOM Properties & Methods.md",
+                "file": "010 - Programming/011 - HTML & CSS/CSS - Aspect-Ratio Property.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOM Properties & Methods.md"
+                "file": "010 - Programming/011 - HTML & CSS/CSS - Aspect-Ratio Property.md"
               }
             }
           },
@@ -178,17 +165,17 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "5b479143d30bf1ce",
+  "active": "aabea3a42be91c0c",
   "lastOpenFiles": [
+    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "DOM Properties & Methods.md",
     "Reduce Function.md",
     "The 'for...of loop'.md",
     "Object Literals.md",
     "010 - Programming/010 - Programming.md",
-    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "020 - Resources/020 - Resources.md",
     "030 - Interview Tips/030 - Interview Tips.md",
-    "060 - General IT/Intro to Internet Protocols.md",
-    "060 - General IT/How The Internet Works.md"
+    "060 - General IT/Intro to Internet Protocols.md"
   ]
 }
