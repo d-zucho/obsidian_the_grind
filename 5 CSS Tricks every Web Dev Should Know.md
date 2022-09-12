@@ -24,7 +24,32 @@ body {
 
 ## Clipping
 
+This makes it possible to put images over certain shapes or specifics on the page:
+
 The html:
 ```html
-div.
+<body>
+	<div classname='bg'>
+		...
+		...
+	</div>
+</body>
 ```
+
+The CSS:
+
+```css
+
+.bg {
+	height: 100%;
+	width: 100%;
+	background-color: rgb( 2, 211, 248);
+	clip-path: polygon(100% 1%, 100% 49%, 49% 99%, 0 99%, 0 0);
+	/* You can find these and generate the code online */
+	```
+
+#### Some resources to get code:
+[Clippy](https://bennettfeely.com/clippy/)
+
+
+![[Pasted image 20220912154818.png]]
