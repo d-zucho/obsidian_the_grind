@@ -53,3 +53,9 @@ The CSS:
 
 
 ![[Pasted image 20220912154818.png]]
+
+
+##### Will look something like :
+![[Pasted image 20220912155658.png]]
+
+(Without the person image!)
