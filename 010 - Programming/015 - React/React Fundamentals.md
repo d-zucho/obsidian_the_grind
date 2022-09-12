@@ -21,14 +21,4 @@ tags: react/fundamentals
 
 
 - lets try another card as a ==cloze==  #card #react/card 
-<!--SR:!2022-09-16,34,288-->
-
-
-## React Props
-
-![[Props]]
-
-
-## React State
-
-![[React State]]
+<!--SR:!2022-08-19,1,130-->

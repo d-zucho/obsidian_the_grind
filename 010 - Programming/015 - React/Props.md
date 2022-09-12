@@ -16,11 +16,4 @@ What are props? #card #react/card
 
 >[!info]
 >Props should be ==immutable== and only travel from ==top down==
-<!--SR:!2022-08-19,1,222!2022-08-19,1,222-->
-
-
-
-![[Props_reactBook_img.jpeg]]
-
-
-
+<!--SR:!2022-08-19,1,170!2022-08-19,1,222-->
