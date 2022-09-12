@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9936f28a4c3e25c1",
+        "id": "aa910e2bc9e34906",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f2383cd9812d23c3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TailwindCSS.md",
+            "file": "5 CSS Tricks every Web Dev Should Know.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -72,24 +59,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "64eb775c26526fdb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "acb26829df6dadbf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 186
+    "width": 359
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -105,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TailwindCSS.md",
+                "file": "5 CSS Tricks every Web Dev Should Know.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TailwindCSS.md",
+                "file": "5 CSS Tricks every Web Dev Should Know.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TailwindCSS.md"
+                "file": "5 CSS Tricks every Web Dev Should Know.md"
               }
             }
           },
@@ -178,17 +151,17 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "f2383cd9812d23c3",
+  "active": "aa910e2bc9e34906",
   "lastOpenFiles": [
-    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
-    "Hosting React Application to Deployment.md",
     "010 - Programming/010 - Programming.md",
-    "010 - Programming/011 - HTML & CSS/CSS - Aspect-Ratio Property.md",
-    "020 - Resources/020 - Resources.md",
-    "010 - Programming/011 - HTML & CSS/Something to test.md",
+    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
+    "CSS clamp().md",
+    "Constraints.md",
+    "Reduce Function.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "DOM Properties & Methods.md",
-    "Reduce Function.md",
-    "The 'for...of loop'.md"
+    "TailwindCSS.md",
+    "Hosting React Application to Deployment.md",
+    "010 - Programming/011 - HTML & CSS/CSS - Aspect-Ratio Property.md"
   ]
 }
