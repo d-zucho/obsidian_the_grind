@@ -20,4 +20,9 @@
 	- safety measures
 	- routine checklist
 	- mental health checklist of some kind
-	- s
+	- some questions to ask to certain people
+- Digital Planner
+- Lightroom Presets
+- System-Based Templates
+	- Clickup templates
+	- excel, google sheets, trello, notion, etc
