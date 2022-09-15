@@ -7,7 +7,9 @@
 - **[[020 - Resources]]**
 	- [[020 - Resources]]
 	- [[20 Rules of Knowledge Formulation]]
+	- [[Apps for Content Creation]]
 	- [[Bloom's and SOLO Taxonomies]]
+	- [[Digital Product Ideas]]
 	- [[Feyman Technique]]
 	- [[Things To Read]]
 
