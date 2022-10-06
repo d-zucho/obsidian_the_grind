@@ -12,7 +12,8 @@
 	- [[Digital Product Ideas]]
 	- [[Feyman Technique]]
 	- [[Things To Read]]
-	- [[Procreate ]]
+	- [[Procreate Tips]]
+	
 
 %% End Waypoint %%
 
