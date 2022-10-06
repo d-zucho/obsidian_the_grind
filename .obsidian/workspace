@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "020 - Resources/Digital Product Ideas.md",
+            "file": "020 - Resources/020 - Resources.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "020 - Resources/Digital Product Ideas.md",
+                "file": "020 - Resources/020 - Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "020 - Resources/Digital Product Ideas.md",
+                "file": "020 - Resources/020 - Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "020 - Resources/Digital Product Ideas.md"
+                "file": "020 - Resources/020 - Resources.md"
               }
             }
           },
@@ -152,17 +151,17 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "8e1033b3f0016fa8",
+  "active": "aa910e2bc9e34906",
   "lastOpenFiles": [
+    "010 - Programming/011 - HTML & CSS/CSS - Aspect-Ratio Property.md",
+    "010 - Programming/010 - Programming.md",
+    "020 - Resources/Digital Product Ideas.md",
     "020 - Resources/Apps for Content Creation.md",
     "020 - Resources/020 - Resources.md",
     "5 CSS Tricks every Web Dev Should Know.md",
-    "010 - Programming/010 - Programming.md",
     "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "CSS clamp().md",
     "Constraints.md",
-    "Reduce Function.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "DOM Properties & Methods.md"
+    "Reduce Function.md"
   ]
 }
