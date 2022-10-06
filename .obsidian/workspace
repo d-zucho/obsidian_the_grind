@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#react",
+                "query": "font",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,7 +152,7 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "aa910e2bc9e34906",
+  "active": "8e1033b3f0016fa8",
   "lastOpenFiles": [
     "020 - Resources/Apps for Content Creation.md",
     "020 - Resources/020 - Resources.md",
