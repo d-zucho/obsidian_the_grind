@@ -3,6 +3,8 @@
 # Some Ideas
 
 - workbooks
+- Themes:
+	- wedding / bridal
 - Document template
 	- salespage templates
 	- grant templates
