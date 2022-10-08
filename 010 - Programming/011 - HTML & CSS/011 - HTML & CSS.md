@@ -8,6 +8,7 @@ back:: [[010 - Programming]]
 	- [[011 - HTML & CSS]]
 	- [[CSS - Aspect-Ratio Property]]
 	- [[Something to test]]
+	- [[5 Simple Tips to Help Responsive Design]]
 
 %% End Waypoint %%
 
