@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
+            "file": "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Simple Tips to Help Responsive Design.md",
+                "file": "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Simple Tips to Help Responsive Design.md",
+                "file": "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Simple Tips to Help Responsive Design.md"
+                "file": "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md"
               }
             }
           },
@@ -164,17 +164,17 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "495e3c01d9386fba",
+  "active": "aa910e2bc9e34906",
   "lastOpenFiles": [
     "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
+    "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
+    "5 Simple Tips to Help Responsive Design.md",
     "Procreate Tips.md",
     "020 - Resources/020 - Resources.md",
     "000-Index/000-Index.md",
     "010 - Programming/011 - HTML & CSS/CSS - Aspect-Ratio Property.md",
     "010 - Programming/010 - Programming.md",
     "020 - Resources/Digital Product Ideas.md",
-    "020 - Resources/Apps for Content Creation.md",
-    "5 CSS Tricks every Web Dev Should Know.md",
-    "CSS clamp().md"
+    "020 - Resources/Apps for Content Creation.md"
   ]
 }
