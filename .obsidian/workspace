@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aa910e2bc9e34906",
+        "id": "b3234f3835f5bbef",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "495e3c01d9386fba",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "5 Simple Tips to Help Responsive Design.md",
+            "file": "010 - Programming/012 - JavaScript/Sanity.io.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "font",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
+                "file": "010 - Programming/012 - JavaScript/Sanity.io.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
+                "file": "010 - Programming/012 - JavaScript/Sanity.io.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md"
+                "file": "010 - Programming/012 - JavaScript/Sanity.io.md"
               }
             }
           },
@@ -164,17 +151,17 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "aa910e2bc9e34906",
+  "active": "b3234f3835f5bbef",
   "lastOpenFiles": [
-    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
-    "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "Sanity.io.md",
+    "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
+    "010 - Programming/012 - JavaScript/Sanity.io.md",
     "5 Simple Tips to Help Responsive Design.md",
+    "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
+    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "Procreate Tips.md",
     "020 - Resources/020 - Resources.md",
-    "000-Index/000-Index.md",
-    "010 - Programming/011 - HTML & CSS/CSS - Aspect-Ratio Property.md",
-    "010 - Programming/010 - Programming.md",
-    "020 - Resources/Digital Product Ideas.md",
-    "020 - Resources/Apps for Content Creation.md"
+    "000-Index/000-Index.md"
   ]
 }

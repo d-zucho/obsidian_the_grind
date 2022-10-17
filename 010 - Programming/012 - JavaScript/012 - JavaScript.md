@@ -3,6 +3,16 @@ back: [[010 - Programming]]
 
 # JavaScript
 
+%% Begin Waypoint %%
+- **[[012 - JavaScript]]**
+	- [[012 - JavaScript]]
+	- [[Sanity.io]]
+
+%% End Waypoint %%
+
+
+
+
 
 ## Refresher
 ---
