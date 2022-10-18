@@ -7,6 +7,7 @@ back:: [[010 - Programming]]
 - **[[011 - HTML & CSS]]**
 	- [[011 - HTML & CSS]]
 	- [[CSS - Aspect-Ratio Property]]
+	- [[Fluid Typography CSS]]
 	- [[Something to test]]
 	- [[UI Libraries - How to Pick the Best One]]
 

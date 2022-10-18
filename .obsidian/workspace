@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "010 - Programming/012 - JavaScript/Sanity.io.md",
+            "file": "010 - Programming/011 - HTML & CSS/Fluid Typography CSS.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Sanity.io.md",
+                "file": "010 - Programming/011 - HTML & CSS/Fluid Typography CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Sanity.io.md",
+                "file": "010 - Programming/011 - HTML & CSS/Fluid Typography CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Sanity.io.md"
+                "file": "010 - Programming/011 - HTML & CSS/Fluid Typography CSS.md"
               }
             }
           },
@@ -153,13 +153,13 @@
   },
   "active": "b3234f3835f5bbef",
   "lastOpenFiles": [
+    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
+    "010 - Programming/012 - JavaScript/Sanity.io.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "Sanity.io.md",
     "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
-    "010 - Programming/012 - JavaScript/Sanity.io.md",
     "5 Simple Tips to Help Responsive Design.md",
     "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
-    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "Procreate Tips.md",
     "020 - Resources/020 - Resources.md",
     "000-Index/000-Index.md"
