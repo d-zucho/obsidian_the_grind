@@ -9,6 +9,7 @@ cards-deck: Default
 	- [[handleClick To Delete Item in List]]
 	- [[Props]]
 	- [[React Fundamentals]]
+	- [[React Refs]]
 	- [[React State]]
 	- [[Set Form Input as State]]
 	- [[Using Context API]]
