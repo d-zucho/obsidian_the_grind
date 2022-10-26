@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "acb210690c5ed8c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 - Programming/015 - React/Redux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/015 - React/React Refs.md",
+                "file": "010 - Programming/015 - React/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/015 - React/React Refs.md",
+                "file": "010 - Programming/015 - React/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/015 - React/React Refs.md"
+                "file": "010 - Programming/015 - React/Redux.md"
               }
             }
           },
@@ -176,8 +189,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "157c5d87bba421dc",
+  "active": "acb210690c5ed8c2",
   "lastOpenFiles": [
+    "010 - Programming/015 - React/React Refs.md",
     "010 - Programming/015 - React/015 - React.md",
     "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "010 - Programming/011 - HTML & CSS/Fluid Typography CSS.md",
@@ -186,7 +200,6 @@
     "Sanity.io.md",
     "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
     "5 Simple Tips to Help Responsive Design.md",
-    "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
-    "Procreate Tips.md"
+    "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md"
   ]
 }

@@ -11,6 +11,7 @@ cards-deck: Default
 	- [[React Fundamentals]]
 	- [[React Refs]]
 	- [[React State]]
+	- [[Redux]]
 	- [[Set Form Input as State]]
 	- [[Using Context API]]
 	- [[VirtualDOM]]
