@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "e934080aa764b282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Aritcle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "783efc044b91398d",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,17 +207,17 @@
     "direction": "horizontal",
     "width": 297.5
   },
-  "active": "acf6f05084241a4b",
+  "active": "e934080aa764b282",
   "lastOpenFiles": [
+    "templates/Daily Note.md",
+    "templates/Aritcle.md",
     "010 - Programming/011 - HTML & CSS/HTML-CSS-Read Later.md",
     "010 - Programming/010 - Programming.md",
-    "templates/Aritcle.md",
     "Javascript - The Advanced Parts.md",
     "TailwindCSS.md",
     "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "010 - Programming/011 - HTML & CSS/Read Later - Articles.md",
     "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
-    "010 - Programming/011 - HTML & CSS/Something to test.md",
-    "010 - Programming/011 - HTML & CSS/HTML-CSS-Read Later/HTML-CSS-Read Later.md"
+    "010 - Programming/011 - HTML & CSS/Something to test.md"
   ]
 }

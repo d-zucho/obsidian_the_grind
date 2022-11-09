@@ -7,13 +7,13 @@
   "outgoing-link",
   "tag-pane",
   "page-preview",
+  "daily-notes",
   "note-composer",
   "command-palette",
   "slash-command",
   "editor-status",
   "starred",
   "outline",
-  "word-count",
   "file-recovery",
   "sync"
 ]

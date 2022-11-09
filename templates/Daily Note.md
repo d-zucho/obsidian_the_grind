@@ -1,0 +1,5 @@
+---
+type: dailyNote
+date: <%
+
+---
