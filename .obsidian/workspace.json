@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/010 - Programming.md",
+                "file": "Javascript - The Advanced Parts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5709baa7919d28f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/010 - Programming.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/010 - Programming.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/010 - Programming.md"
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md"
               }
             }
           },
@@ -159,17 +173,17 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "b7a27288f7079582",
+  "active": "5709baa7919d28f6",
   "lastOpenFiles": [
+    "Javascript - The Advanced Parts.md",
+    "Constraints.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "010 - Programming/016 - Python/016 - Python.md",
     "010 - Programming/010 - Programming.md",
     "000-Index/000-Index.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "010 - Programming/015 - React/015 - React.md",
     "040 - Design/040 - Design.md",
     "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
-    "010 - Programming/015 - React/React Refs.md",
-    "010 - Programming/015 - React/Redux.md",
-    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md"
+    "010 - Programming/015 - React/React Refs.md"
   ]
 }

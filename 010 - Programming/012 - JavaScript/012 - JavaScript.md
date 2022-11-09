@@ -13,6 +13,21 @@ back: [[010 - Programming]]
 
 
 
+## Classes
+
+```dataview
+table type as "Class", teacher as "Teacher"
+where type = "class" AND language = "javascript"
+
+```
+
+
+
+
+
+
+
+
 
 ## Refresher
 ---
