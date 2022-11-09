@@ -17,5 +17,7 @@
   "obsidian-plugin-toc",
   "obsidian-spaced-repetition",
   "todoist-sync-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-minimal-settings",
+  "obsidian-contextual-typography"
 ]
