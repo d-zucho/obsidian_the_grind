@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4b46bf7ddf7f75c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,10 +183,7 @@
     "direction": "horizontal",
     "width": 172
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "157c5d87bba421dc",
+  "active": "f4b46bf7ddf7f75c",
   "lastOpenFiles": [
     "010 - Programming/015 - React/Redux.md",
     "010 - Programming/015 - React/React Refs.md",
