@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "010 - Programming/015 - React/React Fundamentals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "010 - Programming/015 - React/React Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "010 - Programming/015 - React/React Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md"
+                "file": "010 - Programming/015 - React/React Fundamentals.md"
               }
             }
           },
@@ -175,15 +175,15 @@
   },
   "active": "5709baa7919d28f6",
   "lastOpenFiles": [
-    "Javascript - The Advanced Parts.md",
-    "Constraints.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "010 - Programming/016 - Python/016 - Python.md",
-    "010 - Programming/010 - Programming.md",
-    "000-Index/000-Index.md",
+    "010 - Programming/015 - React/handleClick To Delete Item in List.md",
+    "010 - Programming/015 - React/Flux.md",
     "010 - Programming/015 - React/015 - React.md",
-    "040 - Design/040 - Design.md",
+    "010 - Programming/015 - React/React State.md",
+    "010 - Programming/015 - React/Props.md",
     "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
-    "010 - Programming/015 - React/React Refs.md"
+    "010 - Programming/015 - React/Set Form Input as State.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "Javascript - The Advanced Parts.md",
+    "Constraints.md"
   ]
 }

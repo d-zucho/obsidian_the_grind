@@ -1,6 +1,7 @@
 ---
 course: js-mastery
 tags: react/fundamentals
+language: react
 ---
 
 # React Fundamentals
