@@ -19866,7 +19866,9 @@ var IsomorphicGit = class extends GitManager {
         ...this.getRepo(),
         ref: branchInfo.current,
         onProgress: (progress) => {
-          progressNotice.noticeEl.innerText = this.getProgressText("Checkout", progress);
+          if (progressNotice !== void 0) {
+            progressNotice.noticeEl.innerText = this.getProgressText("Checkout", progress);
+          }
         },
         remote: branchInfo.remote
       }));
@@ -19905,7 +19907,9 @@ var IsomorphicGit = class extends GitManager {
       await this.wrapFS(isomorphic_git_default.push({
         ...this.getRepo(),
         onProgress: (progress) => {
-          progressNotice.noticeEl.innerText = this.getProgressText("Pushing", progress);
+          if (progressNotice !== void 0) {
+            progressNotice.noticeEl.innerText = this.getProgressText("Pushing", progress);
+          }
         }
       }));
       progressNotice == null ? void 0 : progressNotice.hide();
@@ -19999,7 +20003,9 @@ var IsomorphicGit = class extends GitManager {
         dir,
         url,
         onProgress: (progress) => {
-          progressNotice.noticeEl.innerText = this.getProgressText("Cloning", progress);
+          if (progressNotice !== void 0) {
+            progressNotice.noticeEl.innerText = this.getProgressText("Cloning", progress);
+          }
         }
       }));
       progressNotice == null ? void 0 : progressNotice.hide();
@@ -20038,7 +20044,9 @@ var IsomorphicGit = class extends GitManager {
       const args = {
         ...this.getRepo(),
         onProgress: (progress) => {
-          progressNotice.noticeEl.innerText = this.getProgressText("Fetching", progress);
+          if (progressNotice !== void 0) {
+            progressNotice.noticeEl.innerText = this.getProgressText("Fetching", progress);
+          }
         },
         remote: remote != null ? remote : await this.getCurrentRemote()
       };
@@ -20052,7 +20060,7 @@ var IsomorphicGit = class extends GitManager {
   }
   async setRemote(name, url) {
     try {
-      await this.wrapFS(isomorphic_git_default.addRemote({ ...this.getRepo(), remote: name, url }));
+      await this.wrapFS(isomorphic_git_default.addRemote({ ...this.getRepo(), remote: name, url, force: true }));
     } catch (error) {
       this.plugin.displayError(error);
       throw error;
@@ -24092,6 +24100,8 @@ var SimpleGit = class extends GitManager {
         const path3 = process.env["PATH"] + ":" + env.join(":");
         process.env["PATH"] = path3;
       }
+      const debug2 = require_browser();
+      debug2.enable("simple-git");
       await this.git.cwd(await this.git.revparse("--show-toplevel"));
     }
   }
@@ -24334,10 +24344,14 @@ var SimpleGit = class extends GitManager {
     await this.git.clone(url, path.join(this.app.vault.adapter.getBasePath(), dir), [], (err) => this.onError(err));
   }
   async setConfig(path2, value) {
-    await this.git.addConfig(path2, value, (err) => this.onError(err));
+    if (value == void 0) {
+      await this.git.raw(["config", "--local", "--unset", path2]);
+    } else {
+      await this.git.addConfig(path2, value, (err) => this.onError(err));
+    }
   }
   async getConfig(path2) {
-    const config = await this.git.listConfig((err) => this.onError(err));
+    const config = await this.git.listConfig("local", (err) => this.onError(err));
     return config.all[path2];
   }
   async fetch(remote) {
@@ -24598,6 +24612,43 @@ var ObsidianGitSettingsTab = class extends import_obsidian7.PluginSettingTab {
       plugin.saveSettings();
     }));
     containerEl.createEl("br");
+    if (plugin.gitManager instanceof IsomorphicGit) {
+      containerEl.createEl("h3", { text: "Authentication/Commit Author" });
+    } else {
+      containerEl.createEl("h3", { text: "Commit Author" });
+    }
+    if (plugin.gitManager instanceof IsomorphicGit)
+      new import_obsidian7.Setting(containerEl).setName("Username on your git server. E.g. your username on GitHub").addText((cb) => {
+        var _a2;
+        cb.setValue((_a2 = plugin.localStorage.getUsername()) != null ? _a2 : "");
+        cb.onChange((value) => {
+          plugin.localStorage.setUsername(value);
+        });
+      });
+    if (plugin.gitManager instanceof IsomorphicGit)
+      new import_obsidian7.Setting(containerEl).setName("Password/Personal access token").setDesc("Type in your password. You won't be able to see it again.").addText((cb) => {
+        cb.inputEl.autocapitalize = "off";
+        cb.inputEl.autocomplete = "off";
+        cb.inputEl.spellcheck = false;
+        cb.onChange((value) => {
+          plugin.localStorage.setPassword(value);
+        });
+      });
+    if (gitReady)
+      new import_obsidian7.Setting(containerEl).setName("Author name for commit").addText(async (cb) => {
+        cb.setValue(await plugin.gitManager.getConfig("user.name"));
+        cb.onChange((value) => {
+          plugin.gitManager.setConfig("user.name", value == "" ? void 0 : value);
+        });
+      });
+    if (gitReady)
+      new import_obsidian7.Setting(containerEl).setName("Author email for commit").addText(async (cb) => {
+        cb.setValue(await plugin.gitManager.getConfig("user.email"));
+        cb.onChange((value) => {
+          plugin.gitManager.setConfig("user.email", value == "" ? void 0 : value);
+        });
+      });
+    containerEl.createEl("br");
     containerEl.createEl("h3", { text: "Advanced" });
     if (plugin.gitManager instanceof SimpleGit)
       new import_obsidian7.Setting(containerEl).setName("Update submodules").setDesc('"Create backup" and "pull" takes care of submodules. Missing features: Conflicted files, count of pulled/pushed/committed files. Tracking branch needs to be set for each submodule').addToggle((toggle) => toggle.setValue(plugin.settings.updateSubmodules).onChange((value) => {
@@ -24627,37 +24678,6 @@ var ObsidianGitSettingsTab = class extends import_obsidian7.PluginSettingTab {
         cb.setCta();
         cb.onClick(() => {
           plugin.gitManager.setGitInstance();
-        });
-      });
-    if (plugin.gitManager instanceof IsomorphicGit)
-      new import_obsidian7.Setting(containerEl).setName("Username on your git server. E.g. your username on GitHub").addText((cb) => {
-        var _a2;
-        cb.setValue((_a2 = plugin.localStorage.getUsername()) != null ? _a2 : "");
-        cb.onChange((value) => {
-          plugin.localStorage.setUsername(value);
-        });
-      });
-    if (plugin.gitManager instanceof IsomorphicGit)
-      new import_obsidian7.Setting(containerEl).setName("Password/Personal access token").setDesc("Type in your password. You won't be able to see it again.").addText((cb) => {
-        cb.inputEl.autocapitalize = "off";
-        cb.inputEl.autocomplete = "off";
-        cb.inputEl.spellcheck = false;
-        cb.onChange((value) => {
-          plugin.localStorage.setPassword(value);
-        });
-      });
-    if (gitReady)
-      new import_obsidian7.Setting(containerEl).setName("Author name for commit").addText(async (cb) => {
-        cb.setValue(await plugin.gitManager.getConfig("user.name"));
-        cb.onChange((value) => {
-          plugin.gitManager.setConfig("user.name", value);
-        });
-      });
-    if (gitReady)
-      new import_obsidian7.Setting(containerEl).setName("Author email for commit").addText(async (cb) => {
-        cb.setValue(await plugin.gitManager.getConfig("user.email"));
-        cb.onChange((value) => {
-          plugin.gitManager.setConfig("user.email", value);
         });
       });
     new import_obsidian7.Setting(containerEl).setName("Custom base path (Git repository path)").setDesc(`
