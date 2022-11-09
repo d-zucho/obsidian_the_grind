@@ -26,25 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/015 - React/React Refs.md",
+                "file": "010 - Programming/010 - Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "f4b46bf7ddf7f75c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 406
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -110,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/015 - React/React Refs.md",
+                "file": "010 - Programming/010 - Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/015 - React/React Refs.md",
+                "file": "010 - Programming/010 - Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/015 - React/React Refs.md"
+                "file": "010 - Programming/010 - Programming.md"
               }
             }
           },
@@ -183,17 +173,17 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "f4b46bf7ddf7f75c",
+  "active": "157c5d87bba421dc",
   "lastOpenFiles": [
-    "010 - Programming/015 - React/Redux.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "040 - Design/040 - Design.md",
+    "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
+    "010 - Programming/010 - Programming.md",
+    "000-Index/000-Index.md",
     "010 - Programming/015 - React/React Refs.md",
+    "010 - Programming/015 - React/Redux.md",
     "010 - Programming/015 - React/015 - React.md",
     "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
-    "010 - Programming/011 - HTML & CSS/Fluid Typography CSS.md",
-    "010 - Programming/012 - JavaScript/Sanity.io.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "Sanity.io.md",
-    "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
-    "5 Simple Tips to Help Responsive Design.md"
+    "010 - Programming/011 - HTML & CSS/Fluid Typography CSS.md"
   ]
 }

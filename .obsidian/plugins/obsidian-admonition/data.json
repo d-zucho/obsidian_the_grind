@@ -14,7 +14,7 @@
       "copy": false
     }
   },
-  "syntaxHighlight": false,
+  "syntaxHighlight": true,
   "copyButton": false,
   "version": "9.0.3",
   "autoCollapse": false,
