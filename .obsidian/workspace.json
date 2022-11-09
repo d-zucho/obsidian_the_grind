@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "b6c8f4e5a746ea9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Project Note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "783efc044b91398d",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Aritcle.md",
+                "file": "templates/Project Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Aritcle.md",
+                "file": "templates/Project Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Aritcle.md"
+                "file": "templates/Project Note.md"
               }
             }
           },
@@ -207,10 +220,10 @@
     "direction": "horizontal",
     "width": 297.5
   },
-  "active": "e934080aa764b282",
+  "active": "b6c8f4e5a746ea9a",
   "lastOpenFiles": [
-    "templates/Daily Note.md",
     "templates/Aritcle.md",
+    "templates/Daily Note.md",
     "010 - Programming/011 - HTML & CSS/HTML-CSS-Read Later.md",
     "010 - Programming/010 - Programming.md",
     "Javascript - The Advanced Parts.md",
