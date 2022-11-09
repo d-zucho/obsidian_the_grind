@@ -20,9 +20,12 @@ cards-deck: Default
 
 
 ```dataview
-list
+TABLE
 where language = "react"
+Created = file.cdate
 ```
+
+
 
 
 
