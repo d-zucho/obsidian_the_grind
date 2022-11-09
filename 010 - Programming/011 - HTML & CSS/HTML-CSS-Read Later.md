@@ -12,8 +12,10 @@ topic: readLater
 
 ```dataview
 TABLE 
+from- 011 - HTML & CSS
 file.link as "Name", topic as "Topic"
-where topic = html or css
+where topic = "HTML/CSS"
+where lin
 ```
 
 
