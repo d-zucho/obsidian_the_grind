@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "81a97c0520170cde",
+        "id": "c5c85468debbce16",
         "type": "tabs",
         "children": [
           {
-            "id": "b3234f3835f5bbef",
+            "id": "b7a27288f7079582",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/015 - React/015 - React.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "157c5d87bba421dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010 - Programming/010 - Programming.md",
+                "file": "010 - Programming/016 - Python/016 - Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/010 - Programming.md",
+                "file": "010 - Programming/016 - Python/016 - Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/010 - Programming.md",
+                "file": "010 - Programming/016 - Python/016 - Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/010 - Programming.md"
+                "file": "010 - Programming/016 - Python/016 - Python.md"
               }
             }
           },
@@ -150,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "22f630ffaa5b886a",
@@ -173,17 +159,17 @@
     "direction": "horizontal",
     "width": 172
   },
-  "active": "157c5d87bba421dc",
+  "active": "d7be1ab6c52833b4",
   "lastOpenFiles": [
+    "010 - Programming/010 - Programming.md",
+    "010 - Programming/016 - Python/016 - Python.md",
+    "010 - Programming/015 - React/015 - React.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "040 - Design/040 - Design.md",
     "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
-    "010 - Programming/010 - Programming.md",
     "000-Index/000-Index.md",
     "010 - Programming/015 - React/React Refs.md",
     "010 - Programming/015 - React/Redux.md",
-    "010 - Programming/015 - React/015 - React.md",
-    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
-    "010 - Programming/011 - HTML & CSS/Fluid Typography CSS.md"
+    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md"
   ]
 }
