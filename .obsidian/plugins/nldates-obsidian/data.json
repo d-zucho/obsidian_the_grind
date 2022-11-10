@@ -2,7 +2,7 @@
   "autosuggestToggleLink": true,
   "autocompleteTriggerPhrase": "@",
   "isAutosuggestEnabled": true,
-  "format": "Do/MMMM",
+  "format": "Do/MMMM/YYYY",
   "timeFormat": "HH:mm",
   "separator": " ",
   "weekStart": "locale-default",
