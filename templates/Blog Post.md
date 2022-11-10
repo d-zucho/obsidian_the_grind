@@ -6,7 +6,7 @@ lastModified: Nov-9th-2022
 status: incomplete
 ---
 
-back:: [[§Index-templates]]
+back:: [[<% tp.file.folder() %>]]
 
 
 # {{ title }}
