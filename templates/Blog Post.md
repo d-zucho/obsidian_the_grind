@@ -1,10 +1,13 @@
 ---
 type: blogPost
 topic: <% tp.file.cursor() %>
-date: <% tp.file.creation_date('MMM-Do-YYYY') %>
-lastModified: <% tp.file.last_modified_date('MMM-Do-YYYY') %>
+date: Nov-9th-2022
+lastModified: Nov-9th-2022
 status: incomplete
 ---
+
+back:: [[§Index-templates]]
+
 
 # {{ title }}
 
