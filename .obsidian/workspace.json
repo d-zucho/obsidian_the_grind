@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7a27288f7079582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript - The Advanced Parts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "acf6f05084241a4b",
             "type": "leaf",
             "state": {
@@ -52,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Project Note.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "783efc044b91398d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010 - Programming/011 - HTML & CSS/HTML-CSS-Read Later.md",
+                "file": "5 CSS Tricks every Web Dev Should Know.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "5 CSS Tricks every Web Dev Should Know.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "5 CSS Tricks every Web Dev Should Know.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Project Note.md"
+                "file": "5 CSS Tricks every Web Dev Should Know.md"
               }
             }
           },
@@ -222,15 +196,15 @@
   },
   "active": "b6c8f4e5a746ea9a",
   "lastOpenFiles": [
-    "templates/Aritcle.md",
-    "templates/Daily Note.md",
     "010 - Programming/011 - HTML & CSS/HTML-CSS-Read Later.md",
-    "010 - Programming/010 - Programming.md",
+    "templates/Aritcle.md",
     "Javascript - The Advanced Parts.md",
+    "5 CSS Tricks every Web Dev Should Know.md",
+    "templates/Project Note.md",
+    "templates/Daily Note.md",
+    "010 - Programming/010 - Programming.md",
     "TailwindCSS.md",
     "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
-    "010 - Programming/011 - HTML & CSS/Read Later - Articles.md",
-    "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
-    "010 - Programming/011 - HTML & CSS/Something to test.md"
+    "010 - Programming/011 - HTML & CSS/Read Later - Articles.md"
   ]
 }

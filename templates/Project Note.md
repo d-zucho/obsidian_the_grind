@@ -2,6 +2,7 @@
 
 tags: project
 status: inProcess
+dateCreated: tp.file.creation_date('MM/DD/YYYY')
 ---
 
 
