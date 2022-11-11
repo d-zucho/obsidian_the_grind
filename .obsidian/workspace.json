@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "070 - Random/074 - Random Ways To Make Money.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406
+    "width": 332.5
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "070 - Random/074 - Random Ways To Make Money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "070 - Random/074 - Random Ways To Make Money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Project Note.md"
+                "file": "070 - Random/074 - Random Ways To Make Money.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "e6bca44fb3937fd8",
   "lastOpenFiles": [
+    "000-Index/000-Index.md",
+    "070 - Random/074 - Random Ways To Make Money.md",
+    "070 - Random/070 - Random.md",
+    "010 - Programming/010 - Programming.md",
     "templates/Project Note.md",
     "backups/Untitled.md",
     "backups/Asd.md",
     "backups/asd.md",
     "§Index-.md",
-    "010 - Programming/050 - Projects/Project Note.md",
-    "templates/Daily Note.md",
-    "templates/Aritcle.md",
-    "020 - Resources/020 - Resources.md",
-    "020 - Resources/20 Rules of Knowledge Formulation.md"
+    "010 - Programming/050 - Projects/Project Note.md"
   ]
 }

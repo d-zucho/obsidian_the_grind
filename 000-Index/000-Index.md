@@ -9,16 +9,11 @@
 [[040 - Design]]
 [[050 - Projects]]
 [[060 - General IT]]
+[[070 - Random]]
 
 
 ______
 
-
-
-## Projects
-
-
-___
 
 ## Todo
 
