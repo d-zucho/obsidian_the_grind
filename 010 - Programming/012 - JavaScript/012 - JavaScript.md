@@ -11,8 +11,6 @@ back: [[010 - Programming]]
 %% End Waypoint %%
 
 
-
-
 ## Classes
 
 ```dataview

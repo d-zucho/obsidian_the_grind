@@ -10,7 +10,7 @@ back:: [[012 - JavaScript]]
 
 ## Sections
 
-- Foundations
+- [[Foundations]]
 - Types in JavaScript
 - 2 Pillars - Closures nad Prototypal Inheritance
 - OOP
