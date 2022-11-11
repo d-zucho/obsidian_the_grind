@@ -126,9 +126,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "99e7a941306dfed5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "22f630ffaa5b886a",
@@ -149,19 +157,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 200
   },
   "active": "f57b10ec8ae95703",
   "lastOpenFiles": [
     "Javascript - The Advanced Parts.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "Daily Notes/2022-11-2022.md",
     "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "010 - Programming/016 - Python/016 - Python.md",
     "010 - Programming/015 - React/VirtualDOM.md",
     "010 - Programming/015 - React/Using Context API.md",
     "010 - Programming/015 - React/React State.md",
     "010 - Programming/015 - React/React Fundamentals.md",
-    "010 - Programming/015 - React/Props.md",
-    "010 - Programming/015 - React/handleClick To Delete Item in List.md"
+    "010 - Programming/015 - React/Props.md"
   ]
 }
