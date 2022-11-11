@@ -160,6 +160,8 @@
   },
   "active": "f57b10ec8ae95703",
   "lastOpenFiles": [
+    "JavaScript Engine.md",
+    "Foundations.md",
     "Javascript - The Advanced Parts.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "Daily Notes/2022-11-2022.md",
@@ -167,8 +169,6 @@
     "010 - Programming/016 - Python/016 - Python.md",
     "010 - Programming/015 - React/VirtualDOM.md",
     "010 - Programming/015 - React/Using Context API.md",
-    "010 - Programming/015 - React/React State.md",
-    "010 - Programming/015 - React/React Fundamentals.md",
-    "010 - Programming/015 - React/Props.md"
+    "010 - Programming/015 - React/React State.md"
   ]
 }
