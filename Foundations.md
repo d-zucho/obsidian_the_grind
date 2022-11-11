@@ -8,4 +8,4 @@ course: javascript advanced concepts
 ## JavaScript Engine
 #javascript/js-engine 
 
-The JS Engine help
+The JS Engine helps JS 
