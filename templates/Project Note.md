@@ -1,13 +1,14 @@
+<%* let title = await tp.system.prompt("Project Title: ") %>
 ---
 type: project
 dateCreated: <% tp.file.creation_date('MMM-Do-YYYY')%>
-lastModified: <%tp.file.last_modified_date('MMM-Do-YYYY')%>
-language: <%tp.file.cursor(1)%>
-title: <%tp.file.cursor(2)%>
+lastModified: <%tp.file.last_modified_date('MMM-Do-YYYY')%>\
+title: <% title %>
+
 ---
+<% await tp.file.rename(tp.frontmatter.)
 
-
-# <%tp.system.prompt('Project Title ?', 'enter project title')%>
+# <% title %>
 
 
 
