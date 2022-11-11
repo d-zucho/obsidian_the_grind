@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b616259642ff535a",
+        "id": "77eec9708f4a4413",
         "type": "tabs",
         "children": [
           {
-            "id": "e6bca44fb3937fd8",
+            "id": "e0c4e786db2baa30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apps or Websites To Make Money.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c676c0a450327732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apps or Websites To Make Money.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b4abff57e549fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Easy Side Hustles.md",
+                "file": "Daily Notes/2022-11-2022.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Easy Side Hustles.md",
+                "file": "Daily Notes/2022-11-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Easy Side Hustles.md",
+                "file": "Daily Notes/2022-11-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Easy Side Hustles.md"
+                "file": "Daily Notes/2022-11-2022.md"
               }
             }
           },
@@ -186,17 +159,17 @@
     "direction": "horizontal",
     "width": 297.5
   },
-  "active": "1b4abff57e549fdb",
+  "active": "e0c4e786db2baa30",
   "lastOpenFiles": [
-    "070 - Random/074 - Random Ways To Make Money.md",
+    "Procreate Tips.md",
+    "templates/Project Note.md",
+    "templates/Daily Note.md",
     "Easy Side Hustles.md",
     "Apps or Websites To Make Money.md",
+    "070 - Random/074 - Random Ways To Make Money.md",
     "070 - Random/070 - Random.md",
     "templates/Video Note.md",
     "000-Index/000-Index.md",
-    "010 - Programming/010 - Programming.md",
-    "templates/Project Note.md",
-    "backups/Untitled.md",
-    "backups/Asd.md"
+    "010 - Programming/010 - Programming.md"
   ]
 }
