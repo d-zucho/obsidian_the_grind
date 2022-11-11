@@ -18,3 +18,9 @@ These tokens are then formed into ***ASTs***,  abstract syntax tree. #javascript
 
 The interpreter, profiler, and compiler then work to turn the code into optimized code for the cpu
 
+
+You can run JavaScript with **the interpreter** or the **compiler**
+
+
+#### Why choose one over the other?
+
