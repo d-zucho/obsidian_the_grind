@@ -31,3 +31,19 @@ _____
 		- copywriting framework: AIDA
 		- Blog Idea / Outline
 - invideo - use photos for ai to generate money making videos -- can use for youtube shorts, tik tok, facebook reels
+
+
+
+
+
+
+## Easy Income Streams
+
+- dividends - look at companies with biggest dividends
+	- go with "dividend king stocks"
+- print-on-demand
+- real estate investing such as :
+	- REITS
+	- fundrise
+- affiliate marketing 
+- blogging with affiliate marketing
