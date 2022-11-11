@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c5c85468debbce16",
+        "id": "a6c87047d1e6f1c6",
         "type": "tabs",
         "children": [
           {
-            "id": "acf6f05084241a4b",
+            "id": "6a3d17bfd99f5233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Daily Note.md",
+                "file": "§Index-.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b8e978be5fcb2d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Project Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Daily Note.md",
+                "file": "templates/Project Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Daily Note.md",
+                "file": "templates/Project Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Daily Note.md"
+                "file": "templates/Project Note.md"
               }
             }
           },
@@ -167,17 +181,17 @@
     "direction": "horizontal",
     "width": 297.5
   },
-  "active": "acf6f05084241a4b",
+  "active": "6b8e978be5fcb2d7",
   "lastOpenFiles": [
+    "§Index-.md",
+    "010 - Programming/050 - Projects/Project Note.md",
+    "templates/Daily Note.md",
     "templates/Aritcle.md",
     "020 - Resources/020 - Resources.md",
     "020 - Resources/20 Rules of Knowledge Formulation.md",
     "888 - Assets/Pasted image 20220804094412.png",
     "040 - Design/test.md",
     "040 - Design/040 - Design.md",
-    "templates/Blog Post.md",
-    "§Index-.md",
-    "5 CSS Tricks every Web Dev Should Know.md",
-    "010 - Programming/011 - HTML & CSS/HTML-CSS-Read Later.md"
+    "templates/Blog Post.md"
   ]
 }
