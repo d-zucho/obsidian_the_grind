@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c87047d1e6f1c6",
+        "id": "b616259642ff535a",
         "type": "tabs",
         "children": [
           {
-            "id": "6a3d17bfd99f5233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "§Index-.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b8e978be5fcb2d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Project Note.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fe995786391269b",
+            "id": "e6bca44fb3937fd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +167,10 @@
     "direction": "horizontal",
     "width": 297.5
   },
-  "active": "9fe995786391269b",
+  "active": "e6bca44fb3937fd8",
   "lastOpenFiles": [
-    "backups/Untitled.md",
     "templates/Project Note.md",
+    "backups/Untitled.md",
     "backups/Asd.md",
     "backups/asd.md",
     "§Index-.md",
