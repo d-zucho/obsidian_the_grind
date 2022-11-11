@@ -1,7 +1,7 @@
 ---
 topic: readLater
 type: article
-language: 
+language: <%tp.file.cursor(1) %>
 
 ---
 

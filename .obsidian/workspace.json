@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Aritcle.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e934080aa764b282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Aritcle.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2bdcf99798e28fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Blog Post.md",
+                "file": "templates/Daily Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Blog Post.md",
+                "file": "templates/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Blog Post.md",
+                "file": "templates/Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Blog Post.md"
+                "file": "templates/Daily Note.md"
               }
             }
           },
@@ -194,17 +167,17 @@
     "direction": "horizontal",
     "width": 297.5
   },
-  "active": "d2bdcf99798e28fc",
+  "active": "acf6f05084241a4b",
   "lastOpenFiles": [
-    "§Index-.md",
-    "templates/Blog Post.md",
-    "5 CSS Tricks every Web Dev Should Know.md",
-    "010 - Programming/011 - HTML & CSS/HTML-CSS-Read Later.md",
     "templates/Aritcle.md",
-    "Javascript - The Advanced Parts.md",
-    "templates/Project Note.md",
-    "templates/Daily Note.md",
-    "010 - Programming/010 - Programming.md",
-    "TailwindCSS.md"
+    "020 - Resources/020 - Resources.md",
+    "020 - Resources/20 Rules of Knowledge Formulation.md",
+    "888 - Assets/Pasted image 20220804094412.png",
+    "040 - Design/test.md",
+    "040 - Design/040 - Design.md",
+    "templates/Blog Post.md",
+    "§Index-.md",
+    "5 CSS Tricks every Web Dev Should Know.md",
+    "010 - Programming/011 - HTML & CSS/HTML-CSS-Read Later.md"
   ]
 }

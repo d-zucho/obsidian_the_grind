@@ -1,5 +1,4 @@
 ---
 type: dailyNote
-date: <%
-
+dateCreated: <% tp.file.creation_date('MMM-Do-YYYY')
 ---
