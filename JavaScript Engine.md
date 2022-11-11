@@ -17,10 +17,10 @@ You can run JavaScript with **the interpreter** or the **compiler**
 
 #### Why choose one over the other?
 
-- ***Compiler*** - program that translates one computer program into another #compiler
+- ***[[Compiler]]*** - program that translates one computer program into another #compiler
 
 
-- ***Interpreter*** - program that directly executes instructions written in a programming language, without requiring them previously to have been compiled into a machine language program #interpreter
+- ***[[Interpreter]]*** - program that directly executes instructions written in a programming language, without requiring them previously to have been compiled into a machine language program #interpreter
 	- An interpreter generally uses one of the following strategies for program execution
 		1. Parse the source code and perform its behavior directly;
 		2. Translate source code into some efficient intermediate representation or object code and immediately executes that;;
