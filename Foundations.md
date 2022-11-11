@@ -1,7 +1,7 @@
 ---
 type: courseNote
 language: javascript
-tags: javascript
+tags: javascript, javascript/compiler, javascript/javascript-engine, javascript/interpreter
 course: javascript advanced concepts
 ---
 
