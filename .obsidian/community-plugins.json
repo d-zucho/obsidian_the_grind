@@ -15,9 +15,9 @@
   "obsidian-git",
   "folder-note-core",
   "obsidian-plugin-toc",
-  "obsidian-spaced-repetition",
   "todoist-sync-plugin",
   "table-editor-obsidian",
   "obsidian-contextual-typography",
-  "buttons"
+  "buttons",
+  "obsidian-emoji-toolbar"
 ]
