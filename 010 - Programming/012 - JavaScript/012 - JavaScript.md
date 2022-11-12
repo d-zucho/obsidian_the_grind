@@ -4,9 +4,9 @@ back: [[010 - Programming]]
 # JavaScript
 
 %% Begin Waypoint %%
-- **[[012 - JavaScript]]**
-	- [[012 - JavaScript]]
-	- [[Sanity.io]]
+- [[012 - JavaScript]]
+- [[Javascript - The Advanced Parts]]
+- [[Sanity.io]]
 
 %% End Waypoint %%
 

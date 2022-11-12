@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-11-2022.md",
+                "file": "JavaScript Engine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-11-2022.md",
+                "file": "JavaScript Engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-11-2022.md",
+                "file": "JavaScript Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-11-2022.md"
+                "file": "JavaScript Engine.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "f8035308335808ca",
   "lastOpenFiles": [
+    "Foundations.md",
+    "010 - Programming/012 - JavaScript/Javascript - The Advanced Parts.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "Daily Notes/2022-11-2022.md",
     "templates/Class Note.md",
     "templates/Daily Note.md",
     "templates/Project Note.md",
     "backups/newwwwww project.md",
     "backups/newer project.md",
-    "backups/newer class note.md",
-    "templates/Aritcle.md",
-    "templates/Video Note.md",
-    "templates/Blog Post.md",
-    "templates/Course Note.md"
+    "backups/newer class note.md"
   ]
 }
