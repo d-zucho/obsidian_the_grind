@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8ebb8a24ba8ca35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "templates/Project Note.md",
                 "mode": "source",
                 "backlinks": true,
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,17 +171,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "b8ebb8a24ba8ca35",
+  "active": "f57b10ec8ae95703",
   "lastOpenFiles": [
+    "Foundations.md",
+    "templates/Project Note.md",
     "templates/Daily Note.md",
     "templates/Course Note.md",
     "Interpreter.md",
-    "Foundations.md",
     "JavaScript Engine.md",
     "Compiler.md",
     "Javascript - The Advanced Parts.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "Daily Notes/2022-11-2022.md",
-    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md"
+    "Daily Notes/2022-11-2022.md"
   ]
 }
