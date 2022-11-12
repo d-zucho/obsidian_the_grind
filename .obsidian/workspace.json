@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations.md",
+                "file": "Interpreter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations.md",
+                "file": "Interpreter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations.md",
+                "file": "Interpreter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations.md"
+                "file": "Interpreter.md"
               }
             }
           },
@@ -134,8 +134,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "9a72e9205acc654e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "22f630ffaa5b886a",
@@ -158,10 +167,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f8035308335808ca",
+  "active": "9a72e9205acc654e",
   "lastOpenFiles": [
-    "JavaScript Engine.md",
     "Foundations.md",
+    "JavaScript Engine.md",
     "010 - Programming/012 - JavaScript/Javascript - The Advanced Parts.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "Daily Notes/2022-11-2022.md",
