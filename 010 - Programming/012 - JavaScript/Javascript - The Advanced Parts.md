@@ -3,6 +3,7 @@ type: class
 language: javascript
 teacher: Zero-To-Mastery
 website: udemy
+course: javascript advanced concepts
 ---
 
 back:: [[012 - JavaScript]]

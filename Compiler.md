@@ -3,6 +3,7 @@ type: courseNote
 language: javascript
 tags: javascript, javascript/compiler, javascript/javascript-engine, 
 course: javascript advanced concepts
+section: foundations
 ---
 
 back::[[JavaScript Engine]]

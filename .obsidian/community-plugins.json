@@ -19,5 +19,8 @@
   "table-editor-obsidian",
   "obsidian-contextual-typography",
   "buttons",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "note-refactor-obsidian",
+  "code-block-copy",
+  "quickadd"
 ]
