@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8b3eb8e64adb5eee",
+        "id": "6d1dd36ce6db4b9e",
         "type": "tabs",
         "children": [
           {
-            "id": "31e6a334997a77d0",
+            "id": "f8035308335808ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interpreter.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interpreter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interpreter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Interpreter.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,17 +149,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "31e6a334997a77d0",
+  "active": "14e3b11cb3981a9e",
   "lastOpenFiles": [
-    "backups/newer project.md",
-    "templates/Project Note.md",
-    "Foundations.md",
+    "templates/Class Note.md",
     "templates/Daily Note.md",
-    "templates/Course Note.md",
-    "Interpreter.md",
-    "JavaScript Engine.md",
-    "Compiler.md",
-    "Javascript - The Advanced Parts.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md"
+    "templates/Project Note.md",
+    "backups/newwwwww project.md",
+    "backups/newer project.md",
+    "backups/newer class note.md",
+    "templates/Aritcle.md",
+    "templates/Video Note.md",
+    "templates/Blog Post.md",
+    "templates/Course Note.md"
   ]
 }
