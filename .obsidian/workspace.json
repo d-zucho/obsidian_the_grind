@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f57b10ec8ae95703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Project Note.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "31e6a334997a77d0",
             "type": "leaf",
             "state": {
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "Interpreter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "Interpreter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Project Note.md"
+                "file": "Interpreter.md"
               }
             }
           },
@@ -171,17 +158,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f57b10ec8ae95703",
+  "active": "31e6a334997a77d0",
   "lastOpenFiles": [
-    "Foundations.md",
+    "backups/newer project.md",
     "templates/Project Note.md",
+    "Foundations.md",
     "templates/Daily Note.md",
     "templates/Course Note.md",
     "Interpreter.md",
     "JavaScript Engine.md",
     "Compiler.md",
     "Javascript - The Advanced Parts.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "Daily Notes/2022-11-2022.md"
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md"
   ]
 }
