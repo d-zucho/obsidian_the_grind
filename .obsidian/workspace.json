@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interpreter.md",
+                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interpreter.md",
+                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interpreter.md",
+                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interpreter.md"
+                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "dae54cf24f720964",
   "lastOpenFiles": [
+    "020 - Resources/020 - Resources.md",
+    "Interpreter.md",
     "JavaScript Engine.md",
     "Compiler.md",
     "Foundations.md",
@@ -168,8 +170,6 @@
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "Daily Notes/2022-11-2022.md",
     "asd.md",
-    "backups/test project 5.md",
-    "templates/Project Note.md",
-    "backups/Something new.md"
+    "backups/test project 5.md"
   ]
 }
