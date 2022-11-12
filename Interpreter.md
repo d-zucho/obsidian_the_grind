@@ -9,8 +9,8 @@ tags: javascript, computer-science, v8-engine
 
 back:: [[JavaScript Engine]]
 
-| <mark style="background: #BBFABBA6;">Compiler</mark>                                              | <mark style="background: #BBFABBA6;">Interpreter</mark>                                   |
-| ----------------------------------------------------- | --------------------------------------------- |
+| Compiler                                              | Interpreter                                   |
+|:----------------------------------------------------- | --------------------------------------------- |
 | Scans Entire program first                            | Translate program one line at a time          |
 | Any errors are shown at end                           | Any errors are shown line by line             |
 | Main advantage - execution time                       | Slower and doesn't turn into machine code     |
@@ -21,7 +21,7 @@ back:: [[JavaScript Engine]]
 | Often take lrg amnt of time for analyzing source code | Take less code for code analyzation           |
 | More efficient                                        | Less Efficient                                |
 | CPU utilization is more                               | CPU utilization is less                       |
-| Examples: C, C++, C#                                  | Python, Ruby, Perl, MATLAB                                              |
+| Examples: C, C++, C#                                  | Python, Ruby, Perl, MATLAB                    |
 |                                                       |                                               |
 |                                                       |                                               |
 |                                                       |                                               |
