@@ -4,7 +4,7 @@
       "id": "6556f452-806f-4d37-a409-7bf09b4f32ee",
       "name": "Capture To New JS Note",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "templates/JS - Advanced.md",
       "fileNameFormat": {
         "enabled": false,
