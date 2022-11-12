@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6d1dd36ce6db4b9e",
+        "id": "5624c03a6eb3867b",
         "type": "tabs",
         "children": [
           {
-            "id": "f8035308335808ca",
+            "id": "dae54cf24f720964",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/JS - Advanced.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b5100149d10dc51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Project Note.md",
+                "file": "Interpreter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "Interpreter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "Interpreter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Project Note.md"
+                "file": "Interpreter.md"
               }
             }
           },
@@ -173,17 +159,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "7b5100149d10dc51",
+  "active": "dae54cf24f720964",
   "lastOpenFiles": [
-    "Interpreter.md",
-    "templates/JS - Advanced.md",
-    "templates/Project Note.md",
-    "Foundations.md",
-    "backups/test project 5.md",
-    "Compiler.md",
-    "another example.md",
-    "this.md",
     "JavaScript Engine.md",
-    "010 - Programming/012 - JavaScript/Javascript - The Advanced Parts.md"
+    "Compiler.md",
+    "Foundations.md",
+    "010 - Programming/012 - JavaScript/Javascript - The Advanced Parts.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "Daily Notes/2022-11-2022.md",
+    "asd.md",
+    "backups/test project 5.md",
+    "templates/Project Note.md",
+    "backups/Something new.md"
   ]
 }

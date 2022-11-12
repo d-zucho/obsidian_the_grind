@@ -1,4 +1,5 @@
 ---
+alias: compiler
 type: courseNote
 language: javascript
 tags: javascript, javascript/compiler, javascript/javascript-engine, 

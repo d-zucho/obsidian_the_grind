@@ -1,5 +1,6 @@
 ---
 type: courseNote
+alias: interpreter
 language: javascript
 course: javascript advanced concepts
 tags: javascript, computer-science, v8-engine
@@ -8,7 +9,7 @@ tags: javascript, computer-science, v8-engine
 
 back:: [[JavaScript Engine]]
 
-| Compiler                                              | Interpreter                                   |
+| <mark style="background: #BBFABBA6;">Compiler</mark>                                              | <mark style="background: #BBFABBA6;">Interpreter</mark>                                   |
 | ----------------------------------------------------- | --------------------------------------------- |
 | Scans Entire program first                            | Translate program one line at a time          |
 | Any errors are shown at end                           | Any errors are shown line by line             |
