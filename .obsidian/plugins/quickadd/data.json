@@ -1,5 +1,32 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "6556f452-806f-4d37-a409-7bf09b4f32ee",
+      "name": "Capture To New JS Note",
+      "type": "Template",
+      "command": false,
+      "templatePath": "templates/JS - Advanced.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line"
 }

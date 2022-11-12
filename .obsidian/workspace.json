@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript Engine.md",
+                "file": "Compiler.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "templates/JS - Advanced.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "Compiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Project Note.md"
+                "file": "Compiler.md"
               }
             }
           },
@@ -173,17 +172,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "9b9a9b20361bd7a6",
+  "active": "f8035308335808ca",
   "lastOpenFiles": [
-    "templates/JS - Advanced.md",
     "JavaScript Engine.md",
+    "templates/JS - Advanced.md",
+    "templates/Project Note.md",
     "Compiler.md",
     "Foundations.md",
     "010 - Programming/012 - JavaScript/Javascript - The Advanced Parts.md",
     "Interpreter.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "Daily Notes/2022-11-2022.md",
-    "templates/Class Note.md",
-    "templates/Daily Note.md"
+    "templates/Class Note.md"
   ]
 }
