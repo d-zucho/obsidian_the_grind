@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript Engine.md",
+                "file": "Foundations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript Engine.md",
+                "file": "Foundations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript Engine.md",
+                "file": "Foundations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript Engine.md"
+                "file": "Foundations.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "f8035308335808ca",
   "lastOpenFiles": [
+    "JavaScript Engine.md",
     "Foundations.md",
     "010 - Programming/012 - JavaScript/Javascript - The Advanced Parts.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
@@ -168,7 +169,6 @@
     "templates/Daily Note.md",
     "templates/Project Note.md",
     "backups/newwwwww project.md",
-    "backups/newer project.md",
-    "backups/newer class note.md"
+    "backups/newer project.md"
   ]
 }
