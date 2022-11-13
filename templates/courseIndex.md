@@ -15,8 +15,23 @@ tags: <% tp.file.cursor(2) %>
 dateStarted: <% tp.file.creation_date("MMM Do YYYY") %>
 ---
 
-back:: 
+back::  <% tp.file.folder() %>
 
 ___
 
-___
+
+## Class Index
+
+
+
+
+### 📜 Notes and Ideas
+
+-   first Note
+
+
+##🔗 Github Project Links
+
+
+
+### 📦 Resources
