@@ -12,7 +12,7 @@ back: [[010 - Programming]]
 
 
 ## Functions & Methods
-[[forEach() VS map()]]
+
 
 
 
