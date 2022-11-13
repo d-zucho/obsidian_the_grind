@@ -19,7 +19,7 @@ It takes the JS code and parses it into *tokens* analyzes what it is trying to d
 
 These tokens are then formed into ***ASTs***,  abstract syntax tree. #javascript/js-engine 
 
-The [[interpreter]], profiler, and [[compiler]] then work to turn the code into optimized code for the cpu
+The [[Interpreter]], profiler, and [[Compiler]] then work to turn the code into optimized code for the cpu
 
 
 You can run JavaScript with **the interpreter** or the **compiler**

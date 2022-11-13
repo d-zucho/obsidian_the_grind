@@ -14,5 +14,6 @@
   "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
   "minimal-advanced@@font-ui-small": 14,
   "minimal-advanced@@font-ui-smaller": 12,
-  "minimal-style@@base@@light": "#646D69"
+  "minimal-style@@base@@light": "#646D69",
+  "buttons-styles@@button-background@@light": "#063696"
 }

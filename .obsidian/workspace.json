@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/map() VS forEach().md",
+                "file": "Advantages of Using a Database Instead of a Flat File.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/map() VS forEach().md",
+                "file": "Advantages of Using a Database Instead of a Flat File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/map() VS forEach().md",
+                "file": "Advantages of Using a Database Instead of a Flat File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/map() VS forEach().md"
+                "file": "Advantages of Using a Database Instead of a Flat File.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "ad446d027eba92b3",
   "lastOpenFiles": [
+    "Constraints.md",
+    "010 - Programming/012 - JavaScript/JavaScript Engine.md",
+    "010 - Programming/012 - JavaScript/Compiler.md",
+    "010 - Programming/012 - JavaScript/map() VS forEach().md",
     "010 - Programming/012 - JavaScript/Javascript - The Advanced Parts.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "010 - Programming/012 - JavaScript/map() VS forEach().md",
     "Object Literals.md",
     "Foundations.md",
-    "Constraints.md",
     "Advantages of Using a Database Instead of a Flat File.md",
-    "Compiler.md",
-    "templates/Class Note.md",
-    "010 - Programming/010 - Programming.md"
+    "templates/Class Note.md"
   ]
 }
