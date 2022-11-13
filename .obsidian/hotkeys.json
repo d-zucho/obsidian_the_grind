@@ -1,13 +1,4 @@
 {
-  "editor:toggle-fold": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "F"
-    }
-  ],
   "outline:open-for-current": [
     {
       "modifiers": [
@@ -15,24 +6,6 @@
         "Ctrl"
       ],
       "key": "O"
-    }
-  ],
-  "obsidian-plugin-toc:create-toc": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
-  "obsidian-plugin-toc:create-toc-next-level": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "T"
     }
   ],
   "obsidian-admonition:insert-question-callout": [
@@ -53,15 +26,6 @@
       "key": "O"
     }
   ],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "R"
-    }
-  ],
   "obsidian-emoji-toolbar:emoji-picker:open-picker": [
     {
       "modifiers": [
@@ -69,6 +33,33 @@
         "Mod"
       ],
       "key": "E"
+    }
+  ],
+  "templater-obsidian:templates/programming/Coding Note.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
     }
   ]
 }

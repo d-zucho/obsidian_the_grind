@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "templates/programming/JS - Advanced.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26f4c1a030ed2bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/courseIndex.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,14 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Coding Note.md",
+                "file": "templates/programming/Coding Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "templates/courseIndex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "templates/courseIndex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md"
+                "file": "templates/courseIndex.md"
               }
             }
           },
@@ -172,17 +186,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "dae54cf24f720964",
+  "active": "26f4c1a030ed2bde",
   "lastOpenFiles": [
-    "templates/JS - Advanced.md",
-    "templates/Coding Note.md",
+    "templates/programming/Coding Note.md",
+    "templates/courseIndex.md",
+    "templates/programming/JS - Advanced.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "Object Literals.md",
     "Pasted image 20220912155658.png",
     "ReadMe.md",
     "Python Variables.md",
     "Advantages of Using a Database Instead of a Flat File.md",
-    "Constraints.md",
-    "templates/Daily Note.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md"
+    "Constraints.md"
   ]
 }
