@@ -6,6 +6,7 @@ back: [[010 - Programming]]
 %% Begin Waypoint %%
 - [[012 - JavaScript]]
 - [[Javascript - The Advanced Parts]]
+- [[map() VS forEach()]]
 - [[Sanity.io]]
 
 %% End Waypoint %%
@@ -13,7 +14,8 @@ back: [[010 - Programming]]
 
 ## Functions & Methods
 
-
+- [[map() VS forEach()]]
+- 
 
 
 

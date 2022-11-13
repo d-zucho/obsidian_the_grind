@@ -35,15 +35,6 @@
       "key": "E"
     }
   ],
-  "templater-obsidian:templates/programming/Coding Note.md": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "1"
-    }
-  ],
   "insert-template": [
     {
       "modifiers": [
@@ -60,6 +51,14 @@
         "Shift"
       ],
       "key": "H"
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
     }
   ]
 }

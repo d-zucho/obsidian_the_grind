@@ -3,5 +3,6 @@
   "userIgnoreFilters": null,
   "showFrontmatter": true,
   "livePreview": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": false
 }

@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "Things",
     "custom-admonitions.03f05e"
-  ]
+  ],
+  "showViewHeader": false
 }
