@@ -2,6 +2,7 @@
   "cssTheme": "Things",
   "accentColor": "#752cce",
   "enabledCssSnippets": [
-    "Things"
+    "Things",
+    "custom-admonitions.03f05e"
   ]
 }
