@@ -11,6 +11,12 @@ back: [[010 - Programming]]
 %% End Waypoint %%
 
 
+## Functions & Methods
+[[forEach() VS map()]]
+
+
+
+
 ## Classes
 
 ```dataview

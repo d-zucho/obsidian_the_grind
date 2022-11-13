@@ -1,4 +1,5 @@
 ---
+type: codingNote
 language: javascript
 topic: data-types
 ---

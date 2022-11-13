@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-13-2022.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a963d00a8da487d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Coding Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-13-2022.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-13-2022.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-13-2022.md"
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md"
               }
             }
           },
@@ -161,15 +174,15 @@
   },
   "active": "dae54cf24f720964",
   "lastOpenFiles": [
-    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
-    "020 - Resources/020 - Resources.md",
-    "Interpreter.md",
-    "JavaScript Engine.md",
-    "Compiler.md",
-    "Foundations.md",
-    "010 - Programming/012 - JavaScript/Javascript - The Advanced Parts.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "Daily Notes/2022-11-2022.md",
-    "asd.md"
+    "templates/JS - Advanced.md",
+    "templates/Coding Note.md",
+    "Object Literals.md",
+    "Pasted image 20220912155658.png",
+    "ReadMe.md",
+    "Python Variables.md",
+    "Advantages of Using a Database Instead of a Flat File.md",
+    "Constraints.md",
+    "templates/Daily Note.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md"
   ]
 }
