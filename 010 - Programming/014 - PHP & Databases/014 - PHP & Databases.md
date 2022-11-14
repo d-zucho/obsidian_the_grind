@@ -2,8 +2,8 @@ back: [[010 - Programming]]]
 # PHP & Databases
 
 %% Begin Waypoint %%
-- **[[014 - PHP & Databases]]**
-	- [[014 - PHP & Databases]]
+- [[Advantages of Using a Database Instead of a Flat File]]
+- [[Constraints]]
 
 %% End Waypoint %%
 

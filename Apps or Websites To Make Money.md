@@ -1,6 +1,7 @@
 ---
 type: videoNote
 topic: finance
+tags: #type/ytNote
 
 ---
 link:: [YouTube](https://www.youtube.com/watch?v=eH_EdfL8tk0)

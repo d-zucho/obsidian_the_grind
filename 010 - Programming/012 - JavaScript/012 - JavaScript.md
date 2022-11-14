@@ -4,7 +4,6 @@ back: [[010 - Programming]]
 # JavaScript
 
 %% Begin Waypoint %%
-- [[012 - JavaScript]]
 - [[Compiler]]
 - [[Interpreter]]
 - [[Javascript - The Advanced Parts]]
@@ -13,6 +12,8 @@ back: [[010 - Programming]]
 - [[Sanity.io]]
 
 %% End Waypoint %%
+
+
 
 
 ## Functions & Methods
