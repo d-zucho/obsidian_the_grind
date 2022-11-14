@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8fb8552b2fc87556",
+        "id": "7a9d152f95b5c90e",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc5b1cd4c90f3d0",
+            "id": "79bb4754c08ee52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbe388a82e1328bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Project Note.md"
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md"
               }
             }
           },
@@ -161,17 +174,17 @@
     "direction": "horizontal",
     "width": 200.5
   },
-  "active": "7cc5b1cd4c90f3d0",
+  "active": "79bb4754c08ee52f",
   "lastOpenFiles": [
-    "050 - Projects/Youtube Todo ( Dev GB ).md",
     "templates/Project Note.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "050 - Projects/Youtube Todo ( Dev GB ).md",
     "888 - Assets/yt-todo-figma-design.md",
     "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "010 - Programming/010 - Programming.md",
     "templates/@PeopleNote.md",
     "super-Tags.md",
     "templates/courseIndex.md",
-    "010 - Programming/012 - JavaScript/map() VS forEach().md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md"
+    "010 - Programming/012 - JavaScript/map() VS forEach().md"
   ]
 }

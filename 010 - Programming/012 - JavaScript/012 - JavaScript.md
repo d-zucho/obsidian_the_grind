@@ -13,17 +13,12 @@ back: [[010 - Programming]]
 
 %% End Waypoint %%
 
-
-
-
-## Functions & Methods
+### Functions & Methods
 
 - [[map() VS forEach()]]
 - 
 
-
-
-## Classes
+### Classes
 
 ```dataview
 table type as "Class", teacher as "Teacher"
@@ -33,6 +28,18 @@ where type = "class" AND language = "javascript"
 
 
 
+
+```
+name Add Project
+type note(New Project) template action Project Template class dataview-button
+```
+
+### Projects
+```dataview
+list from "Project" as title
+where type = 'project' and language == 'javascript' or 'react'
+
+```
 
 
 
