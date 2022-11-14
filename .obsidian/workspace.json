@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "050 - Projects/Youtube Todo ( Dev GB ).md",
+                "file": "templates/Project Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "050 - Projects/Youtube Todo ( Dev GB ).md",
+                "file": "templates/Project Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "050 - Projects/Youtube Todo ( Dev GB ).md",
+                "file": "templates/Project Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "050 - Projects/Youtube Todo ( Dev GB ).md"
+                "file": "templates/Project Note.md"
               }
             }
           },
@@ -161,13 +161,13 @@
     "direction": "horizontal",
     "width": 200.5
   },
-  "active": "14e3b11cb3981a9e",
+  "active": "7cc5b1cd4c90f3d0",
   "lastOpenFiles": [
+    "050 - Projects/Youtube Todo ( Dev GB ).md",
     "templates/Project Note.md",
     "888 - Assets/yt-todo-figma-design.md",
     "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "010 - Programming/010 - Programming.md",
-    "050 - Projects/Youtube Todo ( Dev GB ).md",
     "templates/@PeopleNote.md",
     "super-Tags.md",
     "templates/courseIndex.md",

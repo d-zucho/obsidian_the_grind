@@ -5,24 +5,22 @@ type: project
 dateCreated: Nov-14th-2022
 lastModified: Nov-14th-2022
 title: Youtube Todo ( Dev GB )
-tec
+techStack: [Vite, Hooks, CSS Modules, Local Storage, React]
+language: React
 
 ---
 
-
-
 # Youtube Todo ( Dev GB )
-
-
-
 
 
 ## Details
 
 #### Tech Stack: 
 
--  tech 1
--  tech 2
+-  React
+-  Vite
+- CSS Modules
+- 
 
 
 **Desired Outcome** / **Purpose / Intention **
