@@ -34,18 +34,21 @@ where type = "class" AND language = "javascript"
 table
 title as "Project", dateCreated as "Started", status as "Status" 
 from #project 
-where language = 'javascript' OR
-langauge = 'react'
+where language = "javascript" OR
+langauge = "react"
 ```
+
+
 
 
 
 ### Projects
 ```dataview
-list from "Project" as title
-where type = 'project' and language == 'javascript' or 'react'
+table without ID title as "Project"
+from #project and language == 'javascript' or 'react'
 
 ```
+
 
 
 
