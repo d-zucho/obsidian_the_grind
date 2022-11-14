@@ -1,7 +1,6 @@
 back: [[010 - Programming]]
 
-
-# JavaScript
+### Index List
 
 %% Begin Waypoint %%
 - [[Compiler]]
@@ -11,15 +10,32 @@ back: [[010 - Programming]]
 - [[map() VS forEach()]]
 - [[Sanity.io]]
 - [[Todo List Project]]
-
 %% End Waypoint %%
+
+
+
+# JavaScript
+
+
+
+## Classes
+
+```dataview
+table type as "Class", teacher as "Teacher"
+where type = "class" AND language = "javascript"
+
+```
+
+___
 
 ### Functions & Methods
 
 - [[map() VS forEach()]]
-- 
 
-### Classes
+___
+
+
+## Classes
 
 ```dataview
 table type as "Class", teacher as "Teacher"
@@ -28,44 +44,23 @@ where type = "class" AND language = "javascript"
 ```
 
 
+## Projects
 
-
-``` dataview
-table
-title as "Project", dateCreated as "Started", status as "Status" 
-from #project 
-where language = "javascript" OR
-langauge = "react"
-```
-
-
-
-
-
-### Projects
 ```dataview
-table without ID title as "Project"
+table without ID 
+title as "Project", dateCreated as "Started", status as "Status"
 from #project 
 where language = "javascript" or language = "react"
-
 ```
-
-
-
-
-
-
-
-
 
 
 
 ## Refresher
 ---
-
- [[Spread & Rest Operator]]
+[[Spread & Rest Operator]]
 
 [[Object Literals]]
+
 [[The 'for...of loop']]
 
 [[Reduce Function]]
