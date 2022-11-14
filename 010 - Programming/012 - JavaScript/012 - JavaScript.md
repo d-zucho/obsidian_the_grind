@@ -45,9 +45,14 @@ langauge = "react"
 ### Projects
 ```dataview
 table without ID title as "Project"
-from #project and language == 'javascript' or 'react'
+from #project 
+where language = "javascript" or language = "react"
 
 ```
+
+
+
+
 
 
 
