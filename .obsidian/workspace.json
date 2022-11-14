@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags.md",
+                "file": "shorcuts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags.md",
+                "file": "shorcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags.md",
+                "file": "shorcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags.md"
+                "file": "shorcuts.md"
               }
             }
           },
@@ -175,7 +175,7 @@
     "direction": "horizontal",
     "width": 200.5
   },
-  "active": "06476cacdc67e905",
+  "active": "14e3b11cb3981a9e",
   "lastOpenFiles": [
     "What is Pandas.md",
     "Daily Notes/2022-13-2022.md",
