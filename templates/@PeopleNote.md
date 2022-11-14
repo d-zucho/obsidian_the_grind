@@ -3,6 +3,7 @@
 	if (title.startsWith("@")) { 
 		title = await tp.system.prompt("Title"); 
 		await tp.file.rename(`${title}`); 
+		tp.file.title.slice(1)
 		}  
 %>
 type: project
