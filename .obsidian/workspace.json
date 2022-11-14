@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/map() VS forEach().md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06476cacdc67e905",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shorcuts.md",
+                "file": "templates/@PeopleNote.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/map() VS forEach().md",
+                "file": "templates/@PeopleNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/map() VS forEach().md",
+                "file": "templates/@PeopleNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/map() VS forEach().md"
+                "file": "templates/@PeopleNote.md"
               }
             }
           },
@@ -176,15 +163,15 @@
   },
   "active": "ad446d027eba92b3",
   "lastOpenFiles": [
+    "super-Tags.md",
+    "templates/Project Note.md",
+    "templates/courseIndex.md",
+    "templates/@PeopleNote.md",
+    "010 - Programming/012 - JavaScript/map() VS forEach().md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "000-Index/000-Index.md",
     "Daily Notes/2022-13-2022.md",
     "What is Pandas.md",
-    "Apps or Websites To Make Money.md",
-    "010 - Programming/014 - PHP & Databases/Constraints.md",
-    "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
-    "010 - Programming/014 - PHP & Databases/Advantages of Using a Database Instead of a Flat File.md",
-    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
-    "@somethingelse.md"
+    "Apps or Websites To Make Money.md"
   ]
 }
