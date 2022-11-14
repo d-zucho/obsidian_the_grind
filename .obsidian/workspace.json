@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a9d152f95b5c90e",
+        "id": "d083ce71b24c991e",
         "type": "tabs",
         "children": [
           {
-            "id": "79bb4754c08ee52f",
+            "id": "3922d85f1a31a6c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "fbe388a82e1328bd",
+            "id": "31ebd114d739d831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "010 - Programming/012 - JavaScript/Todo List Project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -174,17 +174,17 @@
     "direction": "horizontal",
     "width": 200.5
   },
-  "active": "79bb4754c08ee52f",
+  "active": "3922d85f1a31a6c9",
   "lastOpenFiles": [
-    "templates/Project Note.md",
+    "010 - Programming/012 - JavaScript/Todo List Project.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "010 - Programming/012 - JavaScript/Compiler.md",
+    "010 - Programming/012 - JavaScript/Todo List - YT (Dev Ed).md",
+    "templates/Project Note.md",
     "050 - Projects/Youtube Todo ( Dev GB ).md",
     "888 - Assets/yt-todo-figma-design.md",
     "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "010 - Programming/010 - Programming.md",
-    "templates/@PeopleNote.md",
-    "super-Tags.md",
-    "templates/courseIndex.md",
-    "010 - Programming/012 - JavaScript/map() VS forEach().md"
+    "templates/@PeopleNote.md"
   ]
 }

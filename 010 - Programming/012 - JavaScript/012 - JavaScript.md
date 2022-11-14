@@ -10,6 +10,7 @@ back: [[010 - Programming]]
 - [[JavaScript Engine]]
 - [[map() VS forEach()]]
 - [[Sanity.io]]
+- [[Todo List Project]]
 
 %% End Waypoint %%
 
@@ -29,10 +30,15 @@ where type = "class" AND language = "javascript"
 
 
 
+``` dataview
+table
+title as "Project", dateCreated as "Started", status as "Status" 
+from #project 
+where language = 'javascript' OR
+langauge = 'react'
 ```
-name Add Project
-type note(New Project) template action Project Template class dataview-button
-```
+
+
 
 ### Projects
 ```dataview
