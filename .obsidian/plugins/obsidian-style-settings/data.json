@@ -15,5 +15,11 @@
   "minimal-advanced@@font-ui-small": 14,
   "minimal-advanced@@font-ui-smaller": 12,
   "minimal-style@@base@@light": "#646D69",
-  "buttons-styles@@button-background@@light": "#063696"
+  "buttons-styles@@button-background@@light": "#063696",
+  "buttons-styles@@button-background@@dark": "#0002C1",
+  "buttons-styles@@button-text@@light": "#C6C6C6",
+  "buttons-styles@@button-border@@light": "#3000AB",
+  "things-style@@em-color": "#7ADB45",
+  "things-style@@h1-color": "#7F94B1",
+  "things-style@@h3-color": "#72AA96"
 }

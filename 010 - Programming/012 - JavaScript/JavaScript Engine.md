@@ -1,7 +1,7 @@
 ---
 type: courseNote
 language: javascript
-tags: javascript, javascript/javascript-engine
+tags: js, js/javascript-engine
 course: javascript advanced concepts
 section: foundations
 ---
@@ -9,15 +9,15 @@ section: foundations
 
 
 ## JavaScript Engine
-#javascript/js-engine 
+#js/js-engine 
 
 The JS Engine helps JS write code that is asynchronous
 
 ### How it works
 
-It takes the JS code and parses it into *tokens* analyzes what it is trying to do. #javascript/js-engine  # javascript/keyword
+It takes the JS code and parses it into *tokens* analyzes what it is trying to do. #js/js-engine  # javascript/keyword
 
-These tokens are then formed into ***ASTs***,  abstract syntax tree. #javascript/js-engine 
+These tokens are then formed into ***ASTs***,  abstract syntax tree. #js/js-engine 
 
 The [[Interpreter]], profiler, and [[Compiler]] then work to turn the code into optimized code for the cpu
 

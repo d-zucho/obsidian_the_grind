@@ -2,8 +2,7 @@
 aliases: ["map()", "forEach()"]
 type: functions
 language: javascript
-tags: javascript/functions
-
+tags: js/functions
 ---
 back:: [[012 - JavaScript]]
 

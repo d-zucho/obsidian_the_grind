@@ -1,7 +1,7 @@
 ---
 type: courseNote
 language: javascript
-tags: javascript
+tags: js
 course: javascript advanced concepts
 section: <% section %>
 ---

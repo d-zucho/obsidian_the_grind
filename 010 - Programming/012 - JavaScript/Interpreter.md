@@ -3,7 +3,7 @@ type: courseNote
 alias: interpreter
 language: javascript
 course: javascript advanced concepts
-tags: javascript, computer-science, v8-engine
+tags: js, computer-science, v8-engine
 ---
 
 

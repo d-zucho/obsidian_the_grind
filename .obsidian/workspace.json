@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00b841ec1cc58f3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advantages of Using a Database Instead of a Flat File.md",
+                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advantages of Using a Database Instead of a Flat File.md",
+                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advantages of Using a Database Instead of a Flat File.md"
+                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md"
               }
             }
           },
@@ -159,8 +173,10 @@
     "direction": "horizontal",
     "width": 200.5
   },
-  "active": "ad446d027eba92b3",
+  "active": "00b841ec1cc58f3b",
   "lastOpenFiles": [
+    "@somethingelse.md",
+    "Advantages of Using a Database Instead of a Flat File.md",
     "Constraints.md",
     "010 - Programming/012 - JavaScript/JavaScript Engine.md",
     "010 - Programming/012 - JavaScript/Compiler.md",
@@ -168,8 +184,6 @@
     "010 - Programming/012 - JavaScript/Javascript - The Advanced Parts.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "Object Literals.md",
-    "Foundations.md",
-    "Advantages of Using a Database Instead of a Flat File.md",
-    "templates/Class Note.md"
+    "Foundations.md"
   ]
 }

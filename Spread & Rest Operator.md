@@ -23,12 +23,12 @@ The **difference**, is how it is used, which will determine if it is a spread or
 
 ## Spread Operator
 
-When using it  as the ==spread== operator, you end goal is : #card #javascript/card 
+When using it  as the ==spread== operator, you end goal is : #card #js/card 
 	to pull out elements of a list or properties out of an object and "spread" them out, without having to recode every line and property.
 <!--SR:!2022-08-20,2,230-->
 
 ### When is it Used?
-The spread operator is often used when changing `state` in react. Why? #card  #react/card #javascript/card 
+The spread operator is often used when changing `state` in react. Why? #card  #react/card #js/card 
 	- Since `state` is immutable, when we want to make a change, we do it by "copying" or "piulling out" the properties of the previous state, and adding new values or changing old to the new values.
 
 ##### Example with Array:

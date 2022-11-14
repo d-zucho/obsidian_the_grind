@@ -2,7 +2,7 @@
 alias: compiler
 type: courseNote
 language: javascript
-tags: javascript, javascript/compiler, javascript/javascript-engine, 
+tags: js, js/compiler, js/javascript-engine, 
 course: javascript advanced concepts
 section: foundations
 ---

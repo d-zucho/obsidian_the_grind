@@ -1,10 +1,12 @@
+---
+type: index
+---
+# HTML & CSS
 
 back:: [[010 - Programming]]
 
 
-
 %% Begin Waypoint %%
-- [[011 - HTML & CSS]]
 - [[CSS - Aspect-Ratio Property]]
 - [[Fluid Typography CSS]]
 - [[HTML-CSS-Read Later]]
@@ -14,7 +16,6 @@ back:: [[010 - Programming]]
 %% End Waypoint %%
 
 
-## CSS
 
 [[TailwindCSS]]
 
