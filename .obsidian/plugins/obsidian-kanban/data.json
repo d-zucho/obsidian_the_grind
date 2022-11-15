@@ -3,5 +3,28 @@
   "date-format": "MMM-Do-YYYY",
   "time-format": "hh:mm",
   "date-display-format": "YYYY-Do-MMM",
-  "show-relative-date": true
+  "show-relative-date": false,
+  "link-date-to-daily-note": true,
+  "tag-colors": [
+    {
+      "tagKey": "#react",
+      "color": "",
+      "backgroundColor": ""
+    },
+    {
+      "tagKey": "#projec",
+      "color": "",
+      "backgroundColor": "rgba(85, 17, 168, 0.1)"
+    },
+    {
+      "tagKey": "#action",
+      "color": "",
+      "backgroundColor": "rgba(10, 96, 107, 0.89)"
+    },
+    {
+      "tagKey": "#doNext",
+      "color": "",
+      "backgroundColor": "rgba(185, 43, 43, 0.1)"
+    }
+  ]
 }
