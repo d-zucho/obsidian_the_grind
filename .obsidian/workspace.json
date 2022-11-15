@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Todo List Project.md",
+                "file": "888 - Assets/yt-todo-figma-design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Todo List Project.md",
+                "file": "888 - Assets/yt-todo-figma-design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Todo List Project.md",
+                "file": "888 - Assets/yt-todo-figma-design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Todo List Project.md"
+                "file": "888 - Assets/yt-todo-figma-design.md"
               }
             }
           },
@@ -163,9 +163,9 @@
   },
   "active": "31ebd114d739d831",
   "lastOpenFiles": [
+    "010 - Programming/012 - JavaScript/Todo List Project.md",
     "010 - Programming/012 - JavaScript/map() VS forEach().md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "010 - Programming/012 - JavaScript/Todo List Project.md",
     "010 - Programming/012 - JavaScript/Compiler.md",
     "010 - Programming/012 - JavaScript/Todo List - YT (Dev Ed).md",
     "templates/Project Note.md",
