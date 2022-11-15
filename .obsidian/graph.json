@@ -5,26 +5,82 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"001 - Programming",
+      "query": "path:\"010 - Programming/012 - JavaScript\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14800439
+      }
+    },
+    {
+      "query": "path:\"010 - Programming/011 - HTML & CSS\"",
+      "color": {
+        "a": 1,
+        "rgb": 13659089
+      }
+    },
+    {
+      "query": "path:\"010 - Programming/015 - React\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"010 - Programming/050 - Projects\"",
+      "color": {
+        "a": 1,
+        "rgb": 6565371
+      }
+    },
+    {
+      "query": "path:\"010 - Programming/016 - Python\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"040 - Design\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Daily Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 14713938
+      }
+    },
+    {
+      "query": "path:\"010 - Programming/014 - PHP & Databases\"",
+      "color": {
+        "a": 1,
+        "rgb": 11147358
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.12174479166667,
-  "lineSizeMultiplier": 1.2662109375,
+  "nodeSizeMultiplier": 1.14797687861272,
+  "lineSizeMultiplier": 1.75693641618497,
   "collapse-forces": true,
   "centerStrength": 0,
-  "repelStrength": 8.49173553719008,
-  "linkStrength": 1,
-  "linkDistance": 319,
+  "repelStrength": 10,
+  "linkStrength": 0.615606936416185,
+  "linkDistance": 352,
   "scale": 0.13862801369468705,
-  "close": true
+  "close": false
 }
