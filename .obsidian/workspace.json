@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 209.5
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -169,15 +168,15 @@
   },
   "active": "65aa1480ff860ce4",
   "lastOpenFiles": [
+    "070 - Random/070 - Random.md",
+    "070 - Random/074 - Random Ways To Make Money.md",
+    "Apps or Websites To Make Money.md",
     "Kanban/k -  Notes.md",
     "Kanban/Kanban.md",
     "000-Index/000-Index.md",
     "Daily Notes/Daily Notes.md",
     "templates/Kanban.md",
     "060 - General IT/060 - General IT.md",
-    "010 - Programming/012 - JavaScript/Todo List Project.md",
-    "888 - Assets/yt-todo-figma-design.md",
-    "010 - Programming/012 - JavaScript/map() VS forEach().md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md"
+    "010 - Programming/012 - JavaScript/Todo List Project.md"
   ]
 }

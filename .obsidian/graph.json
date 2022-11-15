@@ -3,8 +3,8 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -64,16 +64,23 @@
       }
     },
     {
-      "query": "",
+      "query": "path:\"070 - Random\"",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 4016342
+      }
+    },
+    {
+      "query": "path:\"020 - Resources\"",
+      "color": {
+        "a": 1,
+        "rgb": 10375485
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.14797687861272,
   "lineSizeMultiplier": 1.75693641618497,
   "collapse-forces": true,
@@ -82,5 +89,5 @@
   "linkStrength": 0.615606936416185,
   "linkDistance": 352,
   "scale": 0.13862801369468705,
-  "close": false
+  "close": true
 }
