@@ -15,22 +15,23 @@ tags: project
 # Todo Project - YT - Dev Ed
 
 
-
-
-
 ## Details
 
 #### Tech Stack: 
 
 -  React
+	- With *Vite*
 -  CSS Modules
-- localStorage (maybe change to a database later) #project/review-later
+- localStorage (maybe change to a database / API later) #project/review-later
 - 
 
 
-**Desired Outcome** / **Purpose / Intention **
+**Desired Outcome** / **Purpose / Intention 
 
--  What is this for? 
+- Follow *Figma Design*
+	- Should  I copy/remake it to personalize it bit?
+		- **Finish this project and make my own after
+- Understand CSS Modules
 
 
 _________
@@ -39,6 +40,13 @@ _________
 
 - [ ]  Rough Design
 - [ ] Do I need Figma Design Ready?
+- [ ] Scaffold Vite 
+- [ ] Connect to Github
+- [ ] List colors being used
+- [ ] List fonts being used
+- [ ] Finish CSS for background
+- [ ] Start Styling Container for all Todos
+- [ ] Start Style individual todo list
  
 
 
