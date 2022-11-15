@@ -26,5 +26,6 @@
       "color": "",
       "backgroundColor": "rgba(185, 43, 43, 0.1)"
     }
-  ]
+  ],
+  "new-card-insertion-method": "prepend"
 }

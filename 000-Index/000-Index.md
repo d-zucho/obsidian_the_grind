@@ -10,8 +10,8 @@
 [[050 - Projects]]
 [[060 - General IT]]
 [[070 - Random]]
-
-
+[[Daily Notes]]
+[[]]
 ______
 
 
