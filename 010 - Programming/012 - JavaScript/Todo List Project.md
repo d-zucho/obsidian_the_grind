@@ -38,8 +38,26 @@ _________
 
 ### Next Actions
 
+``` dataview 
+name Add Task
+type note(New Task) template
+action Blog Post
+class dataview-button
+```
+
+
+
+
+```dataview
+TASK 
+
+```
+
+
+
+
 - [ ]  Rough Design
-- [ ] Do I need Figma Design Ready?
+- [x] Do I need Figma Design Ready?
 - [ ] Scaffold Vite 
 - [ ] Connect to Github
 - [ ] List colors being used
