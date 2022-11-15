@@ -1,3 +1,7 @@
 {
-  "new-line-trigger": "enter"
+  "new-line-trigger": "enter",
+  "date-format": "MMM-Do-YYYY",
+  "time-format": "hh:mm",
+  "date-display-format": "YYYY-Do-MMM",
+  "show-relative-date": true
 }
