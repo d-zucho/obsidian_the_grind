@@ -1,7 +1,7 @@
 ---
 source: datacamp-class
 language: python
-tags: python/data-science
+tags: python, python/data-science
 ---
 #data-science
 

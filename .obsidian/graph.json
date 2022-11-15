@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "path:\"010 - Programming/016 - Python\"",
+      "query": "",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 10375485
       }
+    },
+    {
+      "query": "content:\"language: python\"",
+      "color": {
+        "a": 1,
+        "rgb": 485686
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 0.615606936416185,
   "linkDistance": 352,
-  "scale": 0.13862801369468705,
-  "close": true
+  "scale": 0.53256930560532,
+  "close": false
 }

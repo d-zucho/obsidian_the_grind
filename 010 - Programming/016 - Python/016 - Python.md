@@ -1,4 +1,17 @@
+---
+language: python
+---
 # Python Index
+
+
+%% Begin Waypoint %%
+- [[Loading a DataFrame]]
+- [[Python Variables]]
+- [[What is Pandas]]
+
+%% End Waypoint %%
+
+
 
 
 - [[#Books :|Books :]]

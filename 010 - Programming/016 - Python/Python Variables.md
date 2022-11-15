@@ -1,3 +1,8 @@
+---
+language: python
+tags: python
+---
+
 back:: [[016 - Python]]
 
 # Python Variables

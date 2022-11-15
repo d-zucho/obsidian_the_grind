@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kanban/Kanban.md",
+                "file": "010 - Programming/Data Hierarchy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,12 +24,16 @@
             "id": "65aa1480ff860ce4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "010 - Programming/016 - Python/What is Pandas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "010 - Programming/Data Hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "010 - Programming/Data Hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "010 - Programming/Data Hierarchy.md"
+              }
             }
           },
           {
@@ -166,17 +174,17 @@
     "direction": "horizontal",
     "width": 291.5
   },
-  "active": "65aa1480ff860ce4",
+  "active": "31ebd114d739d831",
   "lastOpenFiles": [
+    "010 - Programming/016 - Python/016 - Python.md",
+    "010 - Programming/016 - Python/What is Pandas.md",
+    "010 - Programming/016 - Python/Loading a DataFrame.md",
+    "010 - Programming/016 - Python/Python Variables.md",
+    "Kanban/Kanban.md",
+    "010 - Programming/017 - Node/017 - Node.md",
     "070 - Random/070 - Random.md",
     "070 - Random/074 - Random Ways To Make Money.md",
     "Apps or Websites To Make Money.md",
-    "Kanban/k -  Notes.md",
-    "Kanban/Kanban.md",
-    "000-Index/000-Index.md",
-    "Daily Notes/Daily Notes.md",
-    "templates/Kanban.md",
-    "060 - General IT/060 - General IT.md",
-    "010 - Programming/012 - JavaScript/Todo List Project.md"
+    "Kanban/k -  Notes.md"
   ]
 }
