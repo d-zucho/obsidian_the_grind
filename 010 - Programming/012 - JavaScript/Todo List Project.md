@@ -22,8 +22,10 @@ tags: project
 
 #### Tech Stack: 
 
--  tech 1
--  tech 2
+-  React
+-  CSS Modules
+- localStorage (maybe change to a database later) #project/review-later
+- 
 
 
 **Desired Outcome** / **Purpose / Intention **
