@@ -11,7 +11,8 @@
 [[060 - General IT]]
 [[070 - Random]]
 [[Daily Notes]]
-[[]]
+[[Kanban/Kanban|Kanban]]
+
 ______
 
 

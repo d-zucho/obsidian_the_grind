@@ -3,7 +3,7 @@
   "date-format": "MMM-Do-YYYY",
   "time-format": "hh:mm",
   "date-display-format": "YYYY-Do-MMM",
-  "show-relative-date": false,
+  "show-relative-date": true,
   "link-date-to-daily-note": true,
   "tag-colors": [
     {
@@ -12,7 +12,7 @@
       "backgroundColor": ""
     },
     {
-      "tagKey": "#projec",
+      "tagKey": "#project",
       "color": "",
       "backgroundColor": "rgba(85, 17, 168, 0.1)"
     },
@@ -27,5 +27,30 @@
       "backgroundColor": "rgba(185, 43, 43, 0.1)"
     }
   ],
-  "new-card-insertion-method": "prepend"
+  "new-card-insertion-method": "prepend",
+  "new-note-template": "templates/Kanban.md",
+  "new-note-folder": "Kanban",
+  "max-archive-size": 20,
+  "show-checkboxes": false,
+  "hide-tags-in-title": true,
+  "hide-date-display": false,
+  "hide-date-in-title": true,
+  "prepend-archive-date": true,
+  "prepend-archive-separator": " -",
+  "date-picker-week-start": 0,
+  "prepend-archive-format": "YYYY-Do-MMM hh:mma",
+  "metadata-keys": [
+    {
+      "metadataKey": "type",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    },
+    {
+      "metadataKey": "topic",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 # Kanban Overview
 
 %% Begin Waypoint %%
-
+- [[k -  Notes]]
 
 %% End Waypoint %%
 
