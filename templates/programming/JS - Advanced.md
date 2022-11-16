@@ -14,3 +14,5 @@ tags: javascript
 section: <% section %>
 
 ---
+
+back:: [[Javascript - The Advanced Parts]]

@@ -24,8 +24,13 @@
             "id": "24a018d85e001378",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/programming/JS - Advanced.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -96,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/programming/JS - Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/programming/JS - Advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/programming/JS - Advanced.md"
+              }
             }
           },
           {
@@ -167,17 +176,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "14e3b11cb3981a9e",
+  "active": "24a018d85e001378",
   "lastOpenFiles": [
-    "templates/Project Note.md",
+    "070 - Random/the actual title.md",
+    "Daily Notes/Daily Notes.md",
     "backups/what project is this.md",
+    "templates/Project Note.md",
     "backups/a.md",
     "backups/asda.md",
     "templates/Blog Post.md",
     "templates/Class Note.md",
     "templates/courseIndex.md",
-    "templates/programming/Coding Note.md",
-    "backups/then note title.md",
-    "backups/some other test.md"
+    "templates/programming/Coding Note.md"
   ]
 }
