@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d083ce71b24c991e",
+        "id": "3bee7c808471008d",
         "type": "tabs",
         "children": [
           {
-            "id": "65aa1480ff860ce4",
+            "id": "eda935db9826e4e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/programming/Coding Note.md",
+                "file": "templates/Project Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,14 +21,15 @@
             }
           },
           {
-            "id": "675de9c27c8cead0",
+            "id": "24a018d85e001378",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/programming/Coding Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/programming/Coding Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "templates/programming/Coding Note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,17 +167,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "65aa1480ff860ce4",
+  "active": "14e3b11cb3981a9e",
   "lastOpenFiles": [
-    "backups/then note title.md",
-    "backups/some other test.md",
-    "templates/programming/Coding Note.md",
-    "templates/Class Note.md",
-    "backups/sdf.md",
+    "templates/Project Note.md",
+    "backups/what project is this.md",
     "backups/a.md",
-    "backups/Another try 2.md",
-    "backups/ssssss.md",
-    "backups/s.md",
-    "backups/sssss.md"
+    "backups/asda.md",
+    "templates/Blog Post.md",
+    "templates/Class Note.md",
+    "templates/courseIndex.md",
+    "templates/programming/Coding Note.md",
+    "backups/then note title.md",
+    "backups/some other test.md"
   ]
 }

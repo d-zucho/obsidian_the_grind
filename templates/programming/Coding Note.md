@@ -2,7 +2,7 @@
 <%* let title = await tp.system.prompt("Title"); 
 		
 		
-let language = await p.system.prompt('language: ');
+let language = await tp.system.prompt('language: ');
 let topic = await tp.system.prompt('topic: ');
 let folder = await tp.file.folder(true);
 %>
