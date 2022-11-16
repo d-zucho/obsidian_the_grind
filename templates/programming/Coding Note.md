@@ -1,7 +1,6 @@
 ---
-<%* let title = tp.file.title 
-		title = await tp.system.prompt("Title"); 
-		await tp.file.rename(`${title}`); 
+<%* let title = await tp.system.prompt("Title"); 
+		
 		
 	let language = await tp.system.prompt('language: ')
 	let topic = await tp.system.prompt('topic: ')
@@ -11,12 +10,14 @@
 type: codingNote
 language: <% language %>
 topic: <% topic %>
-tags: 
+tags: <% language %>
 
 ---
-<% folder %>
+back: [[<% folder %>]]
 
-back:: <% tp.file.folder %>
+
 
 
 # <% title %>
+
+{{title}}

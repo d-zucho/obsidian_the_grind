@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/programming/Coding Note.md",
+                "file": "backups/ssssss.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "675de9c27c8cead0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backups/sssss.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/programming/Coding Note.md",
+                "file": "backups/ssssss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/programming/Coding Note.md",
+                "file": "backups/ssssss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/programming/Coding Note.md"
+                "file": "backups/ssssss.md"
               }
             }
           },
@@ -164,15 +177,15 @@
   },
   "active": "65aa1480ff860ce4",
   "lastOpenFiles": [
-    "backups/asdl.md",
     "templates/programming/Coding Note.md",
+    "backups/s.md",
+    "backups/Another try 2.md",
+    "backups/sssss.md",
+    "backups/asdl.md",
     "templates/programming/Daily Note.md",
     "010 - Programming/011 - HTML & CSS/What To Use For Unsupported CSS.md",
     "templates/Class Note.md",
     "templates/programming/JS - Advanced.md",
-    "010 - Programming/011 - HTML & CSS/folder no.md",
-    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
-    "010 - Programming/016 - Python/What is Pandas.md",
-    "010 - Programming/Data Hierarchy.md"
+    "010 - Programming/011 - HTML & CSS/folder no.md"
   ]
 }
