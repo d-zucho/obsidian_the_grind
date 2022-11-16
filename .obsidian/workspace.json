@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/011 - HTML & CSS/What To Use For Unsupported CSS.md",
+                "file": "templates/programming/Coding Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/011 - HTML & CSS/What To Use For Unsupported CSS.md",
+                "file": "templates/programming/Coding Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/011 - HTML & CSS/What To Use For Unsupported CSS.md",
+                "file": "templates/programming/Coding Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/011 - HTML & CSS/What To Use For Unsupported CSS.md"
+                "file": "templates/programming/Coding Note.md"
               }
             }
           },
@@ -164,15 +164,15 @@
   },
   "active": "65aa1480ff860ce4",
   "lastOpenFiles": [
-    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
+    "backups/asdl.md",
     "templates/programming/Coding Note.md",
+    "templates/programming/Daily Note.md",
     "010 - Programming/011 - HTML & CSS/What To Use For Unsupported CSS.md",
+    "templates/Class Note.md",
+    "templates/programming/JS - Advanced.md",
+    "010 - Programming/011 - HTML & CSS/folder no.md",
+    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "010 - Programming/016 - Python/What is Pandas.md",
-    "010 - Programming/Data Hierarchy.md",
-    "010 - Programming/016 - Python/016 - Python.md",
-    "010 - Programming/016 - Python/Loading a DataFrame.md",
-    "010 - Programming/016 - Python/Python Variables.md",
-    "Kanban/Kanban.md",
-    "010 - Programming/017 - Node/017 - Node.md"
+    "010 - Programming/Data Hierarchy.md"
   ]
 }
