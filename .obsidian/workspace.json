@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eedc8de1ac75338a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -176,8 +189,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "24a018d85e001378",
+  "active": "eedc8de1ac75338a",
   "lastOpenFiles": [
+    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
     "templates/programming/Daily Note.md",
     "templates/programming/JS - Advanced.md",
     "070 - Random/the actual title.md",
@@ -186,7 +200,6 @@
     "templates/Project Note.md",
     "backups/a.md",
     "backups/asda.md",
-    "templates/Blog Post.md",
-    "templates/Class Note.md"
+    "templates/Blog Post.md"
   ]
 }
