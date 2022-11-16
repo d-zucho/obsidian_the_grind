@@ -2,8 +2,9 @@
 area: general
 tags: computer-science
 language: python
+tags: python
 ---
-[[016 - Python]]
+back:: [[016 - Python]]
 
 source:: [[Intro to Python -for Computer Science and Data Science]]
 # Data Hierarchy

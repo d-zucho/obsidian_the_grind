@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31ebd114d739d831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010 - Programming/Data Hierarchy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "65aa1480ff860ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/016 - Python/What is Pandas.md",
+                "file": "010 - Programming/011 - HTML & CSS/What To Use For Unsupported CSS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 200
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/Data Hierarchy.md",
+                "file": "010 - Programming/011 - HTML & CSS/What To Use For Unsupported CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/Data Hierarchy.md",
+                "file": "010 - Programming/011 - HTML & CSS/What To Use For Unsupported CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/Data Hierarchy.md"
+                "file": "010 - Programming/011 - HTML & CSS/What To Use For Unsupported CSS.md"
               }
             }
           },
@@ -172,19 +159,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 200,
+    "collapsed": true
   },
-  "active": "31ebd114d739d831",
+  "active": "65aa1480ff860ce4",
   "lastOpenFiles": [
-    "010 - Programming/016 - Python/016 - Python.md",
+    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
+    "templates/programming/Coding Note.md",
+    "010 - Programming/011 - HTML & CSS/What To Use For Unsupported CSS.md",
     "010 - Programming/016 - Python/What is Pandas.md",
+    "010 - Programming/Data Hierarchy.md",
+    "010 - Programming/016 - Python/016 - Python.md",
     "010 - Programming/016 - Python/Loading a DataFrame.md",
     "010 - Programming/016 - Python/Python Variables.md",
     "Kanban/Kanban.md",
-    "010 - Programming/017 - Node/017 - Node.md",
-    "070 - Random/070 - Random.md",
-    "070 - Random/074 - Random Ways To Make Money.md",
-    "Apps or Websites To Make Money.md",
-    "Kanban/k -  Notes.md"
+    "010 - Programming/017 - Node/017 - Node.md"
   ]
 }
