@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/programming/JS - Advanced.md",
+                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/programming/JS - Advanced.md",
+                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/programming/JS - Advanced.md",
+                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/programming/JS - Advanced.md"
+                "file": "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "24a018d85e001378",
   "lastOpenFiles": [
+    "templates/programming/Daily Note.md",
+    "templates/programming/JS - Advanced.md",
     "070 - Random/the actual title.md",
     "Daily Notes/Daily Notes.md",
     "backups/what project is this.md",
@@ -185,8 +187,6 @@
     "backups/a.md",
     "backups/asda.md",
     "templates/Blog Post.md",
-    "templates/Class Note.md",
-    "templates/courseIndex.md",
-    "templates/programming/Coding Note.md"
+    "templates/Class Note.md"
   ]
 }
