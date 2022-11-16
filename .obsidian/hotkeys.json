@@ -60,5 +60,15 @@
       ],
       "key": "T"
     }
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "templater-obsidian:replace-in-file-templater": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }

@@ -3,7 +3,7 @@
 
 type: codingNote
 language: css
-topic: css
+topic: sdasdasd
 tags: css
 
 ---
@@ -11,7 +11,4 @@ back: [[backups]]
 
 
 
-
-# asd
-
-{{title}}
+# Untitled

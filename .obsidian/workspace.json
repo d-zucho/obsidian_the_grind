@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backups/ssssss.md",
+                "file": "templates/programming/Coding Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,13 +24,8 @@
             "id": "675de9c27c8cead0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "backups/sssss.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -100,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backups/ssssss.md",
+                "file": "templates/programming/Coding Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backups/ssssss.md",
+                "file": "templates/programming/Coding Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backups/ssssss.md"
+                "file": "templates/programming/Coding Note.md"
               }
             }
           },
@@ -177,15 +172,15 @@
   },
   "active": "65aa1480ff860ce4",
   "lastOpenFiles": [
+    "backups/then note title.md",
+    "backups/some other test.md",
     "templates/programming/Coding Note.md",
-    "backups/s.md",
-    "backups/Another try 2.md",
-    "backups/sssss.md",
-    "backups/asdl.md",
-    "templates/programming/Daily Note.md",
-    "010 - Programming/011 - HTML & CSS/What To Use For Unsupported CSS.md",
     "templates/Class Note.md",
-    "templates/programming/JS - Advanced.md",
-    "010 - Programming/011 - HTML & CSS/folder no.md"
+    "backups/sdf.md",
+    "backups/a.md",
+    "backups/Another try 2.md",
+    "backups/ssssss.md",
+    "backups/s.md",
+    "backups/sssss.md"
   ]
 }
