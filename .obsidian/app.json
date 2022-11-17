@@ -4,5 +4,5 @@
   "showFrontmatter": true,
   "livePreview": true,
   "promptDelete": false,
-  "showInlineTitle": true
+  "showInlineTitle": false
 }
