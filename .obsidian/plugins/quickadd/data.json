@@ -11,10 +11,10 @@
         "format": ""
       },
       "folder": {
-        "enabled": false,
+        "enabled": true,
         "folders": [],
         "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false
+        "createInSameFolderAsActiveFile": true
       },
       "appendLink": true,
       "incrementFileName": true,

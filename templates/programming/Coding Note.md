@@ -15,6 +15,7 @@ tags: <% language %>
 ---
 back: [[<% folder %>]]
 
+<% title %>
 
 
 
