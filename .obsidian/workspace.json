@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Class Note.md",
+                "file": "templates/Project Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Class Note.md",
+                "file": "templates/Project Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Class Note.md",
+                "file": "templates/Project Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Class Note.md"
+                "file": "templates/Project Note.md"
               }
             }
           },
@@ -191,6 +191,7 @@
   },
   "active": "eedc8de1ac75338a",
   "lastOpenFiles": [
+    "templates/Class Note.md",
     "templates/Blog Post.md",
     "templates/Aritcle.md",
     "templates/@PeopleNote.md",
@@ -199,7 +200,6 @@
     "Daily Notes/jasd.md",
     "Daily Notes/Daily Notes.md",
     "Daily Notes/note title.md",
-    "Daily Notes/todo.md",
-    "Daily Notes/Untitled.md"
+    "Daily Notes/todo.md"
   ]
 }
