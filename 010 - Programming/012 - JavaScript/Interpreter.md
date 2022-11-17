@@ -1,6 +1,6 @@
 ---
 type: courseNote
-alias: interpreter
+alias: interpreter, int
 language: javascript
 course: javascript advanced concepts
 tags: js, computer-science, v8-engine

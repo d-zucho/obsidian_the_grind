@@ -1,24 +1,25 @@
 ---
-<%* 
-//	if (tp.file.title == "Untitled") {
-		let title = await tp.system.prompt("Title"); 
-		tp.file.rename(tp.file.title)
-//	}
-		
-		
-let language = await tp.system.prompt('language: ');
-let topic = await tp.system.prompt('topic: ');
-let folder = await tp.file.folder(true);
-%>
 
-type: codingNote
+<%*
+  let title = tp.file.title
+  if (title.startsWith("Untitled")) {
+    title = await tp.system.prompt("Title");
+    await tp.file.rename(title);
+  } 
+
+  let language = await tp.system.prompt("Language: ")
+  let topic = await tp.system.prompt("Topic: ")
+
+  
+  
+%>
+title:  <% title %>
+alias:
+topic: <%topic %> 
 language: <% language %>
-topic: <% topic %>
 tags: <% language %>
 
 ---
-back: [[<% folder %>]]
-
-
+back:: [[<%tp.file.folder()%>]]
 
 

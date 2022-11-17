@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eda935db9826e4e6",
+            "id": "eedc8de1ac75338a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/courseIndex.md",
+                "file": "010 - Programming/012 - JavaScript/Interpreter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,14 +21,15 @@
             }
           },
           {
-            "id": "eedc8de1ac75338a",
+            "id": "e29277bfdafaf345",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/courseIndex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/courseIndex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "templates/courseIndex.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,17 +166,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "eda935db9826e4e6",
+  "active": "14e3b11cb3981a9e",
   "lastOpenFiles": [
-    "010 - Programming/012 - JavaScript/Courses/some class name.md",
-    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+    "010 - Programming/012 - JavaScript/Interpreter.md",
     "010 - Programming/012 - JavaScript/JavaScript Engine.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "Daily Notes/Daily Notes.md",
+    "templates/Kanban.md",
     "templates/JS - Advanced.md",
-    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
-    "Daily Notes/examploe class.md",
-    "templates/Class Note.md",
-    "Foundations.md"
+    "templates/Default Template.md",
+    "templates/Daily Note.md",
+    "templates/courseIndex.md",
+    "templates/Blog Post.md",
+    "templates/Class Note.md"
   ]
 }

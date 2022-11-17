@@ -9,8 +9,8 @@
   
 %>
 title:  <% title %>
-created: <% tp.date.now("dddd Do MMMM YYYY HH:mm") %>
-Last modified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm") %>
+dateCreated: <% tp.date.now("dddd Do MMMM YYYY HH:mm") %>
+lastModified: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm") %>
 Aliases: 
 Tags:
 
