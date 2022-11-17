@@ -1,10 +1,10 @@
 ---
 <%* let title = await tp.system.prompt("Title"); 
-		
+	await tp.file.rename(tp.system.prompt("title"))
 		
 let language = await tp.system.prompt('language: ');
 let topic = await tp.system.prompt('topic: ');
-let folder = await tp.file.folder(true);
+
 %>
 
 type: codingNote

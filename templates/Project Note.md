@@ -3,7 +3,7 @@
 <%* 
 
 	//title.startsWith("Untitled")
-		let title = await tp.system.prompt("Title"); 
+		let title = tp.system.prompt("Title"); 
 		await tp.file.rename(`${title}`); 
 		let language = await tp.system.prompt("language: ");
 		
