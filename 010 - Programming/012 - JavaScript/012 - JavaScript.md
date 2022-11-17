@@ -4,12 +4,14 @@ back: [[010 - Programming]]
 
 %% Begin Waypoint %%
 - [[Compiler]]
+- **Courses**
+	- [[Javascript - The Advanced Parts]]
 - [[Interpreter]]
-- [[Javascript - The Advanced Parts]]
 - [[JavaScript Engine]]
 - [[map() VS forEach()]]
 - [[Sanity.io]]
 - [[Todo List Project]]
+
 %% End Waypoint %%
 
 

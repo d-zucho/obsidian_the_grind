@@ -8,7 +8,7 @@
   } 
 
   let language = await tp.system.prompt("Language: ")
-tp.
+
   
   
 %>
