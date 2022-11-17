@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Project Note.md",
+                "file": "Daily Notes/fuck.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bf90a8d9afead15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/default 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-11-2022.md",
+                "file": "templates/Class Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-11-2022.md",
+                "file": "Daily Notes/default 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-11-2022.md",
+                "file": "Daily Notes/default 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-11-2022.md"
+                "file": "Daily Notes/default 2.md"
               }
             }
           },
@@ -188,17 +201,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "eedc8de1ac75338a",
+  "active": "8bf90a8d9afead15",
   "lastOpenFiles": [
-    "Daily Notes/2022-13-2022.md",
-    "Daily Notes/Daily Notes.md",
-    "Daily Notes/sp,etjomg.md",
+    "templates/Default Template.md",
+    "Daily Notes/fuck.md",
     "templates/Coding Note.md",
-    "templates/Project Note.md",
-    "Daily Notes/title 1.md",
-    "Daily Notes/somee.md",
-    "Daily Notes/title one.md",
-    "Daily Notes/Example 1.md",
-    "templates/Class Note.md"
+    "Daily Notes/title 2.md",
+    "Daily Notes/first.md",
+    "Daily Notes/dfgdfgdfgdgfd.md",
+    "templates/JS - Advanced.md",
+    "070 - Random/idk.md",
+    "Daily Notes/hgfhfgh.md",
+    "templates/Project Note.md"
   ]
 }

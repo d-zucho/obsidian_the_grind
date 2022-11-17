@@ -1,9 +1,9 @@
 ---
 <%* 
-	if (tp.file.title == "Coding Note") {
+//	if (tp.file.title == "Untitled") {
 		let title = await tp.system.prompt("Title"); 
-		tp.file.rename(`${title}`)
-	}
+		tp.file.rename(tp.file.title)
+//	}
 		
 		
 let language = await tp.system.prompt('language: ');

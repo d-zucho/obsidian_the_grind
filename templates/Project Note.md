@@ -9,7 +9,7 @@
 		
 
 
-let title = tp.system.prompt("Note Title: ")
+
  
 %>
 type: project
@@ -22,7 +22,7 @@ tags: project
 
 
 
-# <%+ title %>
+# <% tp.file.title %>
 
 
 

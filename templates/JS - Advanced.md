@@ -1,6 +1,6 @@
 ---
 <%* let title = tp.file.title 
-	if (title.startsWith("Untitled")) { 
+	if (title.startsWith("JS - Advanced")) { 
 		title = await tp.system.prompt("Title"); 
 		await tp.file.rename(`${title}`); 
 		}
