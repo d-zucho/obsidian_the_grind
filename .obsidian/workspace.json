@@ -11,13 +11,8 @@
             "id": "eda935db9826e4e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/fuck.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -26,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/default 2.md",
+                "file": "templates/JS - Advanced.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Class Note.md",
+                "file": "templates/JS - Advanced.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/default 2.md",
+                "file": "templates/JS - Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/default 2.md",
+                "file": "templates/JS - Advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/default 2.md"
+                "file": "templates/JS - Advanced.md"
               }
             }
           },
@@ -201,17 +196,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "8bf90a8d9afead15",
+  "active": "eedc8de1ac75338a",
   "lastOpenFiles": [
-    "templates/Default Template.md",
-    "Daily Notes/fuck.md",
-    "templates/Coding Note.md",
-    "Daily Notes/title 2.md",
-    "Daily Notes/first.md",
-    "Daily Notes/dfgdfgdfgdgfd.md",
+    "templates/Class Note.md",
     "templates/JS - Advanced.md",
-    "070 - Random/idk.md",
-    "Daily Notes/hgfhfgh.md",
-    "templates/Project Note.md"
+    "010 - Programming/012 - JavaScript/JavaScript Engine.md",
+    "Foundations.md",
+    "010 - Programming/012 - JavaScript/Javascript - The Advanced Parts.md",
+    "templates/Blog Post.md",
+    "templates/courseIndex.md",
+    "templates/Coding Note.md",
+    "Daily Notes/new 1.md",
+    "Daily Notes/1.md"
   ]
 }
