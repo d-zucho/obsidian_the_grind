@@ -70,5 +70,13 @@
       ],
       "key": "P"
     }
+  ],
+  "templater-obsidian:templates/JS - Advanced.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
   ]
 }
