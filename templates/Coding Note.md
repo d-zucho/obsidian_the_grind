@@ -1,10 +1,14 @@
 ---
-<%* let title = await tp.system.prompt("Title"); 
-	await tp.file.rename(tp.system.prompt("title"))
+<%* 
+	if (tp.file.title == "Coding Note") {
+		let title = await tp.system.prompt("Title"); 
+		tp.file.rename(`${title}`)
+	}
+		
 		
 let language = await tp.system.prompt('language: ');
 let topic = await tp.system.prompt('topic: ');
-
+let folder = await tp.file.folder(true);
 %>
 
 type: codingNote
@@ -15,7 +19,6 @@ tags: <% language %>
 ---
 back: [[<% folder %>]]
 
-<% title %>
 
 
 
