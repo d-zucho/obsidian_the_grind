@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "templates",
-      "template": "templates/Aritcle.md"
+      "template": "templates/courseIndex.md"
     }
   ],
   "syntax_highlighting": true,
