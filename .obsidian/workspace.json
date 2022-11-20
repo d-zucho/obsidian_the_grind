@@ -13,23 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Interpreter.md",
+                "file": "040 - Design/Flower Letter Mask - Procreate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "e29277bfdafaf345",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Interpreter.md",
+                "file": "040 - Design/Flower Letter Mask - Procreate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Interpreter.md",
+                "file": "040 - Design/Flower Letter Mask - Procreate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Interpreter.md"
+                "file": "040 - Design/Flower Letter Mask - Procreate.md"
               }
             }
           },
@@ -170,17 +161,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "14e3b11cb3981a9e",
+  "active": "eedc8de1ac75338a",
   "lastOpenFiles": [
+    "040 - Design/040 - Design.md",
+    "010 - Programming/010 - Programming.md",
+    "000-Index/000-Index.md",
     "010 - Programming/012 - JavaScript/Interpreter.md",
     "010 - Programming/012 - JavaScript/JavaScript Engine.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "templates/Kanban.md",
     "templates/JS - Advanced.md",
     "templates/Default Template.md",
-    "templates/Daily Note.md",
-    "templates/courseIndex.md",
-    "templates/Blog Post.md",
-    "templates/Class Note.md"
+    "templates/Daily Note.md"
   ]
 }
