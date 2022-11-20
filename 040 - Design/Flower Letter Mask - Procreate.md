@@ -16,4 +16,4 @@ tags: procreate, tutorial
 
 1.  Add Letter with wrench tool
 	1. Use Arial, or similar text, ***bold***, and increase size (most likely) the biggest
-2. Add
+2. Add picture 
