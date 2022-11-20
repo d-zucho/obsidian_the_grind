@@ -4,7 +4,7 @@ title:  Flower Letter Mask - Procreate
 type: Procreate Tutorial
 topic: masking
 Aliases: ["Flower Mask", "Letter Mask"]
-Tags: procreate, tutorial
+tags: procreate, tutorial
 
 ---
 

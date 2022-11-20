@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eedc8de1ac75338a",
+            "id": "b8c230375b68fe0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "040 - Design/Flower Letter Mask - Procreate.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bced9af925fc3e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "040 - Design/040 - Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -174,17 +161,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "eedc8de1ac75338a",
+  "active": "b8c230375b68fe0e",
   "lastOpenFiles": [
-    "040 - Design/040 - Design.md",
-    "040 - Design/Flower Letter Mask - Procreate.md",
-    "test.md",
     "010 - Programming/010 - Programming.md",
-    "000-Index/000-Index.md",
-    "010 - Programming/012 - JavaScript/Interpreter.md",
+    "040 - Design/040 - Design.md",
     "010 - Programming/012 - JavaScript/JavaScript Engine.md",
+    "010 - Programming/017 - Node/017 - Node.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "templates/Kanban.md",
-    "templates/JS - Advanced.md"
+    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+    "050 - Projects/050 - Projects.md",
+    "030 - Interview Tips/030 - Interview Tips.md",
+    "020 - Resources/020 - Resources.md",
+    "templates/@PeopleNote.md"
   ]
 }

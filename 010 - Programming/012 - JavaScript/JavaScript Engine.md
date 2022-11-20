@@ -22,6 +22,8 @@ These tokens are then formed into ***ASTs***,  abstract syntax tree. #js/js-engi
 The [[Interpreter]], profiler, and [[Compiler]] then work to turn the code into optimized code for the cpu
 
 
+
+
 You can run JavaScript with **the interpreter** or the **compiler**
 
 
