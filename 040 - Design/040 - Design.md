@@ -9,9 +9,11 @@ back: [[000-Index]]
 ```dataview
 table
 file as "Name", type as "Type"
-WHERE type = "Procreate Tutorial" and 
-with
+from #procreate 
+WHERE type = "Procreate Tutorial"
 ```
+
+
 
 
 

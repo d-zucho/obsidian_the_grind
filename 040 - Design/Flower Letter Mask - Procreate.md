@@ -2,8 +2,7 @@
 
 title:  Flower Letter Mask - Procreate
 type: Procreate Tutorial
-dateCreated: Sunday 20th November 2022 12:55
-lastModified: Sunday 20th November 2022 12:49
+topic: masking
 Aliases: ["Flower Mask", "Letter Mask"]
 Tags: procreate, tutorial
 
