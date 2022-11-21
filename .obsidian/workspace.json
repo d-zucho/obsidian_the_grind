@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 - Design/Flower Letter Mask - Procreate.md",
+                "file": "010 - Programming/050 - Projects/050 - Projects.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 - Design/Flower Letter Mask - Procreate.md",
+                "file": "010 - Programming/050 - Projects/050 - Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 - Design/Flower Letter Mask - Procreate.md",
+                "file": "010 - Programming/050 - Projects/050 - Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040 - Design/Flower Letter Mask - Procreate.md"
+                "file": "010 - Programming/050 - Projects/050 - Projects.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "b8c230375b68fe0e",
   "lastOpenFiles": [
+    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+    "030 - Interview Tips/030 - Interview Tips.md",
+    "050 - Projects/050 - Projects.md",
     "010 - Programming/010 - Programming.md",
+    "040 - Design/Flower Letter Mask - Procreate.md",
     "040 - Design/040 - Design.md",
     "010 - Programming/012 - JavaScript/JavaScript Engine.md",
     "010 - Programming/017 - Node/017 - Node.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
-    "050 - Projects/050 - Projects.md",
-    "030 - Interview Tips/030 - Interview Tips.md",
-    "020 - Resources/020 - Resources.md",
-    "templates/@PeopleNote.md"
+    "020 - Resources/020 - Resources.md"
   ]
 }
