@@ -5,8 +5,8 @@
 ## Projects
 
 ```dataview
-table
-file as "Name"
+table without id
+file as "Name", status as "Status"
 FROM #project 
 WHERE status = "inProgress"
 ```
