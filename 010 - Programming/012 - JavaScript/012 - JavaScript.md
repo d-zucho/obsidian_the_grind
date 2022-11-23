@@ -4,8 +4,7 @@ back: [[010 - Programming]]
 
 %% Begin Waypoint %%
 - [[Compiler]]
-- **Courses**
-	- [[Javascript - The Advanced Parts]]
+- **[[Courses]]**
 - [[Interpreter]]
 - [[JavaScript Engine]]
 - [[map() VS forEach()]]
@@ -37,20 +36,12 @@ ___
 ___
 
 
-## Classes
-
-```dataview
-table type as "Class", teacher as "Teacher"
-where type = "class" AND language = "javascript"
-
-```
-
-
-## Projects
+## Projects -- JS / React
 
 ```dataview
 table 
-title as "Project", dateCreated as "Started", status as "Status"
+title as "Project", dateCreated as "Started", status as "Status",
+lastModified as "Last Modified"
 from #project 
 where language = "javascript" or language = "react"
 ```

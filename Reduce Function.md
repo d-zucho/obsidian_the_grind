@@ -1,5 +1,8 @@
 ---
+type: codingNote
 language: javascript
+topic: functions
+tags: js, js/functions
 ---
 back: [[012 - JavaScript]]
 
