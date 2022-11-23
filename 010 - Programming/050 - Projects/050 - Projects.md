@@ -5,10 +5,10 @@
 ## Projects
 
 ```dataview
-table without id
+table
 file as "Name", status as "Status"
 FROM #project 
-WHERE status = "inProgress"
+
 ```
 
 ```ccard

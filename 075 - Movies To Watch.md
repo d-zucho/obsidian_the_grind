@@ -3,7 +3,7 @@
 ## Horror Movies
 
 - Oculus
-- Texas Chainsaw Massacre (2022)
+- Texas Chainsaw Massacre (2022) -- Watched 11/22/22
 - Ouija / Ouija: Origin of Evil
 - The Taking of Deborah Logan -- Watched 11/22/22
 - Wrong Turn -- watched 11/22/22

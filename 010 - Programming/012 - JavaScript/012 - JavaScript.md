@@ -49,7 +49,7 @@ where type = "class" AND language = "javascript"
 ## Projects
 
 ```dataview
-table without ID 
+table 
 title as "Project", dateCreated as "Started", status as "Status"
 from #project 
 where language = "javascript" or language = "react"
