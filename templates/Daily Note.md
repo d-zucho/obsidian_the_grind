@@ -1,24 +1,29 @@
 ---
+
+<%*
+
+let qctitleName = await tp.system.prompt("Note Title: ")
+qcfileName = tp.date.now("YYYY-MM-Do")
+tp.file.rename(fileName)
+
+tp.file.functions.move('/Daily Notes/', )
+
+
+
+%>
 type: dailyNote
 dateCreated: <%tp.file.creation_date('MMM-Do-YYYY')%>
 ---
 
 
 
-## Any Priorities?
-
+### Any Priorities?
 
 - [ ] Priority 1
 - [ ]  
 
-> [!question] Who is this
-> I don tknow
 
 
-```ad-question
-title: where is he?
-idk
-```
 
 
 
@@ -30,4 +35,11 @@ idk
 
 
 
-##  Anything Important Happen?
+## Daily Review
+
+- ...
+
+
+>[!note] Anything Important Happen?
+>nope
+

@@ -71,12 +71,28 @@
       "key": "P"
     }
   ],
+  "templater-obsidian:templates/Daily Note.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
   "templater-obsidian:templates/JS - Advanced.md": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "J"
+    }
+  ],
+  "templater-obsidian:templates/Coding Note.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
     }
   ]
 }

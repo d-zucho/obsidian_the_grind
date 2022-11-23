@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1211ee4dd3c00941",
+        "id": "b5eb792ab9c0dd2b",
         "type": "tabs",
         "children": [
           {
-            "id": "127e1e5176e071d0",
+            "id": "237d3e42eed96cbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,17 +160,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "127e1e5176e071d0",
+  "active": "237d3e42eed96cbc",
   "lastOpenFiles": [
-    "Daily Notes/test try 2.md",
     "templates/Coding Note.md",
+    "templates/Project Note.md",
+    "templates/Default Template.md",
+    "templates/Daily Note.md",
+    "templates/Class Note.md",
+    "Daily Notes/test try 2.md",
     "Reduce Function.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "010 - Programming/012 - JavaScript/Courses/Courses.md",
-    "010 - Programming/050 - Projects/050 - Projects.md",
-    "070 - Random/[object Promise].md",
-    "templates/Project Note.md",
-    "Daily Notes/asd.md",
-    "Daily Notes/Daily Notes.md"
+    "010 - Programming/050 - Projects/050 - Projects.md"
   ]
 }
