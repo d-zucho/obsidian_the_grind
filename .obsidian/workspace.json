@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Daily Note.md",
+                "file": "Daily Notes/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Daily Note.md",
+                "file": "Daily Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Daily Note.md",
+                "file": "Daily Notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Daily Note.md"
+                "file": "Daily Notes/Untitled.md"
               }
             }
           },
@@ -162,15 +162,15 @@
   },
   "active": "237d3e42eed96cbc",
   "lastOpenFiles": [
+    "templates/Daily Note.md",
+    "Going Back For A bit - 2022-11-23rd.md",
     "templates/Coding Note.md",
     "templates/Project Note.md",
     "templates/Default Template.md",
-    "templates/Daily Note.md",
     "templates/Class Note.md",
     "Daily Notes/test try 2.md",
     "Reduce Function.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "010 - Programming/012 - JavaScript/Courses/Courses.md",
-    "010 - Programming/050 - Projects/050 - Projects.md"
+    "010 - Programming/012 - JavaScript/Courses/Courses.md"
   ]
 }

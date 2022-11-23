@@ -74,7 +74,7 @@
   "templater-obsidian:templates/Daily Note.md": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "D"
     }
@@ -94,5 +94,14 @@
       ],
       "key": "C"
     }
-  ]
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": []
 }

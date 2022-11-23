@@ -1,7 +1,9 @@
 ---
-
+<%*
+tp.file.rename()
+%>
 type: dailyNote
-dateCreated: <%tp.file.creation_date('MMM-Do-YYYY HH:mm') %>
+dateCreated: Nov-23rd-2022 02:48
 tags: daily-note, quick-note
 ---
 
