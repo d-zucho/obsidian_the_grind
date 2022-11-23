@@ -1,9 +1,7 @@
 ---
-<%*
-tp.file.rename()
-%>
+
 type: dailyNote
-dateCreated: Nov-23rd-2022 02:48
+dateCreated: Nov-23rd-2022 02:52
 tags: daily-note, quick-note
 ---
 

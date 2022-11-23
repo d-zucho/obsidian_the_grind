@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Untitled.md",
+                "file": "050 - Projects/Youtube Todo ( Dev GB ).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Untitled.md",
+                "file": "050 - Projects/Youtube Todo ( Dev GB ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Untitled.md",
+                "file": "050 - Projects/Youtube Todo ( Dev GB ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Untitled.md"
+                "file": "050 - Projects/Youtube Todo ( Dev GB ).md"
               }
             }
           },
@@ -162,15 +162,15 @@
   },
   "active": "237d3e42eed96cbc",
   "lastOpenFiles": [
-    "templates/Daily Note.md",
-    "Going Back For A bit - 2022-11-23rd.md",
-    "templates/Coding Note.md",
+    "Clearing Input Field in React.md",
+    "050 - Projects/Youtube Todo ( Dev GB ).md",
+    "050 - Projects/050 - Projects.md",
     "templates/Project Note.md",
-    "templates/Default Template.md",
-    "templates/Class Note.md",
-    "Daily Notes/test try 2.md",
-    "Reduce Function.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "010 - Programming/012 - JavaScript/Courses/Courses.md"
+    "070 - Random/074 - Random Ways To Make Money.md",
+    "Daily Notes/Untitled.md",
+    "Daily Notes/2022-11-23.md",
+    "Daily Notes/Daily Notes.md",
+    "templates/Daily Note.md",
+    "Daily Notes/Daily Note.md"
   ]
 }

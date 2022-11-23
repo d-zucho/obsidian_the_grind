@@ -4,3 +4,7 @@ back: [[000-Index]]
 
 
 - [[Portfolio]]
+```dataview
+table
+file as "Project", createdOn
+```
