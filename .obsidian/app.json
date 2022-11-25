@@ -1,4 +1,6 @@
 {
+  "accentColor": "#752cce",
+  "showViewHeader": false,
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": null,
   "showFrontmatter": true,
