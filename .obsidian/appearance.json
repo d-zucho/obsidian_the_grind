@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "custom-admonitions.03f05e",
-    "Blue Topaz"
+    "Things",
+    "custom-admonitions.03f05e"
   ],
   "baseFontSize": 16,
   "accentColor": "#752cce",
