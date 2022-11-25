@@ -1,8 +1,11 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "Things",
     "custom-admonitions.03f05e"
   ],
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "accentColor": "#752cce",
+  "showViewHeader": false,
+  "theme": "obsidian"
 }
