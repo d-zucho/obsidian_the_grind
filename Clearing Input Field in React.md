@@ -1,14 +1,22 @@
 ---
 
-
+type: snippet
 title:  Clearing Input Field in React
 alias:
 topic: clearing input fields in react 
 language: react
-tags: react
+tags: react, snippets
 
 ---
 back:: [[Youtube Todo ( Dev GB )]]
+
+
+
+```ad-summary
+title: Clear Input after Form Submission
+After everything is logged, simply use your state state setter function to clear the value again.
+> See example Below in the handleSubmit function.
+```
 
 
 

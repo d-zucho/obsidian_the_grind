@@ -20,20 +20,22 @@ language: React
 -  React
 -  Vite
 - CSS Modules
+	- why use csss modules???
 - 
 
 
 **Desired Outcome** / **Purpose / Intention **
 
 -  What is this for? 
+	- Just quick practice
 
 
 _________
 
 ### Next Actions
 
-- [ ]  Rough Design
-- [ ] Do I need Figma Design Ready?
+- [x]  Rough Design
+- [x] Do I need Figma Design Ready?
  
 
 
