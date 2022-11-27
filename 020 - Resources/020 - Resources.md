@@ -4,16 +4,13 @@
 # 020 - Resources
 
 %% Begin Waypoint %%
-- **[[020 - Resources]]**
-	- [[020 - Resources]]
-	- [[20 Rules of Knowledge Formulation]]
-	- [[Apps for Content Creation]]
-	- [[Bloom's and SOLO Taxonomies]]
-	- [[Digital Product Ideas]]
-	- [[Feyman Technique]]
-	- [[Things To Read]]
-	- [[Procreate Tips]]
-	
+- [[20 Rules of Knowledge Formulation]]
+- [[Apps for Content Creation]]
+- [[Bloom's and SOLO Taxonomies]]
+- [[Digital Product Ideas]]
+- [[Feyman Technique]]
+- [[Things To Read]]
+- [[Top Techs for 2022-23]]
 
 %% End Waypoint %%
 
