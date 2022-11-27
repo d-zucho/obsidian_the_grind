@@ -1,5 +1,6 @@
 ---
 type: courseNote
+alias: js-engine, v8-engine, V8 Engine
 language: javascript
 tags: js, js/javascript-engine
 course: javascript advanced concepts
@@ -67,6 +68,7 @@ You can run JavaScript with **the interpreter** or the **compiler**
 | CPU utilization is more                               | CPU utilization is less                       |
 | Examples: C, C++, C#                                  | Python, Ruby, Perl, MATLAB                    |
 |                                                       |                                               |
+
 
 
 When running an [[Interpreter|interpreter]], if the code is long enough, and especially if there are multiple long loops, using a [[Compiler|compiler]] would be, not only quicker, but also more efficient. 
