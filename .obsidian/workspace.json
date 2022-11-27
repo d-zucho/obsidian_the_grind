@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/JavaScript Engine.md",
+                "file": "Jit Compiler.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/JavaScript Engine.md",
+                "file": "Jit Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/JavaScript Engine.md",
+                "file": "Jit Compiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/JavaScript Engine.md"
+                "file": "Jit Compiler.md"
               }
             }
           },
@@ -162,15 +162,15 @@
   },
   "active": "7ea47d136753712f",
   "lastOpenFiles": [
-    "Foundations.md",
     "010 - Programming/012 - JavaScript/JavaScript Engine.md",
+    "Jit Compiler.md",
+    "Foundations.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
     "010 - Programming/012 - JavaScript/Courses/Courses.md",
     "templates/JS - Advanced.md",
     "010 - Programming/012 - JavaScript/Babel.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "Clearing Input Field in React.md",
-    "050 - Projects/Youtube Todo ( Dev GB ).md",
-    "Portfolio.md"
+    "050 - Projects/Youtube Todo ( Dev GB ).md"
   ]
 }

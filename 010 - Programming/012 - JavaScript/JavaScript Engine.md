@@ -81,3 +81,6 @@ While the interpreter is quick to get up and running but can take longer to run 
 ```
 
 
+To speed up websites, people decided to combine the two, which is known as the [[Jit Compiler]] (Just in Time Compiler)
+
+
