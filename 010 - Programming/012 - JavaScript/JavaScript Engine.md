@@ -6,6 +6,12 @@ course: javascript advanced concepts
 section: foundations
 ---
 
+- [[#JavaScript Engine|JavaScript Engine]]
+	- [[#JavaScript Engine#How it works|How it works]]
+		- [[#How it works#Why choose one over the other?|Why choose one over the other?]]
+- [[#Inside JavaScript Engine|Inside JavaScript Engine]]
+	- [[#Inside JavaScript Engine#Compiler vs Interpreter|Compiler vs Interpreter]]
+
 
 
 ## JavaScript Engine
@@ -65,3 +71,12 @@ You can run JavaScript with **the interpreter** or the **compiler**
 
 When running an [[Interpreter|interpreter]], if the code is long enough, and especially if there are multiple long loops, using a [[Compiler|compiler]] would be, not only quicker, but also more efficient. 
 > This is because, instead of having to run a function in a loop, for example, a few dozen times (or for however many required by the loop), it can replace it with the value it already knows it needs to be
+
+
+```ad-summary
+title: There are Pros & Cons of Both
+
+While the interpreter is quick to get up and running but can take longer to run the entire code while the Compiler takes a bit longer to get up and running, but eventually will run faster
+
+```
+
