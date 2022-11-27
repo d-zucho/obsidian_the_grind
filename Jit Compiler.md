@@ -16,4 +16,11 @@ These combinations of compilers and interpreters for **"Just in time compilation
 
 
 
-In the [[Javascript Engine|V8 Engine]] engine, when the code is passsed to the interpretter, this is called the **ignition** #card #js/card 
+In the [[Javascript Engine|V8 Engine]] engine, the interpreter is called the**ignition** #card #js/card 
+
+It then takes the code from the **AST** and turns it into **bytecode**, which is not as low-level as machine code, can still be interpreted by the js-engine to run program. 
+
+The **profiler** (a.k.a **monitor**), watches the code as it runs through interpreter and makes notes on how it can be optimized.
+
+When it sees code that can be optimized, it will then take some of that code and pass it off to the **compiler**. 
+
