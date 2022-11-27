@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7403b4d4839e2351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "020 - Resources/Top Techs for 2022-23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "020 - Resources/Top Techs for 2022-23.md",
+                "file": "020 - Resources/020 - Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "020 - Resources/Top Techs for 2022-23.md",
+                "file": "020 - Resources/020 - Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "020 - Resources/Top Techs for 2022-23.md"
+                "file": "020 - Resources/020 - Resources.md"
               }
             }
           },
@@ -174,8 +160,9 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "14e3b11cb3981a9e",
+  "active": "237d3e42eed96cbc",
   "lastOpenFiles": [
+    "020 - Resources/Top Techs for 2022-23.md",
     "020 - Resources/020 - Resources.md",
     "010 - Programming/011 - HTML & CSS/Flexbox.md",
     "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
@@ -184,7 +171,6 @@
     "Clearing Input Field in React.md",
     "050 - Projects/050 - Projects.md",
     "templates/Project Note.md",
-    "070 - Random/074 - Random Ways To Make Money.md",
-    "Daily Notes/Untitled.md"
+    "070 - Random/074 - Random Ways To Make Money.md"
   ]
 }

@@ -4,7 +4,7 @@ type: resource
 source: youtube
 topic: Top Technologies to Learn
 ---
-
+back:: [[020 - Resources]]
 link:: [youtube link]([(199) Top 10 Technologies To Learn In 2022 | Trending Technologies In 2022 | Simplilearn - YouTube](https://www.youtube.com/watch?v=IrgGmaeYmdM))
 
 
@@ -74,10 +74,24 @@ link:: [youtube link]([(199) Top 10 Technologies To Learn In 2022 | Trending Tec
 <mark style="background: #FFF3A3A6;">Learn More About Skills Needed</mark>
 
 
-## Cloud Services
+## Cloud Services #follow-up 
 
 ### Skills - 
 
 -  Databases
 - Programming
-- Lin
+- Linux
+- Networking
+- APIs
+
+<mark style="background: #FFF3A3A6;">Learn More About Skills Needed</mark>
+
+
+## Artificial Intelligence 
+
+### Skills - 
+
+- Python
+- Math
+- Machine Learning
+- Deep Learning
