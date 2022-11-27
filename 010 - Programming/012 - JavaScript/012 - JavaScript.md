@@ -10,6 +10,7 @@ back: [[010 - Programming]]
 - [[map() VS forEach()]]
 - [[Sanity.io]]
 - [[Todo List Project]]
+- [[Writing Optimized Code]]
 
 %% End Waypoint %%
 

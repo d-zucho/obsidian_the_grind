@@ -7,7 +7,8 @@ course: javascript advanced concepts
 
 
 - [[#JavaScript Engine|JavaScript Engine]]
-
+- [[#Writing Optimized Code]]
+- 
 
 
 # Section:  Foundations
@@ -19,3 +20,8 @@ course: javascript advanced concepts
 ![[JavaScript Engine]]
 
 
+
+
+
+
+## Writing Optimized Code
