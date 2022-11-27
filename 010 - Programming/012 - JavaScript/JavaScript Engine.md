@@ -48,7 +48,7 @@ You can run JavaScript with **the interpreter** or the **compiler**
 
 ## Inside JavaScript Engine
 
-![[Pasted image 20221111183950.png]]
+![[js-engine.png]]
 
 
 ### Compiler vs Interpreter 

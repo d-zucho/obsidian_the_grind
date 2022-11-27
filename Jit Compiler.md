@@ -10,5 +10,7 @@ back:: [[Javascript - The Advanced Parts]]
 
 # Jit Compilers
 
-These combinations of compilers and interpreters
+These combinations of compilers and interpreters for **"Just in time compilations"**
+
+
 
