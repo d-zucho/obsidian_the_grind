@@ -16,7 +16,7 @@ title:  <% title %>
 aliases:
 course: javascript advanced concepts
 language: <% language %>
-tags: <% language %>
+tags: js
 
 ---
 back:: [[<%tp.file.folder()%>]]
