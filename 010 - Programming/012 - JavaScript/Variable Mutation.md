@@ -15,6 +15,8 @@ back:: [[012 - JavaScript]]
 
 back:: [[Javascript in Detail - From Beginner to Advanced]]
 
+
+
 ---
 # Mutated Values
 
@@ -54,3 +56,16 @@ console.log("variable_3: ", variable_3); // print variable_3 value
 ![[CopyValuesExample.png]]
 
 Here we initialize 3 variables, while then soon reassigning some. Notice the difference in values before and after mutation 
+
+>[!note] 
+>To not loose original values when reassigning, we can create temporary variables
+> - This is usually best done to the first value that is mutated
+
+
+
+
+
+
+
+
+
