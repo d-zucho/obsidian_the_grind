@@ -24,16 +24,12 @@
             "id": "ffd1a113dfa2de86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/JS - Advanced.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Templater (Part 2 - File Module).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Templater (Part 2 - File Module).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian Templater (Part 2 - File Module).md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,17 +165,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "ee3c84dc35781a9c",
+  "active": "14e3b11cb3981a9e",
   "lastOpenFiles": [
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "010 - Programming/012 - JavaScript/testing again.md",
+    "000-Index/000-Index.md",
+    "010 - Programming/012 - JavaScript/asda.md",
     "templates/JS - Advanced.md",
+    "010 - Programming/012 - JavaScript/Untitled.md",
     "Obsidian Templater (Part 2 - File Module).md",
     "010 - Programming/012 - JavaScript/addf.md",
     "010 - Programming/012 - JavaScript/Courses/addf.md",
-    "templates/Coding Note.md",
-    "templates/Book Note.md",
-    "templates/Class Note.md",
-    "071 - Useful Things To Remember.md",
-    "070 - Random/070 - Random.md",
-    "070 - Random/074 - Random Ways To Make Money.md"
+    "templates/Coding Note.md"
   ]
 }

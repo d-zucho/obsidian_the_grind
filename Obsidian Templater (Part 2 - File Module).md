@@ -56,6 +56,6 @@ Gets title of note
 ## Move
 
 ```
-<%tp.file.move("") %>
+<%tp.file.move("Path to move to", "File to move") %>
 tp.file.fun
 ```

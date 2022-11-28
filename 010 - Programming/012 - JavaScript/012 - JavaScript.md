@@ -3,6 +3,7 @@ back: [[010 - Programming]]
 ### Index List
 
 %% Begin Waypoint %%
+- [[asda]]
 - **[[Books]]**
 - [[Compiler]]
 - **[[Courses]]**
