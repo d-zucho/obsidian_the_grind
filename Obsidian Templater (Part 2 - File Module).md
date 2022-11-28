@@ -35,3 +35,22 @@ Creates a new file, based on specified template or content
 	- *filename* - what you want filename to be
 	- *open_new* - if you want to open the newly created file in new window
 	- *folder* - where you want it to be saved. ( default is root )
+
+
+## Last Modified Date
+
+```
+<% tp.file.last_modified_date("YYYY-MM-DD") %>
+```
+
+
+## Title
+
+Gets title of note
+
+```
+<% tp.file.title %>
+```
+
+
+## Move
