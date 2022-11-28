@@ -57,5 +57,5 @@ Gets title of note
 
 ```
 <%tp.file.move("Path to move to", "File to move") %>
-tp.file.fun
+after the last folder, you can just type whatever you want the file to be called
 ```
