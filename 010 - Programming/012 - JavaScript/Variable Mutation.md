@@ -53,4 +53,4 @@ console.log("variable_3: ", variable_3); // print variable_3 value
 
 ![[CopyValuesExample.png]]
 
-Here we initialize 3 variables, while then soon reassigning
+Here we initialize 3 variables, while then soon reassigning some. Notice the difference in values before and after mutation 
