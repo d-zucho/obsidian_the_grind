@@ -34,3 +34,21 @@ var a = 20
 We can use *values* through *variables* and assign them to other *variables*.
 
 We do this by assigning a variable to the other variable directly. 
+
+
+#### Example:
+
+```javascript
+var variable_1 = 100; 
+var variable_2 = 200; 
+var variable_3 = variable_1; // assign to value of variable_1 console.log("variable_1: ",variable_1); // print variable_1 value console.log("variable_2: ",variable_2); // print variable_2 value console.log("variable_3: ",variable_3); // print variable_3 value 
+
+variable_1 = variable_2; // assign to value of variable_2 
+variable_2 = 500; 
+console.log("Values after update:"); 
+console.log("variable_1: ", variable_1); // print variable_1 value
+console.log("variable_2: ", variable_2); // print variable_2 value
+console.log("variable_3: ", variable_3); // print variable_3 value
+```
+
+![[CopyValuesExample.png]]
