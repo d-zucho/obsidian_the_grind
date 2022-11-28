@@ -26,6 +26,13 @@ back:: [[Javascript in Detail - From Beginner to Advanced]]
 
 ## Primitive Values
 
+		- Boolean
+		- **Number**
+		- Null
+		- Undefined
+		- String
+		- Symbol
+
 - **Immutable** - in the way that a primitive itself cannot be modified, but new primitives can be created, and those values are assigned to variables # js/primitive-values
 - They are **read only**.
 	- For example:
