@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/JS - Advanced.md",
+                "file": "templates/Book Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/JS - Advanced.md",
+                "file": "templates/Book Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/JS - Advanced.md",
+                "file": "templates/Book Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/JS - Advanced.md"
+                "file": "templates/Book Note.md"
               }
             }
           },
@@ -176,13 +176,13 @@
   },
   "active": "02f4863b938b08d8",
   "lastOpenFiles": [
+    "templates/Class Note.md",
+    "templates/JS - Advanced.md",
     "templates/Blog Post.md",
     "templates/Book Note.md",
     "templates/Coding Note.md",
-    "templates/Class Note.md",
     "templates/courseIndex.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
-    "templates/JS - Advanced.md",
     "Foundations.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript in Detail - From Beginner to Advanced.md",
     "010 - Programming/012 - JavaScript/Courses/addf.md"
