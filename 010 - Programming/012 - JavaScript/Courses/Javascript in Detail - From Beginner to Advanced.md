@@ -22,8 +22,8 @@ ___
 
 ```dataview
 TABLE 
-title as "Title"
-where type = "classNote" and course = "JavaScript in Detail"
+File as "Title"
+where type = "courseNote" and course = "javascript in detail"
 ```
 
 

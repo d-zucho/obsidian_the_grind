@@ -7,15 +7,16 @@
     
   } 
 	await tp.file.rename(title);
-  let language = await tp.system.prompt("Language: ")
+ 
 
   await tp.file.move("010 - Programming/012 - JavaScript/" + (await title))
   
 %>
 title:  <% title %>
+type: courseNote
 aliases:
-course: javascript advanced concepts
-language: <% language %>
+course: javascript in detail
+language: javascript
 section: <% tp.file.cursor(1) %>
 tags: js
 
@@ -23,4 +24,4 @@ tags: js
 ---
 back:: [[<%tp.file.folder()%>]]
 
-back:: [[Javascript - The Advanced Parts]]
+back:: [[Javascript in Detail - From Beginner to Advanced]]

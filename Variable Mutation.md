@@ -2,9 +2,10 @@
 
 
 title:  Variable Mutation
-type: codingNote
+type: courseNote
 alias:
 topic: variable mutation 
+course: javascript in detail
 language: javascript
 tags: javascript
 
