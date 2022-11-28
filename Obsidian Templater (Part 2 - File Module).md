@@ -21,3 +21,17 @@ This will get all the present *content* in the file:
 <% tp.file.content %>
 ```
 
+
+### Create New
+
+Creates a new file, based on specified template or content
+
+```
+<% tp.file.create_new() %>
+```
+
+**Arguements**: 
+	- *template*
+	- *filename* - what you want filename to be
+	- *open_new* - if you want to open the newly created file in new window
+	- *folder* - where you want it to be saved. ( default is root)
