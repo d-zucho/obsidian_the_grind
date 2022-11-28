@@ -26,7 +26,7 @@ back:: [[Javascript in Detail - From Beginner to Advanced]]
 
 ## Primitive Values
 
-- **immutable** - in the way that a primitive itself cannot be modified, but new primitives can be created, and those values are assigned to variables
+- **Immutable** - in the way that a primitive itself cannot be modified, but new primitives can be created, and those values are assigned to variables # js/primitive-values
 - They are **read only**.
 	- For example:
 		- if we try to access a string with bracket notation, we can read out the letter at the index, however, we can NOT change that letter.
