@@ -6,12 +6,17 @@ course: javascript advanced concepts
 ---
 
 
-- [[#JavaScript Engine|JavaScript Engine]]
+- [[JavaScript Engine]]
 - [[#Writing Optimized Code]]
 - 
 
 
 # Section:  Foundations
+
+```dataview
+table
+where course = "javascript advanced concepts" and section = "foundations"
+```
 
 
 

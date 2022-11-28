@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "47b066943271cf4c",
+        "id": "d43ba99a8cc7f335",
         "type": "tabs",
         "children": [
           {
-            "id": "a6dc1065bb4e14b4",
+            "id": "7759278baef53415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Books/Elequent JavaScript.md",
+                "file": "Foundations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee3c84dc35781a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Books/Elequent JavaScript.md",
+                "file": "Foundations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Books/Elequent JavaScript.md",
+                "file": "Foundations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Books/Elequent JavaScript.md"
+                "file": "Foundations.md"
               }
             }
           },
@@ -160,17 +174,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "a6dc1065bb4e14b4",
+  "active": "ee3c84dc35781a9c",
   "lastOpenFiles": [
-    "templates/Book Note.md",
-    "010 - Programming/012 - JavaScript/Books/Elequent JavaScript.md",
-    "010 - Programming/012 - JavaScript/Intro.md",
-    "010 - Programming/012 - JavaScript/Books/Books.md",
-    "templates/Class Note.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "010 - Programming/012 - JavaScript/Writing Optimized Code.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+    "Foundations.md",
+    "010 - Programming/012 - JavaScript/JavaScript Engine.md",
+    "010 - Programming/012 - JavaScript/Courses/Javascript in Detail - From Beginner to Advanced.md",
     "010 - Programming/012 - JavaScript/Courses/Courses.md",
-    "Foundations.md"
+    "010 - Programming/012 - JavaScript/Courses/addf.md",
+    "templates/courseIndex.md",
+    "010 - Programming/012 - JavaScript/Books/Elequent JavaScript.md",
+    "templates/Book Note.md",
+    "010 - Programming/012 - JavaScript/Intro.md"
   ]
 }

@@ -15,7 +15,7 @@ tags: <% tp.file.cursor(2) %>
 dateStarted: <% tp.file.creation_date("MMM Do YYYY") %>
 ---
 
-back::  <% tp.file.folder() %>
+back::  [[<% tp.file.folder() %>]]
 
 ___
 
