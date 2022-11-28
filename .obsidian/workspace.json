@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations.md",
+                "file": "templates/JS - Advanced.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02f4863b938b08d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations.md",
+                "file": "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations.md",
+                "file": "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations.md"
+                "file": "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md"
               }
             }
           },
@@ -160,17 +174,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "ee3c84dc35781a9c",
+  "active": "02f4863b938b08d8",
   "lastOpenFiles": [
+    "templates/JS - Advanced.md",
+    "Foundations.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript in Detail - From Beginner to Advanced.md",
     "010 - Programming/012 - JavaScript/Courses/addf.md",
     "010 - Programming/012 - JavaScript/Compiler.md",
-    "Foundations.md",
     "010 - Programming/012 - JavaScript/JavaScript Engine.md",
     "010 - Programming/012 - JavaScript/Courses/Courses.md",
     "templates/courseIndex.md",
-    "010 - Programming/012 - JavaScript/Books/Elequent JavaScript.md",
-    "templates/Book Note.md"
+    "010 - Programming/012 - JavaScript/Books/Elequent JavaScript.md"
   ]
 }
