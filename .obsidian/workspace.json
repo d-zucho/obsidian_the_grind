@@ -11,8 +11,13 @@
             "id": "ee3c84dc35781a9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Templater (Part 2 - File Module).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Templater (Part 2 - File Module).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian Templater (Part 2 - File Module).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian Templater (Part 2 - File Module).md"
+              }
             }
           },
           {
@@ -153,15 +162,15 @@
   },
   "active": "ee3c84dc35781a9c",
   "lastOpenFiles": [
-    "075 - Movies To Watch.md",
+    "071 - Useful Things To Remember.md",
     "070 - Random/070 - Random.md",
+    "070 - Random/074 - Random Ways To Make Money.md",
+    "075 - Movies To Watch.md",
     "templates/JS - Advanced.md",
     "templates/Book Note.md",
     "templates/Class Note.md",
     "templates/Blog Post.md",
     "templates/Coding Note.md",
-    "templates/courseIndex.md",
-    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
-    "Foundations.md"
+    "templates/courseIndex.md"
   ]
 }
