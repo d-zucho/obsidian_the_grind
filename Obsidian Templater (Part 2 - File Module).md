@@ -22,7 +22,7 @@ This will get all the present *content* in the file:
 ```
 
 
-### Create New
+## Create New
 
 Creates a new file, based on specified template or content
 
@@ -31,7 +31,7 @@ Creates a new file, based on specified template or content
 ```
 
 **Arguements**: 
-	- *template*
+	- *template* - template you want to use
 	- *filename* - what you want filename to be
 	- *open_new* - if you want to open the newly created file in new window
-	- *folder* - where you want it to be saved. ( default is root)
+	- *folder* - where you want it to be saved. ( default is root )

@@ -18,7 +18,7 @@ course: javascript advanced concepts
 language: <% language %>
 tags: js
 
-<% await tp.file.functions.move("010 - Programming/012 - JavaScript/" + tp.file.title) %>
+<% await tp.file.move("010 - Programming/012 - JavaScript/" + tp.file.title) %>
 ---
 back:: [[<%tp.file.folder()%>]]
 
