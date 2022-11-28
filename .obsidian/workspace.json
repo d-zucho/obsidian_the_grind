@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variable Mutation.md",
+                "file": "templates/JS in Detail Note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d99be12c70dc1d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/JS in Detail Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variable Mutation.md",
+                "file": "templates/JS in Detail Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variable Mutation.md",
+                "file": "templates/JS in Detail Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variable Mutation.md"
+                "file": "templates/JS in Detail Note.md"
               }
             }
           },
@@ -162,15 +175,15 @@
   },
   "active": "ffd1a113dfa2de86",
   "lastOpenFiles": [
+    "010 - Programming/012 - JavaScript/Courses/Javascript in Detail - From Beginner to Advanced.md",
+    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+    "templates/JS - Advanced.md",
+    "templates/JS in Detail Note.md",
+    "templates/Class Note.md",
+    "Variable Mutation.md",
     "templates/Coding Note.md",
     "010 - Programming/012 - JavaScript/map() VS forEach().md",
     "010 - Programming/012 - JavaScript/JavaScript Engine.md",
-    "010 - Programming/012 - JavaScript/Intro.md",
-    "010 - Programming/012 - JavaScript/Interpreter.md",
-    "010 - Programming/012 - JavaScript/Compiler.md",
-    "Object Literals.md",
-    "js-engine.png",
-    "Jit Compiler.md",
-    "templates/JS - Advanced.md"
+    "010 - Programming/012 - JavaScript/Intro.md"
   ]
 }
