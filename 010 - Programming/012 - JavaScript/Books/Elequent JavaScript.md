@@ -11,4 +11,6 @@ startedReading: 22/11/27
 
 ```dataview
 table
+title as "Book", language as "Language", startedReading as "Started"
+where type = "bookNote" AND title = "Eloquent JavaScript"
 ```
