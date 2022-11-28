@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+                "file": "templates/JS - Advanced.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+                "file": "templates/JS - Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+                "file": "templates/JS - Advanced.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md"
+                "file": "templates/JS - Advanced.md"
               }
             }
           },
@@ -176,15 +176,15 @@
   },
   "active": "02f4863b938b08d8",
   "lastOpenFiles": [
+    "templates/Blog Post.md",
+    "templates/Book Note.md",
+    "templates/Coding Note.md",
+    "templates/Class Note.md",
+    "templates/courseIndex.md",
+    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
     "templates/JS - Advanced.md",
     "Foundations.md",
-    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript in Detail - From Beginner to Advanced.md",
-    "010 - Programming/012 - JavaScript/Courses/addf.md",
-    "010 - Programming/012 - JavaScript/Compiler.md",
-    "010 - Programming/012 - JavaScript/JavaScript Engine.md",
-    "010 - Programming/012 - JavaScript/Courses/Courses.md",
-    "templates/courseIndex.md",
-    "010 - Programming/012 - JavaScript/Books/Elequent JavaScript.md"
+    "010 - Programming/012 - JavaScript/Courses/addf.md"
   ]
 }

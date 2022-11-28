@@ -5,7 +5,6 @@
   if (title.startsWith("Untitled")) {
     title = await tp.system.prompt("Title");
     await tp.file.rename(title);
-    await tp.file.functions.move("010 - Programming/012 - JavaScript/" + tp.file.title)
   } 
 
   let language = await tp.system.prompt("Language: ")
@@ -19,6 +18,7 @@ course: javascript advanced concepts
 language: <% language %>
 tags: js
 
+<% await tp.file.functions.move("010 - Programming/012 - JavaScript/" + tp.file.title) %>
 ---
 back:: [[<%tp.file.folder()%>]]
 
