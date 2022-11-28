@@ -12,6 +12,7 @@ back: [[010 - Programming]]
 - [[map() VS forEach()]]
 - [[Sanity.io]]
 - [[Todo List Project]]
+- [[Variable Mutation]]
 - [[Writing Optimized Code]]
 
 %% End Waypoint %%

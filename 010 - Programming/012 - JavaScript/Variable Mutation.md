@@ -3,13 +3,14 @@
 
 title:  Variable Mutation
 type: courseNote
-alias:
-topic: variable mutation 
+aliases:
 course: javascript in detail
 language: javascript
-tags: javascript
+section: Values
+tags: js
+
 
 ---
 back:: [[012 - JavaScript]]
 
-
+back:: [[Javascript in Detail - From Beginner to Advanced]]

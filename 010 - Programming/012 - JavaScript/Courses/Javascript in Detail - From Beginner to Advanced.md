@@ -1,10 +1,8 @@
 ---
-
-
 title: Javascript in Detail - From Beginner to Advanced
 alias: ["js in detail"]
 language: javascript
-tags: <% tp.file.cursor(2) %>
+tags: course, js
 dateStarted: Nov 27th 2022
 ---
 
@@ -18,11 +16,18 @@ ___
 
 ### 📜 Notes and Ideas
 
--   first Note
+```button
+name New JS in Details Note
+type note(Untitled) template
+action JS in Detail Note
+color blue
+```
+
+
 
 ```dataview
 TABLE 
-File as "Title"
+title as "Note"
 where type = "courseNote" and course = "javascript in detail"
 ```
 

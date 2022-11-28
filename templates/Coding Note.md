@@ -18,7 +18,7 @@ type: codingNote
 alias:
 topic: <%topic %> 
 language: <% language %>
-tags: <% language %>
+tags: 
 
 ---
 back:: [[<%tp.file.folder()%>]]
