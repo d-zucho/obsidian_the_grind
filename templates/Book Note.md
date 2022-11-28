@@ -7,12 +7,16 @@
   } 
   let book = await tp.system.prompt("Book Name: ")
   let language = await tp.system.prompt("Language: ")
+  let chapter = await tp.system.prompt("Chapter: ")
+  let topic = await tp.system.prompt("topic: ")
   
   
 %>
-title:  <% title %>
-aliases:
+type: bookNote
 book: <% book %>
+title:  <% title %>
+chapter: <% chapter %>
+topic: <% topic %>
 language: <% language %>
 tags:
 

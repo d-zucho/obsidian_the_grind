@@ -7,6 +7,7 @@ back: [[010 - Programming]]
 - [[Compiler]]
 - **[[Courses]]**
 - [[Interpreter]]
+- [[Intro]]
 - [[JavaScript Engine]]
 - [[map() VS forEach()]]
 - [[Sanity.io]]

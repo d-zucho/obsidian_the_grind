@@ -17,7 +17,7 @@ Though JavaScript is a Syncronous language, Node can handle tasks asychronously
 %% Begin Waypoint %%
 - **[[017 - Node]]**
 	- [[017 - Node]]
-	- [[Intro]]
+	- [[010 - Programming/017 - Node/Intro]]
 	- [[libUV]]
 	- [[Node Architecture]]
 	- [[Written as Single Threaded]]
