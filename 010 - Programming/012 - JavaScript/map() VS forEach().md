@@ -1,8 +1,8 @@
 ---
 aliases: ["map()", "forEach()"]
-type: functions
+type: codingNote
 language: javascript
-tags: js/functions, resource
+tags: js/functions, resources
 ---
 back:: [[012 - JavaScript]]
 

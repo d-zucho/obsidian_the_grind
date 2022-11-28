@@ -5,6 +5,14 @@ tags: js, js/compiler, js/javascript-engine, js/interpreter
 course: javascript advanced concepts
 ---
 
+```button
+name New Foundations Note
+type note(Untitled) template
+action JS - Advanced
+color blue
+```
+^button-foundation-btn
+
 
 # Section:  Foundations
 

@@ -16,6 +16,7 @@ title:  <% title %>
 aliases:
 course: javascript advanced concepts
 language: <% language %>
+section: <% tp.file.cursor(1) %>
 tags: js
 
 

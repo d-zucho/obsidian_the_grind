@@ -4,6 +4,7 @@ aliases:
 course: javascript advanced concepts
 language: javascript
 tags: js
+section: foundations
 ---
 
 back:: [[Javascript - The Advanced Parts]]

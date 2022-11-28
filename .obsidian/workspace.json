@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations.md",
+                "file": "Variable Mutation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations.md",
+                "file": "Variable Mutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations.md",
+                "file": "Variable Mutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations.md"
+                "file": "Variable Mutation.md"
               }
             }
           },
@@ -162,15 +162,15 @@
   },
   "active": "ffd1a113dfa2de86",
   "lastOpenFiles": [
-    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
-    "010 - Programming/012 - JavaScript/Courses/Courses.md",
-    "Obsidian Templater (Part 2 - File Module).md",
-    "hello Book.md",
-    "templates/courseIndex.md",
-    "templates/Book Note.md",
-    "templates/Class Note.md",
-    "010 - Programming/012 - JavaScript/testingyayayayayay.md",
-    "tester.md",
-    "another example.md"
+    "templates/Coding Note.md",
+    "010 - Programming/012 - JavaScript/map() VS forEach().md",
+    "010 - Programming/012 - JavaScript/JavaScript Engine.md",
+    "010 - Programming/012 - JavaScript/Intro.md",
+    "010 - Programming/012 - JavaScript/Interpreter.md",
+    "010 - Programming/012 - JavaScript/Compiler.md",
+    "Object Literals.md",
+    "js-engine.png",
+    "Jit Compiler.md",
+    "templates/JS - Advanced.md"
   ]
 }

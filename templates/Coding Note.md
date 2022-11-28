@@ -14,6 +14,7 @@
   
 %>
 title:  <% title %>
+type: codingNote
 alias:
 topic: <%topic %> 
 language: <% language %>
