@@ -26,6 +26,8 @@ back:: [[Javascript in Detail - From Beginner to Advanced]]
 
 ## Primitive Values
 
-- immutable - in the way that a primitive itself cannot be modified, but new primitives can be created, and those values are assigned to variables
-	- #### exanok
-- 
+- **immutable** - in the way that a primitive itself cannot be modified, but new primitives can be created, and those values are assigned to variables
+- They are **read only**.
+	- For example:
+		- if we try to access a string with bracket notation, we can read out the letter at the index, however, we can NOT change that letter.
+		- We can of course assign the variable a new value, but we can not change the existing value.
