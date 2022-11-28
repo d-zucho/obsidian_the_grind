@@ -3,6 +3,7 @@ back: [[010 - Programming]]
 ### Index List
 
 %% Begin Waypoint %%
+- **[[Books]]**
 - [[Compiler]]
 - **[[Courses]]**
 - [[Interpreter]]
@@ -17,6 +18,8 @@ back: [[010 - Programming]]
 
 
 # JavaScript
+
+## Book Notes
 
 
 
