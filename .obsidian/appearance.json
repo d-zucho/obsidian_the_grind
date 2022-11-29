@@ -4,7 +4,7 @@
     "Things",
     "custom-admonitions.03f05e"
   ],
-  "baseFontSize": 16,
+  "baseFontSize": 12,
   "accentColor": "#752cce",
   "showViewHeader": false,
   "theme": "obsidian"
