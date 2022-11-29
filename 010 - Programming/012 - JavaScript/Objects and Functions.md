@@ -24,7 +24,7 @@ ___
 
 
 
-## Objects and Functions
+# Objects and Functions
 
 Besides primitives, almost everything else in JS is made up of ***objects***
 
@@ -78,3 +78,9 @@ const user_age = obj_a.age   // or :
 const user_age = obj_a['age']
 ```
 
+
+
+
+## Arrays
+
+- Kind of object that lets us make lists of items of all types. 
