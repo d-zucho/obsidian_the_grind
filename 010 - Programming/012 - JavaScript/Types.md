@@ -42,7 +42,9 @@ back:: [[Javascript in Detail - From Beginner to Advanced]]
 
 
 
-### Boolean 
+### Null
+
+- Represents, literally, nothing. Nothingness.
 
 
 ### Number
@@ -55,3 +57,11 @@ back:: [[Javascript in Detail - From Beginner to Advanced]]
 	 let num1 = 2e-3 // 0.002
 	 let num2 = 10e5 // 1000000
 	```
+
+
+>[!note]
+>There are also special numeric values in the number type:
+> - Infinity
+> - -Infinity
+> - NaN
+
