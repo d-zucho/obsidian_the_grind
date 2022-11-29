@@ -38,3 +38,13 @@ back:: [[Javascript in Detail - From Beginner to Advanced]]
 	- For example:
 		- if we try to access a string with bracket notation, we can read out the letter at the index, however, we can NOT change that letter.
 		- We can of course assign the variable a new value, but we can not change the existing value.
+
+
+
+
+### Boolean 
+
+
+### Number
+
+- Consist of all numeric values -- decimals and regular numbers
