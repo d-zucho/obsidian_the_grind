@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Types.md",
+                "file": "010 - Programming/012 - JavaScript/Objects and Functions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#js/keywords",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Types.md",
+                "file": "010 - Programming/012 - JavaScript/Objects and Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Types.md",
+                "file": "010 - Programming/012 - JavaScript/Objects and Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Types.md"
+                "file": "010 - Programming/012 - JavaScript/Objects and Functions.md"
               }
             }
           },
@@ -164,15 +163,15 @@
   },
   "active": "edfa89aeec3899e1",
   "lastOpenFiles": [
+    "010 - Programming/012 - JavaScript/Primitive Values.md",
+    "010 - Programming/012 - JavaScript/Objects and Functions.md",
+    "010 - Programming/012 - JavaScript/Types.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript in Detail - From Beginner to Advanced.md",
     "010 - Programming/012 - JavaScript/Variable Mutation.md",
     "010 - Programming/012 - JavaScript/button from in detail.md",
     "Foundations.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
     "templates/Kanban.md",
-    "templates/Default Template.md",
-    "templates/courseIndex.md",
-    "templates/Coding Note.md",
-    "templates/JS - Advanced.md"
+    "templates/Default Template.md"
   ]
 }
