@@ -26,6 +26,20 @@ Garbage collector frees memory on the heap, preventing *memory leaks* - when mem
 ### Mark Removing
 
 - <mark style="background: #FFF3A3A6;">most common method</mark>
--  
+
+**Quick overview/summary of steps:
+
+- When a variable enters the executing environment, it is marked as *"entering the environment"* and will remain in memory until it is no longer in the environment. It is then marked as *"leave the environment"*.
+
+- Garbage collector than comes and 'marks', or 'tags', all variables that are stored in memory. 
+
+- It then removes the mark from any variable in the environment or referenced by variables in the environment. 
+
+- Any other variable in memory is now ready to be deleted -- leading to space in memory being cleared. 
+
+
+
+
+
 
 ### Reference Counting
