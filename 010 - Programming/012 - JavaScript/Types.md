@@ -47,4 +47,11 @@ back:: [[Javascript in Detail - From Beginner to Advanced]]
 
 ### Number
 
-- Consist of all numeric values -- decimals and regular numbers
+- Consist of all numeric values -- decimals (floats) and regular numbers
+
+	#### Using e notation
+	- Can initialize a number using '*scientific notation*']]
+	 ```javascript
+	 let num1 = 2e-3 // 0.002
+	 let num2 = 10e5 // 1000000
+	```
