@@ -42,26 +42,26 @@ back:: [[Javascript in Detail - From Beginner to Advanced]]
 
 
 
-### Null
+### Null #keywords #js/keywords 
 
-- Represents, literally, nothing. Nothingness.
+- Null - Represents, literally, nothing. Nothingness. 
 
 >[!note]
 >Only One value for null: `null`
 
 
-### Undefined
+### Undefined #keywords #js/keywords 
 
-- Value assigned to variables who do not yet have a value
+- Undefined - Value assigned to variables who do not yet have a value 
 
 >[!note]
 >Only One value for undefined: `undefined`
 
 
 
-### Number
+### Number #keywords #js/keywords 
 
-- Consist of all numeric values -- decimals (floats) and regular numbers
+- Number - Consist of all numeric values -- decimals (floats) and regular numbers 
 
 	#### Using e notation
 	- Can initialize a number using '*scientific notation*']]
@@ -79,4 +79,17 @@ back:: [[Javascript in Detail - From Beginner to Advanced]]
 
 
 
-### String
+### String #keywords #js/keywords 
+
+- Value consisted of characters surrounded in quotes
+- Can be *single* quotes, *double* quotes, or *backticks*
+
+>[!example]
+>For backticks, using template strings consists of:
+>```javascript
+>let name = 'Danny'
+>console.log(`My name is ${name}`)
+>```
+
+
+Symbol
