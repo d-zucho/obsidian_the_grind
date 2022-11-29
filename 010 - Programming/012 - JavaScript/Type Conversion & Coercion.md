@@ -18,10 +18,27 @@ back:: [[Javascript in Detail - From Beginner to Advanced]]
 
 ---
 
+- [[#Implicit Type Conversion / Type Coercion|Implicit Type Conversion / Type Coercion]]
+
+
+---
+
+# Type Conversion / Coercion
+
 Often we way need to change a type of a value, for example, from a string into a number to do math.
 
 For this, we use **type conversion** - changing a value from on type into another #keywords #js/keywords 
 
->[!note]
->title: Key Point
->Because JS is weakly-typed, at-time type conversions are done automatically. Because of this, there are two 
+
+```ad-note
+title: Key Point
+Because JS is weakly-typed, at-time type conversions are done automatically. Because of this, there are two types of type conversion:
+>- **Implicit type conversion**
+>- **Explicity type conversion**
+
+
+```
+
+## Implicit Type Conversion / Type Coercion
+
+- 
