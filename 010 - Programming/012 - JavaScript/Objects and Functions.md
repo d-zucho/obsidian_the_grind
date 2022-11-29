@@ -17,6 +17,13 @@ back:: [[Types]]
 
 ___
 
+- [[#Objects and Functions|Objects and Functions]]
+	- [[#Objects and Functions#Creating Objects|Creating Objects]]
+	- [[#Objects and Functions#Adding or Modifying Properties|Adding or Modifying Properties]]
+
+
+
+
 ## Objects and Functions
 
 Besides primitives, almost everything else in JS is made up of ***objects***
@@ -47,5 +54,27 @@ While or after declaring an object, and/or property, we can alter it using the s
 ```javascript
 obj_a.age = 31     // using dot notation
 obj_a['age'] = 31  // using bracket notation
+```
+
+
+The value of a property, could be any variable, expression, or another object. 
+
+```ad-note
+An object's property can be assigned to a **function**. 
+When this occurs, they are now called ***methods***
+
+```
+
+
+
+### Accessing a Property
+
+You can access a property , again, with a dot, or bracket notation: `.` or `[]` 
+
+```ad-example
+```
+```javascript
+const user_age = obj_a.age   // or :
+const user_age = obj_a['age']
 ```
 
