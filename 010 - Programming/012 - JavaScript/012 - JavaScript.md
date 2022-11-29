@@ -6,6 +6,7 @@ back: [[010 - Programming]]
 - **[[Books]]**
 - [[Compiler]]
 - **[[Courses]]**
+- [[Garbage Collection]]
 - [[Interpreter]]
 - [[Intro]]
 - [[JavaScript Engine]]
