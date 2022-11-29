@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Garbage Collection.md",
+                "file": "Foundations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Garbage Collection.md",
+                "file": "Foundations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Garbage Collection.md",
+                "file": "Foundations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Garbage Collection.md"
+                "file": "Foundations.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "5fc8cab2492d66dc",
   "lastOpenFiles": [
-    "Foundations.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+    "010 - Programming/012 - JavaScript/Garbage Collection.md",
+    "Foundations.md",
     "010 - Programming/012 - JavaScript/Type Conversion & Coercion.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript in Detail - From Beginner to Advanced.md",
     "010 - Programming/012 - JavaScript/Types.md",
     "010 - Programming/012 - JavaScript/Objects and Functions.md",
     "010 - Programming/012 - JavaScript/Primitive Values.md",
     "010 - Programming/012 - JavaScript/Variable Mutation.md",
-    "010 - Programming/012 - JavaScript/button from in detail.md",
-    "templates/Kanban.md"
+    "010 - Programming/012 - JavaScript/button from in detail.md"
   ]
 }

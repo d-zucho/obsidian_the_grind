@@ -18,7 +18,7 @@ back:: [[Javascript - The Advanced Parts]]
 
 When javascript allocates memory, automatically, when function is run and an object is created within function, as it is finished and we no longer need a function-created-object, that object will be deleted from memory.
 
-Garbage collector frees memory on the heap, preventing *memory leaks* - when memory gets too big and reaches maximum size
+Garbage collector frees memory on the heap, preventing *memory leaks* - when memory that is no longer used, is not released
 
 
 ## 2 Main Types of Garbage Collection
