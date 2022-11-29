@@ -38,8 +38,14 @@ Garbage collector frees memory on the heap, preventing *memory leaks* - when mem
 - Any other variable in memory is now ready to be deleted -- leading to space in memory being cleared. 
 
 
+> "Mark & Sweep"
+
 
 
 
 
 ### Reference Counting
+
+Means the engine has a "reference table" that holds the number of references to all sources in memory. 
+
+If there is a value of 0, then that one is no longer being used, so it can be released from memory. 
