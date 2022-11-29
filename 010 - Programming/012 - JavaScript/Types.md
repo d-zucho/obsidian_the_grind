@@ -46,6 +46,18 @@ back:: [[Javascript in Detail - From Beginner to Advanced]]
 
 - Represents, literally, nothing. Nothingness.
 
+>[!note]
+>Only One value for null: `null`
+
+
+### Undefined
+
+- Value assigned to variables who do not yet have a value
+
+>[!note]
+>Only One value for undefined: `undefined`
+
+
 
 ### Number
 
@@ -65,3 +77,6 @@ back:: [[Javascript in Detail - From Beginner to Advanced]]
 > - -Infinity
 > - NaN
 
+
+
+### String
