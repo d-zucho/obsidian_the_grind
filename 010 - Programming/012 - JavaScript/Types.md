@@ -27,7 +27,7 @@ back:: [[Javascript in Detail - From Beginner to Advanced]]
 ## Primitive Values
 
 		- Boolean
-		- **Number**
+		- Number
 		- Null
 		- Undefined
 		- String
