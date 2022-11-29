@@ -22,7 +22,13 @@ tags: procreate, tutorial
 4. Then with the layer with the letter on it selected, choose the texture (inserted image) layer, tap on it, and press <mark style="background: #ADCCFFA6;">mask</mark> 
 	1. A layer with a black image of the letter should appear above the texture layer. 
 ![300x300](procreate-letter.jpeg)
-5. 
+5. Then turn off the selection tool (the ribbon on top left).
+6. Next, tap on the letter layer once again, and then import the flower image into canvas.
+	1. Current layers will be:
+		1. Background
+		2. Letter
+		3. Flower image
+		4. Texture Layer w/ mask above
 
 
 
