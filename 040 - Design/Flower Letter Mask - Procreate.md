@@ -21,4 +21,8 @@ tags: procreate, tutorial
 	1. Then with menu that showed up at bottom, select <mark style="background: #ADCCFFA6;">invert</mark>. This will select the actual letter, instead of the space around it. 
 4. Then with the layer with the letter on it selected, choose the texture (inserted image) layer, tap on it, and press <mark style="background: #ADCCFFA6;">mask</mark> 
 	1. A layer with a black image of the letter should appear above the texture layer. 
-![[procreate-example-letter1 1.jpeg]]
+![300x300](procreate-letter.jpeg)
+5. 
+
+
+
