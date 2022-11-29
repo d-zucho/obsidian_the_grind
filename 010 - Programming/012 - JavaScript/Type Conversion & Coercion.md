@@ -41,4 +41,11 @@ Because JS is weakly-typed, at-time type conversions are done automatically. Bec
 
 ## Implicit Type Conversion / Type Coercion
 
-- 
+- Implicity conversion - happens automatically #keywords #js/keywords 
+
+```ad-info
+title: Key Point
+When conversion happens automatically, it is called **coercion**
+```
+
+- Usually happens when apply operators to two different types
