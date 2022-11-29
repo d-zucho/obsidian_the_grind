@@ -49,3 +49,17 @@ When conversion happens automatically, it is called **coercion**
 ```
 
 - Usually happens when apply operators to two different types
+
+## Explicity Type Conversion
+
+- Explicity conversion occurs when we manually change the type of one value to another #keywords #js/keywords 
+
+
+```ad-info
+title: Key Point
+Explicit type conversion can be done into three types:
+ - to string
+ - to boolean
+ - to number
+```
+
