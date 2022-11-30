@@ -29,6 +29,7 @@ tags: procreate, tutorial
 		2. Letter
 		3. Flower image
 		4. Texture Layer w/ mask above
+7. Now, on the Layer Mask layer, you can set blend mode to *multiply*, and add any shadows you want.
 
 
 
