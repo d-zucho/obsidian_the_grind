@@ -21,11 +21,6 @@ tags: article
 
 ---
 
-```dataviewjs
-	let pg = dv.current() // set pg to be current page
-	dv.header(1, pg.title) // title as metadata title
-	dv.header(2, "Article" // set topic as h2
-```
 
 
 ## Article Name

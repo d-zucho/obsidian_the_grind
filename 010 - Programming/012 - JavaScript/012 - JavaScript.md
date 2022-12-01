@@ -47,7 +47,8 @@ ___
 ```dataview
 table
 topic as "Topic"
-where type = "codingNote"
+from "#article"
+where type = "codingNote" AND language = "react"
 ```
 ___
 
