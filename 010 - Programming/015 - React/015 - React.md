@@ -21,8 +21,8 @@ cards-deck: Default
 
 ```dataview
 TABLE
-where language = "react"
-Created = file.cdate
+topic as "Topic"
+where lagnuage = "react" and type = "codingNote"
 ```
 
 

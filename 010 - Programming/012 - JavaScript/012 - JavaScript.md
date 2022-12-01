@@ -46,7 +46,8 @@ ___
 
 ```dataview
 table
-language as "language"topic as "Topic"
+topic as "Topic"
+where type = "codingNote"
 ```
 ___
 

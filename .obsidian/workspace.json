@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "022cd967a28475fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Aritcle.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da47b90a43bbd66b",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "templates/Aritcle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "templates/Aritcle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,17 +191,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "d4dcb52f5b3cf34c",
+  "active": "022cd967a28475fe",
   "lastOpenFiles": [
-    "040 - Design/Flower Letter Mask - Procreate.md",
     "templates/Coding Note.md",
+    "templates/Aritcle.md",
+    "templates/article.md",
+    "888 - Assets/testing for react.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "010 - Programming/015 - React/015 - React.md",
+    "040 - Design/Flower Letter Mask - Procreate.md",
     "000-Index/000-Index.md",
     "2022/12/02.md",
-    "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
-    "010 - Programming/010 - Programming.md",
-    "020 - Resources/020 - Resources.md",
-    "templates/courseIndex 1.md",
-    "procreate-letter.jpeg"
+    "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md"
   ]
 }
