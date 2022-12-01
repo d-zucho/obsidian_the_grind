@@ -1,9 +1,33 @@
 ---
-cards-deck: Default
+type: index
 ---
 
+
+## Articles
+```dataview
+table topic as "Topic"
+FROM #article
+where language = "react"
+```
+
+
+![[Courses - React]]
+
+
+
+
+
+## Notes
+
+```dataview
+table topic as "Topic"
+where language = "react"
+```
+
+
 %% Begin Waypoint %%
-- [[Don't Use && To Render]]
+- [[Courses - React]]
+- [[Dont Use && To Render]]
 - [[Flux]]
 - [[handleClick To Delete Item in List]]
 - [[Props]]
@@ -17,26 +41,6 @@ cards-deck: Default
 - [[VirtualDOM]]
 
 %% End Waypoint %%
-
-
-## Articles
-```dataview
-table topic as "Topic"
-FROM #article
-where language = "react"
-```
-
-
-```dataview
-TABLE
-topic as "Topic"
-where lagnuage = "react" and type = "codingNote"
-```
-
-
-
-
-
 
 # React
 

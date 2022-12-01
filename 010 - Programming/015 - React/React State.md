@@ -1,10 +1,23 @@
 ---
+type: codingNote
 language: react
+topic: React State
+tags: react, react/state, 
 ---
 
 
 back: [[015 - React]]
 
+
+
+```ad-abstract
+title: Ways To Pass Data To/From Components
+1. Render Props
+2. Context API
+3. React Hooks(useContext API)
+4. React-Redux / Redux
+5. Other state management libraries (i.e. XState, MobX)
+```
 
 
 # State 
