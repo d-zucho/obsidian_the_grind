@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "010 - Programming/015 - React/015 - React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "010 - Programming/015 - React/015 - React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,15 +191,15 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "d4dcb52f5b3cf34c",
+  "active": "022cd967a28475fe",
   "lastOpenFiles": [
-    "templates/Coding Note.md",
-    "010 - Programming/015 - React/015 - React.md",
     "010 - Programming/015 - React/React Articles.md",
+    "templates/Coding Note.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "010 - Programming/015 - React/015 - React.md",
     "templates/Aritcle.md",
     "templates/article.md",
     "888 - Assets/testing for react.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "040 - Design/Flower Letter Mask - Procreate.md",
     "000-Index/000-Index.md",
     "2022/12/02.md"
