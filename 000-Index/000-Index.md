@@ -36,7 +36,8 @@ ______
 
 ---
 
-- [ ] Make  Projects Template
+- [x] Make  Projects Template
 - [x] Finish Homework 7 due [[2022-25th-07]]
-- [ ] 
+- [ ] get plugin 'Obsidian Mention Suggester' [[2022/12/02]]
+- [ ] create note for, 'not using && in react'
 - [ ] 

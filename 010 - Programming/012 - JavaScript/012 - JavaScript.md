@@ -40,10 +40,14 @@ where type = "class" AND language = "javascript"
 
 ___
 
-### Functions & Methods
+## Articles React
 
 - [[map() VS forEach()]]
 
+```dataview
+table
+language as "language"topic as "Topic"
+```
 ___
 
 

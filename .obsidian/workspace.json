@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4dcb52f5b3cf34c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da47b90a43bbd66b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Coding Note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "procrea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 - Design/Flower Letter Mask - Procreate.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,19 +131,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 - Design/Flower Letter Mask - Procreate.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d7be1ab6c52833b4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "040 - Design/Flower Letter Mask - Procreate.md"
               }
             }
           },
@@ -161,17 +178,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "5b331bb445edd421",
+  "active": "d4dcb52f5b3cf34c",
   "lastOpenFiles": [
-    "procreate-letter.jpeg",
     "040 - Design/Flower Letter Mask - Procreate.md",
-    "040 - Design/040 - Design.md",
-    "070 - Random/070 - Random.md",
-    "071 - Useful Things To Remember.md",
-    "Foundations.md",
-    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
-    "010 - Programming/012 - JavaScript/Garbage Collection.md",
-    "010 - Programming/012 - JavaScript/Type Conversion & Coercion.md",
-    "010 - Programming/012 - JavaScript/Courses/Javascript in Detail - From Beginner to Advanced.md"
+    "templates/Coding Note.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "000-Index/000-Index.md",
+    "2022/12/02.md",
+    "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
+    "010 - Programming/010 - Programming.md",
+    "020 - Resources/020 - Resources.md",
+    "templates/courseIndex 1.md",
+    "procreate-letter.jpeg"
   ]
 }
