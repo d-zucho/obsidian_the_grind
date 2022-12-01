@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/015 - React/015 - React.md",
+                "file": "templates/Aritcle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/015 - React/React Articles.md",
+                "file": "010 - Programming/015 - React/015 - React.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/015 - React/015 - React.md",
+                "file": "templates/Aritcle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/015 - React/015 - React.md",
+                "file": "templates/Aritcle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,15 +193,15 @@
   },
   "active": "022cd967a28475fe",
   "lastOpenFiles": [
-    "010 - Programming/015 - React/React Articles.md",
-    "templates/Coding Note.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "010 - Programming/015 - React/015 - React.md",
     "templates/Aritcle.md",
-    "templates/article.md",
-    "888 - Assets/testing for react.md",
-    "040 - Design/Flower Letter Mask - Procreate.md",
-    "000-Index/000-Index.md",
-    "2022/12/02.md"
+    "templates/Coding Note.md",
+    "010 - Programming/015 - React/React Articles.md",
+    "010 - Programming/015 - React/VirtualDOM.md",
+    "010 - Programming/015 - React/Using Context API.md",
+    "010 - Programming/015 - React/React Fundamentals.md",
+    "010 - Programming/015 - React/React State.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "templates/article.md"
   ]
 }

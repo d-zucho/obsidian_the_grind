@@ -22,4 +22,3 @@ tags:
 ---
 back:: [[<%tp.file.folder()%>]]
 
-
