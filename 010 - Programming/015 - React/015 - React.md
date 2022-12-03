@@ -11,27 +11,29 @@ FROM #article
 where language = "react"
 ```
 
-
+## Courses
 ![[Courses - React]]
 
 
 
+## Notes
+
 ```button
 name New React Note
 type note(Untitled) template
-action React Coding Note
+action React Note Template
 color blue
 ```
 
-## Notes
-
 ```dataview
 table topic as "Topic"
+from #react 
 where language = "react"
 ```
 
 
 %% Begin Waypoint %%
+- [[Calling from API with fetch()]]
 - [[Courses - React]]
 - [[Dont Use && To Render]]
 - [[Flux]]
