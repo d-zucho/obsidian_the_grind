@@ -16,7 +16,12 @@ where language = "react"
 
 
 
-
+```button
+name New React Note
+type note(Untitled) template
+action React Coding Note
+color blue
+```
 
 ## Notes
 
