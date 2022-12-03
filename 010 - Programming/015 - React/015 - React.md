@@ -3,6 +3,7 @@ type: index
 ---
 
 
+
 ## Articles
 ```dataview
 table topic as "Topic"

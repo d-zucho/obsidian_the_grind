@@ -10,7 +10,7 @@ tags: article
 
 ---
 
-
+back: [[015 - React]]
 
 ## Don't Use '&&' to Conditionally Render
 
@@ -18,12 +18,4 @@ This can introduce many unseen bugs due to statement not returning a direct *boo
 
 
 **INSTEAD** use regular *ternary* statement
-
-
-
-
-
-
-
-### Summary
 

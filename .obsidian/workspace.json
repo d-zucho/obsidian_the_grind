@@ -32,32 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "438faeec12d0d4c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010 - Programming/015 - React/Courses - React.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fe546dcd239ff7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010 - Programming/015 - React/React Fundamentals.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -165,6 +139,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "cd28ef9b1941f321",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "010 - Programming/015 - React/015 - React.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -193,13 +177,13 @@
   },
   "active": "022cd967a28475fe",
   "lastOpenFiles": [
-    "010 - Programming/015 - React/Courses - React.md",
+    "010 - Programming/015 - React/Dont Use && To Render.md",
     "010 - Programming/015 - React/015 - React.md",
-    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
     "010 - Programming/015 - React/React Fundamentals.md",
+    "010 - Programming/015 - React/Courses - React.md",
+    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
     "010 - Programming/015 - React/React State.md",
     "templates/Aritcle.md",
-    "010 - Programming/015 - React/Dont Use && To Render.md",
     "templates/Coding Note.md",
     "010 - Programming/015 - React/React Articles.md",
     "010 - Programming/015 - React/VirtualDOM.md"
