@@ -1,11 +1,11 @@
 ---
 
 
-title:  Steps with Clients in Design
+title:  Design Resources
 type: designNote
 alias: ["ztm-web-design"]
 course: ztm-web-design
-section: intro
+section: resources
 tags: 
 
 

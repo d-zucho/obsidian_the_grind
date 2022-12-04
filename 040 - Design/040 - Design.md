@@ -2,6 +2,7 @@ back: [[000-Index]]
 
 %% Begin Waypoint %%
 - [[Design Intro]]
+- [[Design Resources]]
 - [[Flower Letter Mask - Procreate]]
 - [[Font Pairings]]
 - [[Steps with Clients in Design]]
