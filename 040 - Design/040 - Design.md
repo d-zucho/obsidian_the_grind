@@ -10,7 +10,11 @@ back: [[000-Index]]
 
 ## Courses
 
--
+```dataview
+table title as "Title", teacher as "Teacher/s"
+where type = "class" and topic = "design"
+```
+
 
 
 ## Notes
