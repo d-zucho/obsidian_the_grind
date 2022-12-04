@@ -34,3 +34,6 @@ Grids helps us :
 
 
 ## Modular Grid
+
+- Takes columns and rows into account to organize in a matrix like structure.
+- ideal for strict format layout like a book
