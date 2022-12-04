@@ -6,9 +6,17 @@ teacher: Zero-To-Mastery
 topic: design
 ---
 
-## Sections
 
-- [[Fo]]
+## Class Notes
+
+```button
+name New Design Note
+type note(Untitled) template
+action Design Note
+color blue
+```
+
+- [[Design Begginnings]]
 
 
 
