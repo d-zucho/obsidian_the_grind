@@ -23,4 +23,11 @@ back: [[040 - Design]]
 Grids helps us :
 - apply a two-dimensional organization of information
 - we can use grids to organize text and images into pleasing visual hierarchies.
-- help us
+- help us arrange content into structured positions
+
+## Column Grid
+
+- helps organize content into evenly spaced vertical comumns
+- **Gutter size** the space between your columns
+- The *12 column grid * is the most common
+	- This works well with a [[Spacing Systems|spacial-systems]] 

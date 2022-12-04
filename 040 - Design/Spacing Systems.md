@@ -3,7 +3,7 @@
 
 title:  Spacing Systems
 type: designNote
-alias: ["ztm-web-design"]
+alias: ["ztm-web-design", "spacial-systems"]
 course: ztm-web-design
 section: intro
 tags: spacing-system, design
