@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "851e16eb9c77fefc",
+        "id": "17cc9d9c85fb4eae",
         "type": "tabs",
         "children": [
           {
-            "id": "15d556fa2163f40a",
+            "id": "2beca2d9a6d6eedc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Design Note.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Design Note.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Design Note.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Design Note.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -161,9 +161,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "15d556fa2163f40a",
+  "active": "2beca2d9a6d6eedc",
   "lastOpenFiles": [
     "040 - Design/ZTM - Web & Mobile Design with Figma.md",
+    "040 - Design/040 - Design.md",
     "templates/Design Note.md",
     "Foundations.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
@@ -171,7 +172,6 @@
     "templates/Class Note.md",
     "templates/Default Template.md",
     "templates/Daily Note.md",
-    "templates/courseIndex.md",
-    "040 - Design/040 - Design.md"
+    "templates/courseIndex.md"
   ]
 }
