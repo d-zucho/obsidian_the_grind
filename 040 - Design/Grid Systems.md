@@ -44,4 +44,5 @@ Grids helps us :
 ## Baseline Grid
 
 - Affects *typography*
-- Usually in graphic design, baseline grid was used to set the *leading*, however, on the web it is ruled
+- Usually in graphic design, baseline grid was used to set the *leading*, however, on the web it is ruled by **line-heights**
+![12 baseline example](https://images.ctfassets.net/7jw9uvgmirvi/6o0NemmbjCPAnniv20AbqF/eba0ca1d975b0032658864377a04af90/12_baseline_example.png)
