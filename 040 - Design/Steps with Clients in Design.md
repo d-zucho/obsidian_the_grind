@@ -10,7 +10,7 @@ tags:
 
 
 ---
-back: [[040 - Design]]
+back: [[040 - Design]] / [[ZTM - Web & Mobile Design with Figma]]
 
 
 ## Quick Summary of Usual Designer-Client Process
