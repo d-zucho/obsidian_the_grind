@@ -18,3 +18,7 @@ back:: [[012 - JavaScript]]
 - Functional Programming
 - 
 
+```dataview
+table teacher as "Teacher"
+where language = ""
+```

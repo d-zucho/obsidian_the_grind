@@ -1,4 +1,5 @@
 ---
 type: index
-alias: ["ztm web design"]
+alias: ["ztm-web-design"]
+teacher: Zero-To-Mastery
 ---
