@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "040 - Design/Steps with Clients in Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ceb9e8914a818f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Design Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "templates/Design Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "templates/Design Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "templates/Design Note.md"
               }
             }
           }
@@ -161,17 +175,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "2beca2d9a6d6eedc",
+  "active": "ceb9e8914a818f6a",
   "lastOpenFiles": [
     "040 - Design/ZTM - Web & Mobile Design with Figma.md",
     "040 - Design/040 - Design.md",
+    "040 - Design/Steps with Clients in Design.md",
     "040 - Design/Design Intro.md",
     "templates/Design Note.md",
     "Foundations.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
     "templates/JS - Advanced.md",
     "templates/Class Note.md",
-    "templates/Default Template.md",
-    "templates/Daily Note.md"
+    "templates/Default Template.md"
   ]
 }

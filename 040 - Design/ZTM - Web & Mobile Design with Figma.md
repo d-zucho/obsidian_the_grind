@@ -17,7 +17,7 @@ color blue
 ```
 
 ```dataview
-table course as "Course", title as "Title", section as "Section"
+table course as "Course", section as "Section"
 where type = "designNote" AND course = "ztm-web-design"
 ```
 
