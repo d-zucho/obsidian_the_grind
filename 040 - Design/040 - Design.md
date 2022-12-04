@@ -7,12 +7,12 @@ back: [[000-Index]]
 %% End Waypoint %%
 
 
-```dataview
-table
-file as "Name", type as "Type"
-from #procreate 
-WHERE type = "Procreate Tutorial"
-```
+## Courses
+
+
+
+
+## Notes
 
 
 
