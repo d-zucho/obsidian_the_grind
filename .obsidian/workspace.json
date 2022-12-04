@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+                "file": "040 - Design/ZTM - Web & Mobile Design with Figma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+                "file": "040 - Design/ZTM - Web & Mobile Design with Figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md"
+                "file": "040 - Design/ZTM - Web & Mobile Design with Figma.md"
               }
             }
           }
@@ -188,17 +188,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "7081d88051587d93",
+  "active": "ccaac1ff6f406be3",
   "lastOpenFiles": [
-    "040 - Design/ZTM - Web & Mobile Design with Figma.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+    "010 - Programming/012 - JavaScript/Courses/Javascript in Detail - From Beginner to Advanced.md",
+    "040 - Design/ZTM - Web & Mobile Design with Figma.md",
     "040 - Design/040 - Design.md",
     "010 - Programming/012 - JavaScript/Courses/Courses.md",
     "Foundations.md",
     "010 - Programming/012 - JavaScript/012 - JavaScript.md",
     "010 - Programming/015 - React/Calling from API with fetch().md",
     "010 - Programming/015 - React/015 - React.md",
-    "010 - Programming/015 - React/Courses - React.md",
-    "010 - Programming/015 - React/Flux.md"
+    "010 - Programming/015 - React/Courses - React.md"
   ]
 }

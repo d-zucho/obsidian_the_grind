@@ -20,5 +20,5 @@ back:: [[012 - JavaScript]]
 
 ```dataview
 table teacher as "Teacher"
-where language = ""
+where language = "javascript" AND type = "class"
 ```
