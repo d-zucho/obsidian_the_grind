@@ -1,6 +1,7 @@
 back: [[000-Index]]
 
 %% Begin Waypoint %%
+- [[Design Intro]]
 - [[Flower Letter Mask - Procreate]]
 - [[Font Pairings]]
 - [[ZTM - Web & Mobile Design with Figma]]

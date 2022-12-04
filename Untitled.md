@@ -21,3 +21,6 @@ tags:
 
 ---
 back: [[<%tp.file.folder()%>]]
+
+
+<% tp.file.cursor(2) %>

@@ -16,7 +16,8 @@ action Design Note
 color blue
 ```
 
-- [[Design Begginnings]]
-
-
+```dataview
+table course as "Course", title as "Title", section as "Section"
+where type = "designNote" AND course = "ztm-web-design"
+```
 
