@@ -39,3 +39,6 @@ Grids helps us :
 - ideal for strict format layout like a book; however, can also be broken down for a relative sized responsive web layout
 
 ![11 modular grid](https://images.ctfassets.net/7jw9uvgmirvi/2DyM6NqHuNxSugektqfAch/a6d12202806caa6a3421950103b20de0/11_modular_grid.png)
+
+
+## Baseline Grid
