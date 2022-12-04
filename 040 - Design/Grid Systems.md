@@ -30,4 +30,7 @@ Grids helps us :
 - helps organize content into evenly spaced vertical comumns
 - **Gutter size** the space between your columns
 - The *12 column grid * is the most common
-	- This works well with a [[Spacing Systems|spacial-systems]] 
+	- This works well with a [[Spacing Systems|spacial-systems]] to help keep a consistem theme throughout the entire design
+
+
+## Modular Grid
