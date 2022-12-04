@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 - Design/Spacing Systems.md",
+                "file": "040 - Design/Grid Systems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 - Design/Spacing Systems.md",
+                "file": "040 - Design/Grid Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 - Design/Spacing Systems.md",
+                "file": "040 - Design/Grid Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040 - Design/Spacing Systems.md"
+                "file": "040 - Design/Grid Systems.md"
               }
             }
           }
@@ -163,15 +164,15 @@
   },
   "active": "2beca2d9a6d6eedc",
   "lastOpenFiles": [
-    "040 - Design/ZTM - Web & Mobile Design with Figma.md",
     "040 - Design/040 - Design.md",
+    "040 - Design/Spacing Systems.md",
+    "040 - Design/ZTM - Web & Mobile Design with Figma.md",
     "040 - Design/Steps with Clients in Design.md",
     "040 - Design/Design Resources.md",
     "templates/Design Note.md",
     "040 - Design/Design Intro.md",
     "Foundations.md",
     "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
-    "templates/JS - Advanced.md",
-    "templates/Class Note.md"
+    "templates/JS - Advanced.md"
   ]
 }
