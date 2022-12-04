@@ -42,3 +42,6 @@ Grids helps us :
 
 
 ## Baseline Grid
+
+- Affects *typography*
+- Usually in graphic design, baseline grid was used to set the *leading*, however, on the web it is ruled
