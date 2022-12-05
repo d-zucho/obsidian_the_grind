@@ -13,10 +13,22 @@
 %>
 title:  <% title %>
 alias:
-course: javascript advanced concepts
 language: <% language %>
 section: <% tp.file.cursor(1) %>
 tags: snippets
 ---
 
 back: [[080 - Snippets]]
+
+
+## Discription: 
+
+
+
+
+
+## The Code: 
+
+```
+
+```
