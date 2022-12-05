@@ -14,7 +14,7 @@
 %>
 title:  <% title %>
 alias:
-language: <% language %>
+language: css
 topic: <% topic %>
 tags: snippets
 ---
