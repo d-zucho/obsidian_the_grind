@@ -11,6 +11,13 @@ tags: ztm, design
 back: [[040 - Design]]
 
 
+- [[#Planning Phase|Planning Phase]]
+- [[#Design Phase|Design Phase]]
+- [[#Development Phase|Development Phase]]
+- [[#Launch Phase|Launch Phase]]
+- [[#Post-Launch Phase|Post-Launch Phase]]
+
+
 
 ## Planning Phase
 
@@ -61,3 +68,33 @@ All the programming is done to get a working copy of our design
 
 - Common for a designer to do a ***hand-off*** to a developer
 
+- Using our assets, client communication for feedback and programming, we get the end product which is aggreed upon by both parties.
+
+___
+___
+
+## Launch Phase
+
+```ad-important
+title: Launch Phase
+
+Do any last minute retouches and have finished product
+```
+
+- Usually some polishing will get done here
+- Any testing that needs to get done
+
+___
+___
+
+## Post-Launch Phase
+
+```ad-important
+title: Post-Launch Phase
+
+Hand-off final product to client, while monitoring how product launch is going. 
+```
+
+- How are the users using the product?
+- Are there any issues?
+- User testing to see what can be improved
