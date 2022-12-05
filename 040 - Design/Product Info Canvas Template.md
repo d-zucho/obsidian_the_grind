@@ -3,7 +3,7 @@
 
 title:  Product Info Canvas Template
 type: designTemplate
-alias: 
+alias: ["product info template"]
 stage: planning
 tags: 
 
@@ -12,3 +12,17 @@ tags:
 back: [[040 - Design]]
 
 
+
+## Name :
+
+[Name of product]
+
+
+
+## Goal: 
+
+[Overarching goal]
+
+
+
+##
