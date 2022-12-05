@@ -22,3 +22,5 @@ Having a Desing System is One of the best things you can have for, yourslef as t
 
 
 Having a Desing System is One of the best things you can have for, yourslef as the developer, but also for clients when we are designing their work.
+
+[Design Resources | Zero To Mastery Academy](https://academy.zerotomastery.io/courses/complete-web-and-mobile-designer/lectures/24090784)
