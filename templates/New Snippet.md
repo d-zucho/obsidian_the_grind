@@ -7,6 +7,7 @@
   } 
 	await tp.file.rename(title);
   let language = await tp.system.prompt("Language: ")
+  let topic = await tp.system.prompt("Topic: ")
 
   await tp.file.move("080 - Snippets/" + (await title))
   
@@ -14,7 +15,7 @@
 title:  <% title %>
 alias:
 language: <% language %>
-section: <% tp.file.cursor(1) %>
+topic: <% topic %>
 tags: snippets
 ---
 
