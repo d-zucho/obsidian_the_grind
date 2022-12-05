@@ -8,6 +8,7 @@ back: [[000-Index]]
 - [[Font Pairings]]
 - [[Grid Systems]]
 - [[Spacing Systems]]
+- [[Steps In Design Process]]
 - [[Steps with Clients in Design]]
 - [[ZTM - Web & Mobile Design with Figma]]
 

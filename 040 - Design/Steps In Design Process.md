@@ -1,16 +1,14 @@
 ---
 
 
-title:  Design Resources
+title:  Steps In Design Process
 type: designNote
 alias: ["ztm-web-design"]
 course: ztm-web-design
-section: resources
-tags: 
-
-
+section: intro
+tags: ztm, design
 ---
 back: [[040 - Design]]
 
 
-![[zerotomastery.io - Design Resources.pdf]]
+

@@ -19,5 +19,7 @@ Design Systems have many smaller parts to it that come together and, in great de
 
 Some of these can include:
 
-/list
+- [[Grid Systems]]
+- [[Spacing Systems|spacial-systems]]
+- 
 
