@@ -12,6 +12,6 @@ tags: snippets
 ## CSS & Styling
 ```dataview
 table language as "Language", topic as "Topic"
-from #snippets, #snippet - #index 
-where language contains
+from #snippets and #index 
+where contains("language", "css")
 ```
