@@ -2,15 +2,16 @@ back: [[000-Index]]
 
 %% Begin Waypoint %%
 - [[A Design System]]
+- **Design Idea Templates**
 - [[Design Intro]]
 - [[Design Resources]]
 - [[Flower Letter Mask - Procreate]]
 - [[Font Pairings]]
 - [[Grid Systems]]
+- [[Product Info Canvas Template]]
 - [[Spacing Systems]]
 - [[Steps In Design Process]]
 - [[Steps with Clients in Design]]
-- **Untitled**
 - [[ZTM - Web & Mobile Design with Figma]]
 
 %% End Waypoint %%
@@ -26,6 +27,9 @@ where type = "class" and topic = "design"
 
 
 ## Notes
+
+
+## Templates
 
 
 

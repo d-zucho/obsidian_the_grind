@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 - Design/040 - Design.md",
+                "file": "040 - Design/Product Info Canvas Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 - Design/040 - Design.md",
+                "file": "040 - Design/Product Info Canvas Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 - Design/040 - Design.md",
+                "file": "040 - Design/Product Info Canvas Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040 - Design/040 - Design.md"
+                "file": "040 - Design/Product Info Canvas Template.md"
               }
             }
           }
@@ -175,11 +175,11 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "14e3b11cb3981a9e",
+  "active": "7ffd3d9377126f34",
   "lastOpenFiles": [
+    "040 - Design/040 - Design.md",
     "040 - Design/Steps In Design Process.md",
     "040 - Design/ZTM - Web & Mobile Design with Figma.md",
-    "040 - Design/040 - Design.md",
     "040 - Design/A Design System.md",
     "040 - Design/Design Resources.md",
     "templates/Design Note.md",
