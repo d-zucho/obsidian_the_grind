@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 - Design/Design Intro.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 - Design/Design Intro.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 - Design/Design Intro.md",
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040 - Design/Design Intro.md"
+                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md"
               }
             }
           }
@@ -176,15 +176,15 @@
   },
   "active": "2beca2d9a6d6eedc",
   "lastOpenFiles": [
+    "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
+    "010 - Programming/011 - HTML & CSS/folder no.md",
+    "040 - Design/Design Intro.md",
     "040 - Design/Grid Systems.md",
     "040 - Design/Spacing Systems.md",
     "040 - Design/040 - Design.md",
     "040 - Design/ZTM - Web & Mobile Design with Figma.md",
     "040 - Design/Steps with Clients in Design.md",
     "040 - Design/Design Resources.md",
-    "templates/Design Note.md",
-    "040 - Design/Design Intro.md",
-    "Foundations.md",
-    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md"
+    "templates/Design Note.md"
   ]
 }
