@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/JS - Advanced.md",
+                "file": "Foundations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -190,6 +190,8 @@
   },
   "active": "689c874bb4d34674",
   "lastOpenFiles": [
+    "Foundations.md",
+    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
     "templates/JS - Advanced.md",
     "templates/New Snippet.md",
     "templates/Class Note.md",
@@ -197,8 +199,6 @@
     "070 - Random/070 - Random.md",
     "010 - Programming/012 - JavaScript/Courses/Courses.md",
     "010 - Programming/010 - Programming.md",
-    "040 - Design/Spacing Systems.md",
-    "060 - General IT/060 - General IT.md",
-    "080 - Snippets/080 - Snippets.md"
+    "040 - Design/Spacing Systems.md"
   ]
 }
