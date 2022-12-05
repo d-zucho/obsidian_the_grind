@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 - Design/Grid Systems.md",
+                "file": "040 - Design/Design Intro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 - Design/Grid Systems.md",
+                "file": "040 - Design/Design Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 - Design/Grid Systems.md",
+                "file": "040 - Design/Design Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040 - Design/Grid Systems.md"
+                "file": "040 - Design/Design Intro.md"
               }
             }
           }
@@ -177,8 +176,8 @@
   },
   "active": "2beca2d9a6d6eedc",
   "lastOpenFiles": [
-    "040 - Design/Spacing Systems.md",
     "040 - Design/Grid Systems.md",
+    "040 - Design/Spacing Systems.md",
     "040 - Design/040 - Design.md",
     "040 - Design/ZTM - Web & Mobile Design with Figma.md",
     "040 - Design/Steps with Clients in Design.md",
