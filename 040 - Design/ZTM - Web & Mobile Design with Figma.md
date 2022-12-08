@@ -4,7 +4,14 @@ alias: ["ztm-web-design"]
 title: ZTM Web Design
 teacher: Zero-To-Mastery
 topic: design
+course: ztm-web-design
 ---
+
+
+## Sections
+
+- [[Section 1 - Intro]]
+
 
 
 ## Class Notes

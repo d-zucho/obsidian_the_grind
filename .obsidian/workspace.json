@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 - Design/ZTM - Web & Mobile Design with Figma.md",
+                "file": "Foundations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "7ffd3d9377126f34",
+            "id": "5f890d58ebc5f6db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-12-08.md",
+                "file": "Foundations.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b9b71194951dda8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 1 - Intro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-12-08.md",
+                "file": "Section 1 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-12-08.md",
+                "file": "Section 1 - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-12-08.md"
+                "file": "Section 1 - Intro.md"
               }
             }
           }
@@ -175,17 +188,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "7ffd3d9377126f34",
+  "active": "0b9b71194951dda8",
   "lastOpenFiles": [
-    "040 - Design/Product Info Canvas Template.md",
+    "Foundations.md",
+    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+    "Section 1 - Intro.md",
     "040 - Design/ZTM - Web & Mobile Design with Figma.md",
+    "040 - Design/Grid Systems.md",
+    "010 - Programming/012 - JavaScript/Courses/Courses.md",
     "040 - Design/040 - Design.md",
-    "040 - Design/Steps In Design Process.md",
-    "040 - Design/A Design System.md",
     "040 - Design/Design Resources.md",
-    "templates/Design Note.md",
-    "templates/Class Note.md",
-    "080 - Snippets/Tailwind Price Card Component.md",
-    "080 - Snippets/080 - Snippets.md"
+    "Daily Notes/2022-12-08.md",
+    "040 - Design/Product Info Canvas Template.md"
   ]
 }
