@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 - Design/Product Info Canvas Template.md",
+                "file": "Daily Notes/2022-12-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 - Design/Product Info Canvas Template.md",
+                "file": "Daily Notes/2022-12-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 - Design/Product Info Canvas Template.md",
+                "file": "Daily Notes/2022-12-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040 - Design/Product Info Canvas Template.md"
+                "file": "Daily Notes/2022-12-08.md"
               }
             }
           }
@@ -177,8 +177,8 @@
   },
   "active": "7ffd3d9377126f34",
   "lastOpenFiles": [
-    "040 - Design/ZTM - Web & Mobile Design with Figma.md",
     "040 - Design/Product Info Canvas Template.md",
+    "040 - Design/ZTM - Web & Mobile Design with Figma.md",
     "040 - Design/040 - Design.md",
     "040 - Design/Steps In Design Process.md",
     "040 - Design/A Design System.md",
