@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f890d58ebc5f6db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundations.md",
+                "file": "040 - Design/ZTM - Web & Mobile Design with Figma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47b702745705695d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "040 - Design/Design Resources.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,15 +190,15 @@
   },
   "active": "0b9b71194951dda8",
   "lastOpenFiles": [
-    "Foundations.md",
-    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
+    "040 - Design/Design Resources.md",
     "Section 1 - Intro.md",
     "040 - Design/ZTM - Web & Mobile Design with Figma.md",
-    "040 - Design/Grid Systems.md",
-    "010 - Programming/012 - JavaScript/Courses/Courses.md",
+    "040 - Design/Steps In Design Process.md",
+    "040 - Design/Steps with Clients in Design.md",
+    "040 - Design/Design Intro.md",
     "040 - Design/040 - Design.md",
-    "040 - Design/Design Resources.md",
-    "Daily Notes/2022-12-08.md",
-    "040 - Design/Product Info Canvas Template.md"
+    "040 - Design/Spacing Systems.md",
+    "040 - Design/A Design System.md",
+    "040 - Design/Grid Systems.md"
   ]
 }

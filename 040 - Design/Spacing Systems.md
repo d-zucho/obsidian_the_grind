@@ -6,6 +6,7 @@ type: designNote
 alias: ["ztm-web-design", "spacial-systems"]
 course: ztm-web-design
 section: intro
+topic: Spacing and Spacial Systems
 tags: spacing-system, design
 
 

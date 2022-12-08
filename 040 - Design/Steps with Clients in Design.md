@@ -6,6 +6,7 @@ type: designNote
 alias: ["ztm-web-design"]
 course: ztm-web-design
 section: intro
+topic: Process with client start to finish
 tags: 
 
 

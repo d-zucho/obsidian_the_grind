@@ -5,8 +5,9 @@ title:  Design Intro
 type: designNote
 alias: ["ztm-web-design"]
 course: ztm-web-design
+topic: Introduction to Design
 section: intro
-tags: 
+tags: design
 
 
 ---

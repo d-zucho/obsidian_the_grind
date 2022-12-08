@@ -1,16 +1,14 @@
 ---
 
-
 title:  Design Resources
 type: designNote
 alias: ["ztm-web-design"]
 course: ztm-web-design
 section: resources
-tags: 
-
-
+topic: design resources
+tags: design, design/resources
 ---
-back: [[040 - Design]]
+back: [[040 - Design]]/[[ZTM - Web & Mobile Design with Figma]]
 
 
 

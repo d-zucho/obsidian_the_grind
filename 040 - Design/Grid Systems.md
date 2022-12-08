@@ -5,8 +5,8 @@ title:  Grid Systems
 type: designNote
 alias: ["ztm-web-design"]
 course: ztm-web-design
+topic: Grid Systems
 tags: grid-systems
-
 
 ---
 back: [[040 - Design]]

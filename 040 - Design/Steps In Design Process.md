@@ -6,6 +6,7 @@ type: designNote
 alias: ["ztm-web-design"]
 course: ztm-web-design
 section: intro
+topic: The Individual Stages from Planning to Post-Launch
 tags: ztm, design
 ---
 back: [[040 - Design]]
