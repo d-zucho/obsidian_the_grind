@@ -16,6 +16,7 @@ type: designNote
 alias: ["ztm-web-design"]
 course: ztm-web-design
 section: <% tp.file.cursor(1) %>
+topic:
 tags: 
 
 
