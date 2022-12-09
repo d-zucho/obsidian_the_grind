@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-12-08.md",
+                "file": "Section 1 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-12-08.md",
+                "file": "Section 1 - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-12-08.md"
+                "file": "Section 1 - Intro.md"
               }
             }
           }
@@ -188,8 +188,9 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "af2a5d765ef0ffef",
+  "active": "0b9b71194951dda8",
   "lastOpenFiles": [
+    "Daily Notes/2022-12-08.md",
     "Section 1 - Intro.md",
     "040 - Design/ZTM - Web & Mobile Design with Figma.md",
     "Section 2 - Sketching.md",
@@ -198,7 +199,6 @@
     "040 - Design/Steps In Design Process.md",
     "040 - Design/Steps with Clients in Design.md",
     "040 - Design/Design Intro.md",
-    "040 - Design/040 - Design.md",
-    "040 - Design/Spacing Systems.md"
+    "040 - Design/040 - Design.md"
   ]
 }
