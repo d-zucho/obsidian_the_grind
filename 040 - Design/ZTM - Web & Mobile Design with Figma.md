@@ -11,6 +11,7 @@ course: ztm-web-design
 ## Sections
 
 - [[Section 1 - Intro]]
+- [[Section 2 - Sketching]]
 
 
 
