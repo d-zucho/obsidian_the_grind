@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 - Design/Intro to Sketching.md",
+                "file": "040 - Design/040 - Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 1 - Intro.md",
+                "file": "040 - Design/The Sketching Process.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 - Design/Intro to Sketching.md",
+                "file": "040 - Design/The Sketching Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 - Design/Intro to Sketching.md",
+                "file": "040 - Design/The Sketching Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040 - Design/Intro to Sketching.md"
+                "file": "040 - Design/The Sketching Process.md"
               }
             }
           }
@@ -174,17 +175,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "b96fad692c9bae29",
+  "active": "0b9b71194951dda8",
   "lastOpenFiles": [
     "Section 2 - Sketching.md",
-    "templates/Design Note.md",
     "040 - Design/ZTM - Web & Mobile Design with Figma.md",
+    "040 - Design/040 - Design.md",
     "Section 1 - Intro.md",
+    "040 - Design/Intro to Sketching.md",
+    "templates/Design Note.md",
     "Daily Notes/2022-12-08.md",
     "040 - Design/Design Resources.md",
     "040 - Design/Steps In Design Process.md",
-    "040 - Design/Steps with Clients in Design.md",
-    "040 - Design/Design Intro.md",
-    "040 - Design/040 - Design.md"
+    "040 - Design/Steps with Clients in Design.md"
   ]
 }
