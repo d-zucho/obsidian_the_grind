@@ -29,4 +29,6 @@ back: [[040 - Design]]
 		- ![[CleanShot 2022-12-09 at 04.02.08.png]]
 		- Point on reasoning and explain interactions
 
-3. 
+	- Use numbers to show the flow of your sketches
+	- Use arrows to show any transitions
+	- Try to think about some gestures that you could add.
