@@ -1,10 +1,10 @@
 {
-  "autosuggestToggleLink": true,
+  "autosuggestToggleLink": false,
   "autocompleteTriggerPhrase": "@",
   "isAutosuggestEnabled": true,
   "format": "YYYY/MM/DD",
   "timeFormat": "HH:mm",
-  "separator": " ",
+  "separator": " --",
   "weekStart": "locale-default",
   "modalToggleTime": false,
   "modalToggleLink": false,
