@@ -32,3 +32,15 @@ back: [[040 - Design]]
 	- Use numbers to show the flow of your sketches
 	- Use arrows to show any transitions
 	- Try to think about some gestures that you could add.
+
+
+
+## What Parts To Concentrate On?
+
+- After we have sketched a few ideas, notice similar ideas or sections
+	- navigation
+	- persistant UI
+	- checkout page
+	- product
+	- etc. 
+- 
