@@ -19,7 +19,7 @@ back: [[040 - Design]]
 
 ## Making Something Responsive
 
-- To make something responsive,  it will need to be in auto-layout, as well as have set its constraints to the left & right
+- To make something responsive,  it will need to be in auto-layout, as well as have set its **constraints** to the *left & right*
 
 
 ## Auto Layout
