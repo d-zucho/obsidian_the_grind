@@ -1,10 +1,12 @@
 back: [[000-Index]]
 
 %% Begin Waypoint %%
+- [[3 - Figma]]
 - [[A Design System]]
 - **Design Idea Templates**
 - [[Design Intro]]
 - [[Design Resources]]
+- [[Figma]]
 - [[Flower Letter Mask - Procreate]]
 - [[Font Pairings]]
 - [[Grid Systems]]
