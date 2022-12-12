@@ -35,7 +35,7 @@ Web App displaying recipes for different kind of dishes / cuisine.
 Users can search and filter for different categories such as:
 - Different Cuisine types
 - Preferences - such as vegetarian, gluten free, deserts, etc.
-- 
+- ***ADD MORE***
 ```
 
 
@@ -43,8 +43,8 @@ _________
 
 ### Next Actions
 
-- [ ]  Rough Design
-- [ ] Do I need Figma Design Ready?
+- [x]  Rough Design
+- [x] Do I need Figma Design Ready?
  
 
 
