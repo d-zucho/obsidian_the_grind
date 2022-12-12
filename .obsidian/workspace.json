@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-12-12.md",
+                "file": "040 - Design/Figma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-12-12.md",
+                "file": "040 - Design/Figma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-12-12.md",
+                "file": "040 - Design/Figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-12-12.md"
+                "file": "040 - Design/Figma.md"
               }
             }
           }
@@ -177,6 +177,7 @@
   },
   "active": "0b9b71194951dda8",
   "lastOpenFiles": [
+    "Daily Notes/2022-12-12.md",
     "040 - Design/Figma.md",
     "040 - Design/3 - Figma.md",
     "040 - Design/ZTM - Web & Mobile Design with Figma.md",
@@ -185,7 +186,6 @@
     "040 - Design/The Sketching Process.md",
     "templates/Class Note.md",
     "templates/Design Note.md",
-    "templates/courseIndex.md",
-    "040 - Design/A Design System.md"
+    "templates/courseIndex.md"
   ]
 }
