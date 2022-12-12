@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 - Design/3 - Figma.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b9b71194951dda8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2022-12-12.md",
+                "file": "010 - Programming/050 - Projects/Spoontacular Project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-12-12.md",
+                "file": "010 - Programming/050 - Projects/Spoontacular Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-12-12.md",
+                "file": "010 - Programming/050 - Projects/Spoontacular Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-12-12.md"
+                "file": "010 - Programming/050 - Projects/Spoontacular Project.md"
               }
             }
           }
@@ -175,17 +161,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "0b9b71194951dda8",
+  "active": "b96fad692c9bae29",
   "lastOpenFiles": [
-    "040 - Design/Figma.md",
-    "Daily Notes/2022-12-12.md",
+    "010 - Programming/050 - Projects/050 - Projects.md",
     "040 - Design/3 - Figma.md",
+    "Daily Notes/2022-12-12.md",
+    "040 - Design/Figma.md",
     "040 - Design/ZTM - Web & Mobile Design with Figma.md",
     "040 - Design/040 - Design.md",
     "Section 2 - Sketching.md",
     "040 - Design/The Sketching Process.md",
     "templates/Class Note.md",
-    "templates/Design Note.md",
-    "templates/courseIndex.md"
+    "templates/Design Note.md"
   ]
 }
