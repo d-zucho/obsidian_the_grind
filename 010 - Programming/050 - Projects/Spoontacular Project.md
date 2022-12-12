@@ -29,7 +29,14 @@ lastModified::  Dec-12th-2022
 
 **Desired Outcome** / **Purpose / Intention **
 
--  W
+```ad-abstract
+title: Spoonacular
+Web App displaying recipes for different kind of dishes / cuisine. 
+Users can search and filter for different categories such as:
+- Different Cuisine types
+- Preferences - such as vegetarian, gluten free, deserts, etc.
+- 
+```
 
 
 _________
