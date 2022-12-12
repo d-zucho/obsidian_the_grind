@@ -6,6 +6,8 @@
   if (title.startsWith("Untitled")) {
     title = await tp.system.prompt("Title");
     await tp.file.rename(title);
+
+	let status = await tp.system.prompt("Status: ")
   } 
 
   let language = await tp.system.prompt("Language: ")
@@ -17,12 +19,14 @@ type: project
 dateCreated: <% tp.file.creation_date('MMM-Do-YYYY')%>
 title: <% title %>
 language: <% language %>
+status: 
 tags: project
 ---
 lastModified::  <% tp.file.last_modified_date('MMM-Do-YYYY')%>
+folder: <% tp.file.folder() %>
 
 
-# <% tp.file.title %>
+# <% title%>
 
 
 

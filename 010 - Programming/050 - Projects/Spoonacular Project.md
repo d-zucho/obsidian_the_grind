@@ -4,8 +4,9 @@
 type: project
 dateCreated: Dec-12th-2022
 title: Spoontacular Project
-language: js
-tags: project, js
+language: react
+status: active
+tags: project, js, react
 ---
 lastModified::  Dec-12th-2022
 

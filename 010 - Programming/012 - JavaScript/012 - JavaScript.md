@@ -34,7 +34,8 @@ back: [[010 - Programming]]
 
 ```dataview
 table type as "Class", teacher as "Teacher"
-where type = "class" AND language = "javascript"
+where type = "class" AND (language = "javascript"
+OR language = "react")
 
 ```
 
