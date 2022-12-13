@@ -6,5 +6,8 @@ back: [[000-Index]]
 - [[Portfolio]]
 ```dataview
 table
-file as "Project", createdOn
+status as "Status", language as "Language", dateCreated as "Date Started"
+FROM #project 
 ```
+
+

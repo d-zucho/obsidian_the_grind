@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "17cc9d9c85fb4eae",
+        "id": "4f3be31221d15616",
         "type": "tabs",
         "children": [
           {
-            "id": "b96fad692c9bae29",
+            "id": "69fe53d8320c710b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/050 - Projects/050 - Projects.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6415ba8af1fe0e34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed12bc8ddd5af53a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010 - Programming/050 - Projects/Spoonacular Project.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f4fbb8f6e3877b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Project Note.md",
+                "file": "010 - Programming/010 - Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "010 - Programming/010 - Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+                "file": "010 - Programming/010 - Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/012 - JavaScript/012 - JavaScript.md"
+                "file": "010 - Programming/010 - Programming.md"
               }
             }
           }
@@ -201,17 +161,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "6415ba8af1fe0e34",
+  "active": "69fe53d8320c710b",
   "lastOpenFiles": [
+    "020 - Resources/020 - Resources.md",
+    "030 - Interview Tips/030 - Interview Tips.md",
+    "070 - Random/070 - Random.md",
+    "Kanban/k -  Notes.md",
+    "Kanban/Kanban.md",
+    "2022/12/02.md",
     "010 - Programming/050 - Projects/Spoonacular Project.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "050 - Projects/050 - Projects.md",
     "templates/Project Note.md",
-    "Foundations.md",
-    "010 - Programming/012 - JavaScript/Courses/Javascript - The Advanced Parts.md",
-    "templates/JS - Advanced.md",
-    "010 - Programming/050 - Projects/050 - Projects.md",
-    "040 - Design/3 - Figma.md",
-    "Daily Notes/2022-12-12.md",
-    "040 - Design/Figma.md"
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md"
   ]
 }

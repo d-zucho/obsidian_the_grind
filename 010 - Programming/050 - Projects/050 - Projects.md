@@ -6,7 +6,7 @@
 
 ```dataview
 table
-file as "Name", status as "Status"
+status as "Status"
 FROM #project 
 
 ```

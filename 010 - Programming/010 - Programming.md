@@ -22,3 +22,11 @@ ____
 ## Random 
 
 [[Hosting React Application to Deployment]]
+
+## Active Projects
+```dataview
+table
+language as "Language", status as "Status", dateCreated as "Date Started"
+FROM #project 
+WHERE status = "active"
+```

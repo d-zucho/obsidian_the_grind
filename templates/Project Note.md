@@ -19,14 +19,14 @@ type: project
 dateCreated: <% tp.file.creation_date('MMM-Do-YYYY')%>
 title: <% title %>
 language: <% language %>
-status: 
+status: <% status %>
 tags: project
 ---
 lastModified::  <% tp.file.last_modified_date('MMM-Do-YYYY')%>
 folder: <% tp.file.folder() %>
 
 
-# <% title%>
+# <% title %>
 
 
 

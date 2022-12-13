@@ -9,6 +9,9 @@ status: active
 tags: project, js, react
 ---
 lastModified::  Dec-12th-2022
+back: [[010 - Programming/050 - Projects/050 - Projects|Projects]]
+
+
 
 
 # Spoontacular
