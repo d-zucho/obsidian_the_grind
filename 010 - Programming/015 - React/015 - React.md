@@ -1,5 +1,6 @@
 ---
 type: index
+language: react
 ---
 
 
@@ -10,6 +11,16 @@ table topic as "Topic"
 FROM #article
 where language = "react"
 ```
+
+
+## Projects
+```dataview
+table status as "Status", dateCreated as "Date Started" 
+FROM #project 
+WHERE language = "react" AND status = "active"
+```
+
+
 
 ## Courses
 ![[Courses - React]]
@@ -45,6 +56,7 @@ where language = "react"
 - [[React State]]
 - [[Redux]]
 - [[Set Form Input as State]]
+- [[useRef Hook]]
 - [[Using Context API]]
 - [[VirtualDOM]]
 

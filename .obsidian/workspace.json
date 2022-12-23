@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/010 - Programming.md",
+                "file": "Daily Notes/2022-12-21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/010 - Programming.md",
+                "file": "Daily Notes/2022-12-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/010 - Programming.md",
+                "file": "Daily Notes/2022-12-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,12 +132,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/010 - Programming.md"
+                "file": "Daily Notes/2022-12-21.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "22f630ffaa5b886a",
@@ -165,13 +165,13 @@
   "lastOpenFiles": [
     "020 - Resources/020 - Resources.md",
     "030 - Interview Tips/030 - Interview Tips.md",
-    "070 - Random/070 - Random.md",
-    "Kanban/k -  Notes.md",
-    "Kanban/Kanban.md",
-    "2022/12/02.md",
-    "010 - Programming/050 - Projects/Spoonacular Project.md",
-    "050 - Projects/050 - Projects.md",
-    "templates/Project Note.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md"
+    "080 - Snippets/080 - Snippets.md",
+    "080 - Snippets/Loading - Pure CSS.md",
+    "Daily Notes/2022-12-15.md",
+    "010 - Programming/015 - React/useRef Hook.md",
+    "010 - Programming/015 - React/015 - React.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
+    "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md"
   ]
 }
