@@ -3,7 +3,7 @@
   "autocompleteTriggerPhrase": "@",
   "isAutosuggestEnabled": true,
   "format": "YYYY/MM/DD",
-  "timeFormat": "HH:mm",
+  "timeFormat": "hh:mm a",
   "separator": " --",
   "weekStart": "locale-default",
   "modalToggleTime": false,
