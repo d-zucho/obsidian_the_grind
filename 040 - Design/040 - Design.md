@@ -1,5 +1,23 @@
 back: [[000-Index]]
 
+## Design Classes
+
+```dataview
+table type as "Class", teacher as "Teacher"
+where type = "class" AND language = "design"
+
+
+```
+
+
+
+
+
+
+
+
+
+
 %% Begin Waypoint %%
 - [[3 - Figma]]
 - [[A Design System]]
@@ -16,7 +34,8 @@ back: [[000-Index]]
 - [[Steps In Design Process]]
 - [[Steps with Clients in Design]]
 - [[The Sketching Process]]
-- [[ZTM - Web & Mobile Design with Figma]]
+- [[User Flows]]
+- **[[ZTM - Web & Mobile Design with Figma]]**
 
 %% End Waypoint %%
 

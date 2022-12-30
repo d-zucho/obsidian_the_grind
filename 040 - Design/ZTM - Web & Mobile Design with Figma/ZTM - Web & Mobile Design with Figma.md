@@ -10,8 +10,17 @@ course: ztm-web-design
 
 ## Sections
 
+```button
+name Add New Section
+type note(Untitled) template
+action ZTM-Web Design Section
+color blue
+```
+
 - [[Section 1 - Intro]]
 - [[Section 2 - Sketching]]
+- [[Section 3 - User Flows & Site Maps]]
+- 
 
 
 
