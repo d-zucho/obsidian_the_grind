@@ -13,6 +13,15 @@ tags:
 ---
 back: [[040 - Design]]
 
+
+- [[#What are User Flows?|What are User Flows?]]
+	- [[#What are User Flows?#What Should Be Included|What Should Be Included]]
+- [[#Steps|Steps]]
+
+
+
+
+
  ## What are User Flows?
 
 > [!`NOTE`] A.K.A.
@@ -63,3 +72,23 @@ They outline the goal the user achienves by completing the flow
 
 	- ![[Pasted image 20221229211216.png]]
 
+
+
+## The DOs and DONTs of User Flows
+
+**DONT** be vague in description or flow
+<mark style="background: #BBFABBA6;">DO</mark> make your title descriptive
+<mark style="background: #BBFABBA6;">DO</mark> break it out into seperate flows
+
+
+**DONT** create flow maps to represent a user flow
+![[Pasted image 20221229212158.png]]
+
+ 
+<mark style="background: #BBFABBA6;">DO</mark> create distinct flows
+![[Pasted image 20221229212236.png]]
+
+
+**DONT** miss any details
+
+<mark style="background: #BBFABBA6;">DO</mark> add right amount of detail just to tell enough of the story

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "daeae6d70941a1ed",
+        "id": "224ee75492f9cb65",
         "type": "tabs",
         "children": [
           {
-            "id": "26f375124eccdf07",
+            "id": "4d137a933d1ee2de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 - Design/User Flows.md",
+                "file": "templates/JS - Advanced.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "0ed6ce607c7b7e4a",
+            "id": "755d9a7336a6b6bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 - Design/ZTM - Web & Mobile Design with Figma/Section 3 - User Flows & Site Maps.md",
+                "file": "010 - Programming/019 - Docker/What is Docker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 - Design/User Flows.md",
+                "file": "010 - Programming/019 - Docker/What is Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 - Design/User Flows.md",
+                "file": "010 - Programming/019 - Docker/What is Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040 - Design/User Flows.md"
+                "file": "010 - Programming/019 - Docker/What is Docker.md"
               }
             }
           }
@@ -187,17 +188,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26f375124eccdf07",
+  "active": "755d9a7336a6b6bd",
   "lastOpenFiles": [
+    "templates/Aritcle.md",
+    "templates/JS - Advanced.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "Untitled.md",
+    "010 - Programming/019 - Docker/019 - Docker.md",
+    "010 - Programming/015 - React/015 - React.md",
     "040 - Design/ZTM - Web & Mobile Design with Figma/Section 3 - User Flows & Site Maps.md",
-    "040 - Design/User Flows.md",
-    "templates/Design Note.md",
-    "templates/ZTM-Web Design Section.md",
-    "040 - Design/ZTM - Web & Mobile Design with Figma/ZTM - Web & Mobile Design with Figma.md",
-    "040 - Design/ZTM - Web & Mobile Design with Figma/Section 1 - Intro.md",
-    "040 - Design/ZTM - Web & Mobile Design with Figma/Section 2 - Sketching.md",
-    "040 - Design/Section 3 - User Flows & Site Maps.md",
-    "040 - Design/ZTM - Web & Mobile Design with Figma/Section 4.md",
-    "010 - Programming/012 - JavaScript/Courses/Javascript in Detail - From Beginner to Advanced.md"
+    "010 - Programming/016 - Python/016 - Python.md",
+    "010 - Programming/017 - Node/017 - Node.md",
+    "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md"
   ]
 }
