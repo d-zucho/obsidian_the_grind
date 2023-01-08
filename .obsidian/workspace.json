@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 - Programming/019 - Docker/What is Docker.md",
+                "file": "templates/Tech Article.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7bed663bd2bf779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "070 - Random/070 - Random.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "010 - Programming/019 - Docker/What is Docker.md",
+                "file": "070 - Random/070 - Random.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010 - Programming/019 - Docker/What is Docker.md",
+                "file": "070 - Random/070 - Random.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010 - Programming/019 - Docker/What is Docker.md"
+                "file": "070 - Random/070 - Random.md"
               }
             }
           }
@@ -173,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,17 +200,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "755d9a7336a6b6bd",
+  "active": "b7bed663bd2bf779",
   "lastOpenFiles": [
-    "templates/Aritcle.md",
-    "templates/JS - Advanced.md",
-    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
-    "Untitled.md",
-    "010 - Programming/019 - Docker/019 - Docker.md",
-    "010 - Programming/015 - React/015 - React.md",
-    "040 - Design/ZTM - Web & Mobile Design with Figma/Section 3 - User Flows & Site Maps.md",
-    "010 - Programming/016 - Python/016 - Python.md",
-    "010 - Programming/017 - Node/017 - Node.md",
-    "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md"
+    "070 - Random/073 - Technology/V-NAND vs. 3D NAND.md",
+    "__TOC__.md",
+    "070 - Random/Untitled.md",
+    "templates/Tech Article.md",
+    "070 - Random/073 - Technology.md",
+    "070 - Random/070 - Random.md",
+    "Technology.md",
+    "070 - Random/074 - Random Ways To Make Money.md",
+    "070 - Random/071 - Useful Things To Remember.md",
+    "070 - Random/075 - Movies To Watch.md"
   ]
 }
