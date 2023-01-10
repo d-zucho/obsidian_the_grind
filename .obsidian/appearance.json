@@ -1,8 +1,8 @@
 {
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "Things",
-    "custom-admonitions.03f05e"
+    "custom-admonitions.03f05e",
+    "Things"
   ],
   "baseFontSize": 12,
   "accentColor": "#752cce",

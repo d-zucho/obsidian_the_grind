@@ -8,18 +8,16 @@
   } 
   let type = await tp.system.prompt("Type: ")
 	
-  let language = await tp.system.prompt("Language: ")
+  let subject = await tp.system.prompt("What's the subject? ")
 
   await tp.file.rename(title);
   await tp.file.move("070 - Random/073 - Technology/" + (await title))
   
 %>
 title:  <% title %>
-type: "tech-article"
+type: techArticle
 aliases:
-course: javascript advanced concepts
-language: <% language %>
-section: <% tp.file.cursor(1) %>
+subject: <% subject %>
 tags: 
 ---
 back:: [[<%tp.file.folder()%>]]
