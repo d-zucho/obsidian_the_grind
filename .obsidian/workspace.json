@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "224ee75492f9cb65",
+        "id": "526a7b23dd93d8c5",
         "type": "tabs",
         "children": [
           {
-            "id": "4d137a933d1ee2de",
+            "id": "52a553cb623ebaa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-01-10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "004cbfbe386591dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "070 - Random/070 - Random.md",
+                "file": "010 - Programming/010 - Programming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-01-10.md",
+                "file": "010 - Programming/010 - Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-01-10.md",
+                "file": "010 - Programming/010 - Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-01-10.md"
+                "file": "010 - Programming/010 - Programming.md"
               }
             }
           }
@@ -188,17 +175,17 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "4d137a933d1ee2de",
+  "active": "52a553cb623ebaa0",
   "lastOpenFiles": [
-    "C.O.D.E. Method.md",
-    "070 - Random/071 - Note Taking Methods.md",
-    "070 - Random/070 - Random.md",
-    "Daily Notes/2023-01-09.md",
-    "070 - Random/074 - Random Ways To Make Money.md",
-    "Ways to Make Money from Hokme -- Responses from an AI.md",
-    "Easy Side Hustles.md",
-    "Digital Product Examples.md",
-    "7 Games to Help You Learn Programming.md",
-    "Daily Notes/2023-01-08.md"
+    "000-Index/000-Index.md",
+    "010 - Programming/010 - Programming.md",
+    "Daily Notes/2023-01-13.md",
+    "templates/courseIndex.md",
+    "templates/JS - Advanced.md",
+    "templates/Default Template.md",
+    "templates/Class Note.md",
+    "templates/Coding Note.md",
+    "templates/Daily Note.md",
+    "templates/Project Note.md"
   ]
 }

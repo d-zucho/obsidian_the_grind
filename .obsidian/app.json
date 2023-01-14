@@ -4,5 +4,7 @@
   "showFrontmatter": true,
   "livePreview": true,
   "promptDelete": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": ""
 }

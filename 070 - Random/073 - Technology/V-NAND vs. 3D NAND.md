@@ -1,6 +1,6 @@
 ---
 title:  V-NAND vs. 3D NAND
-type: "tech-article"
+type: techNote
 aliases:
 course: javascript advanced concepts
 

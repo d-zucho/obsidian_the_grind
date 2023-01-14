@@ -12,7 +12,6 @@
 [[7 Games to Help You Learn Programming]]
 
 
-## [[Technology]]
 
 ```button
 name New Tech Article Note
@@ -26,6 +25,7 @@ color blue
 ```dataview
 table
 topic as "Topic", subject as "Subject"
-from "./" where type = "tech-note"
+from "/" where type = "tech-note" OR type = "techNote"
 
 ```
+

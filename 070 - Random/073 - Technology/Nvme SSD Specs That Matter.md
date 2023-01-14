@@ -2,7 +2,7 @@
 
 
 title:  Nvme SSD Specs That Matter
-type: techArticle
+type: techNote
 aliases:
 subject: SSD specs to pay attention to
 tags: 
