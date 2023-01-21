@@ -1,3 +1,9 @@
+---
+type: resourceNote
+title: 7 Games to Help You Learn Programming
+source: article
+---
+
 # Seven Coding Games to Help You Build Your Programming Chops
 
 ![Coding Games Featured](https://www.maketecheasier.com/assets/uploads/2022/12/Coding-Games-Featured.jpg)

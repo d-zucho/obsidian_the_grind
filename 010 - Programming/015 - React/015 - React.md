@@ -21,6 +21,15 @@ WHERE language = "react" AND status = "active"
 ```
 
 
+```button
+name New React Course
+type note(function(){return this.inputEl.value}) template
+action courseIndex
+templater true
+color blue
+```
+^button-ubd8
+
 
 ## Courses
 ![[Courses - React]]
@@ -44,7 +53,9 @@ where language = "react"
 
 
 %% Begin Waypoint %%
+- [[Buiding Essential UI Data Elements in React]]
 - [[Calling from API with fetch()]]
+- **[[Courses]]**
 - [[Courses - React]]
 - [[Dont Use && To Render]]
 - [[Flux]]

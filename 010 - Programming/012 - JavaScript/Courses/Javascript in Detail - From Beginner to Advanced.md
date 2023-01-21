@@ -22,9 +22,6 @@ type note(Untitled) template
 action JS in Detail Note
 color blue
 ```
-
-
-
 ```dataview
 TABLE 
 title as "Note"

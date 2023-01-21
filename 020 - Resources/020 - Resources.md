@@ -4,6 +4,7 @@
 # 020 - Resources
 
 %% Begin Waypoint %%
+- [[7 Games to Help You Learn Programming]]
 - [[20 Rules of Knowledge Formulation]]
 - [[Apps for Content Creation]]
 - [[Bloom's and SOLO Taxonomies]]

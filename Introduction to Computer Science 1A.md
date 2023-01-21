@@ -1,20 +1,10 @@
 ---
-<%*
-  let title = tp.file.title
-  if (title.startsWith("Untitled")) {
-    title = await tp.system.prompt("Title");
-    await tp.file.rename(title);
-  } 
-  let course = await tp.system.prompt("Course Name: ")
-  let language = await tp.system.prompt("Language: ")
-  
-  
-%>
-title:  <% title %>
+title:  Intro to CS
 aliases:
-course: <% course %>
-language: <% language %>
-tags:
-
+course: Intro to Computer Science
+tags: saddleback, classes
 ---
-back:: [[<%tp.file.folder()%>]]
+back: [[090 - Saddleback]]
+
+
+[[Lecture 1]]

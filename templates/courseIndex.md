@@ -1,6 +1,6 @@
 ---
 <%* let title = tp.file.title 
-	if (title.startsWith("Untitled")) { 
+	if (title) { 
 		title = await tp.system.prompt("Title"); 
 		await tp.file.rename(`${title}`); 
 		}
@@ -15,7 +15,7 @@ tags: <% tp.file.cursor(2) %>
 dateStarted: <% tp.file.creation_date("MMM Do YYYY") %>
 ---
 
-back::  [[<% tp.file.folder() %>]]
+back::  [[<%* tp.file.folder() %>]]
 
 ___
 
