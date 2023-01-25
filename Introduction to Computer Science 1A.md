@@ -8,3 +8,5 @@ back: [[090 - Saddleback]]
 
 
 [[Lecture 1]]
+
+[[Lecture Notes 1 - History of CS]]

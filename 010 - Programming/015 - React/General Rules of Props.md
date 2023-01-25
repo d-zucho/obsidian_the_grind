@@ -4,17 +4,17 @@
 title:  React Props
 type: courseNote
 alias:
-course: modern react
+course: Modern React with Redux
 teacher: stephen grider
 language: react
 section: 
-tags: js
+tags: react
 
 
 ---
 back:[[015 - React]]
 
-## Some general rules regarding *Props*
+## Some general rules regarding *[[Props]]*
 
 1. All prop names follow camelCase capitalization
 2. Number attributes use curly braces

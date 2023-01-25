@@ -21,6 +21,6 @@ tags: js
 
 
 ---
-back:: [[<%tp.file.folder()%>]]
+
 
 back:: [[Javascript - The Advanced Parts]]

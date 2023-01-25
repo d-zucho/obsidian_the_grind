@@ -7,7 +7,6 @@ back: [[010 - Programming]]
 - [[Compiler]]
 - **[[Courses]]**
 - [[Garbage Collection]]
-- [[General Rules of Props]]
 - [[Interpreter]]
 - [[Intro]]
 - [[JavaScript Engine]]

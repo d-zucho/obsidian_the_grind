@@ -5,13 +5,14 @@
 		await tp.file.rename(`${title}`); 
 		}
 	let language = await tp.system.prompt('language: ')
-	let instructor = await tp.system.prompt('instructor/s: ')
+	let teacher = await tp.system.prompt('instructor/s: ')
 %>
 
 title: <% title %>
-alias: <% tp.file.cursor(1) %>
+alias: 
 language: <% language %>
-tags: <% tp.file.cursor(2) %>
+teacher: <% teacher %>
+tags: 
 dateStarted: <% tp.file.creation_date("MMM Do YYYY") %>
 ---
 

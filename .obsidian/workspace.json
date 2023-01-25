@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "456a4644c70acd04",
+        "id": "a4f5d0e49f98e862",
         "type": "tabs",
         "children": [
           {
-            "id": "e17fdf7e4b49e4b0",
+            "id": "d898c6de6dc06101",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-01-21.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7074a55b24516658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Lecture Note.md",
+                "file": "Lecture Notes 1 - History of CS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-01-21.md",
+                "file": "Lecture Notes 1 - History of CS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-01-21.md",
+                "file": "Lecture Notes 1 - History of CS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-01-21.md"
+                "file": "Lecture Notes 1 - History of CS.md"
               }
             }
           }
@@ -189,17 +176,17 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "e17fdf7e4b49e4b0",
+  "active": "d898c6de6dc06101",
   "lastOpenFiles": [
-    "CS50 - Harvard Intro to CS.md",
-    "CopyValuesExample.png",
-    "C.O.D.E. Method.md",
-    "CleanShot 2022-08-21 at 12.47.56.png",
-    "CleanShot 2022-12-09 at 03.38.29.png",
-    "CleanShot 2022-12-09 at 04.02.08.png",
-    "CleanShot 2022-12-09 at 03.44.38.png",
-    "Apps or Websites To Make Money.md",
-    "072 - Book Notes.md",
-    "5 Simple Tips to Help Responsive Design.md"
+    "Ada LoveLace.md",
+    "Lecture Notes 1 - History of CS.md",
+    "Analytical Engine (Analytical Machine).md",
+    "Charles Babbage.md",
+    "Introduction to Computer Science 1A.md",
+    "090 - Saddleback/090 - Saddleback.md",
+    "Daily Notes/2023-01-23.md",
+    "010 - Programming/015 - React/React is Declarative.md",
+    "010 - Programming/015 - React/015 - React.md",
+    "010 - Programming/015 - React/Courses/Modern React with Redux.md"
   ]
 }

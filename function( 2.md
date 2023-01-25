@@ -2,11 +2,11 @@
 
 <%*
   let title = tp.file.title
-  if (title) {
+  if (title)) {
     title = await tp.system.prompt("Title: ");
     await tp.file.rename(title);
-   
-	}
+  } 
+	
   let language = await tp.system.prompt("Language: ")
   let course = await tp.system.prompt("Course: ")
   let teacher = await tp.system.prompt("Teacher: ")
