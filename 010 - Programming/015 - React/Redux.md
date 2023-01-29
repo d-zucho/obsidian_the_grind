@@ -3,7 +3,7 @@ language: react, redux
 topic: redux, redux-toolkit, react-redux, state
 tags: react/redux, react/state-management
 ---
-back:: [[015 - React]]
+back:: [[010 - Programming/015 - React/_index_]]
 
 ### Lets start with a mock folder structure
 	|- app

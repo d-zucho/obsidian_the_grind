@@ -1,12 +1,25 @@
 # 999 - Templates Overview
  
-```ccard
-type: folder_brief_live
-```
  
 ## Templates: 
 %% Begin Waypoint %%
-
+- [[@PeopleNote]]
+- [[Blog Post]]
+- [[courseIndex]]
+- [[Daily Note]]
+- [[Default Template]]
+- [[Design Note]]
+- [[JS - Advanced]]
+- [[JS in Detail Note]]
+- [[Kanban]]
+- [[Lecture Note]]
+- [[New Book Template]]
+- [[New Snippet]]
+- [[Project Note]]
+- [[React Note Template]]
+- [[Tech Article]]
+- [[Video Note]]
+- [[ZTM-Web Design Section]]
 
 %% End Waypoint %%
 

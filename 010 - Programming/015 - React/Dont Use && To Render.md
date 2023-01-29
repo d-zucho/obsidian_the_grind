@@ -10,7 +10,8 @@ tags: article
 
 ---
 
-back: [[015 - React]]
+back: [[010 - Programming/015 - React/_index_]]
+
 
 ## Don't Use '&&' to Conditionally Render
 

@@ -12,7 +12,7 @@ tags: react
 
 
 ---
-back:[[015 - React]]
+back:[[010 - Programming/015 - React/_index_]]
 
 ## Some general rules regarding *[[Props]]*
 

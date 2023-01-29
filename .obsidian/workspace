@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "2d20d6bb619857b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3234f3835f5bbef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "010 - Programming/011 - HTML & CSS/Fluid Typography CSS.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "daee143c742fac38",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb8dfc1f92895c76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14e3b11cb3981a9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e1033b3f0016fa8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7602ddb31f22a2c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359
+  },
+  "right": {
+    "id": "b0599cbb85e987b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1cfa220ff483e04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aca927872f13f190",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "010 - Programming/011 - HTML & CSS/Fluid Typography CSS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f2280466a6c85c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "010 - Programming/011 - HTML & CSS/Fluid Typography CSS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7be1ab6c52833b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "010 - Programming/011 - HTML & CSS/Fluid Typography CSS.md"
+              }
+            }
+          },
+          {
+            "id": "95234e49f3c6f701",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c40eafaacc03838f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "22f630ffaa5b886a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3863c1f0e5b84057",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 172
+  },
+  "active": "b3234f3835f5bbef",
+  "lastOpenFiles": [
+    "010 - Programming/011 - HTML & CSS/011 - HTML & CSS.md",
+    "010 - Programming/012 - JavaScript/Sanity.io.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "Sanity.io.md",
+    "010 - Programming/014 - PHP & Databases/014 - PHP & Databases.md",
+    "5 Simple Tips to Help Responsive Design.md",
+    "010 - Programming/011 - HTML & CSS/UI Libraries - How to Pick the Best One.md",
+    "Procreate Tips.md",
+    "020 - Resources/020 - Resources.md",
+    "000-Index/000-Index.md"
+  ]
+}

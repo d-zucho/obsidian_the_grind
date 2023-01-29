@@ -1,4 +1,4 @@
-back:: [[014 - PHP & Databases]]
+back:: [[010 - Programming/014 - PHP & Databases/_index_]]
 
 # Advantages of Using a Database Instead of a Flat File
 #review-later 

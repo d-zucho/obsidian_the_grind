@@ -4,7 +4,7 @@ tags: computer-science
 language: python
 tags: python
 ---
-back:: [[016 - Python]]
+back:: [[010 - Programming/016 - Python/_index_]]
 
 source:: [[Intro to Python -for Computer Science and Data Science]]
 # Data Hierarchy

@@ -5,6 +5,8 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiReactjsLine",
+      "🐍",
       "📰"
     ],
     "recentlyUsedIconsSize": 5,
@@ -16,5 +18,7 @@
       "left": 0
     }
   },
-  "templates": "📰"
+  "templates": "📰",
+  "010 - Programming/016 - Python": "🐍",
+  "010 - Programming/015 - React": "RiReactjsLine"
 }

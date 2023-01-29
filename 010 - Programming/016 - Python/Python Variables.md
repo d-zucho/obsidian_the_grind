@@ -3,7 +3,7 @@ language: python
 tags: python
 ---
 
-back:: [[016 - Python]]
+back:: [[010 - Programming/016 - Python/_index_]]
 
 # Python Variables
 
