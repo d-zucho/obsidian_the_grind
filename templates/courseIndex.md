@@ -7,13 +7,14 @@
 	let language = await tp.system.prompt('language: ')
 	let teacher = await tp.system.prompt('instructor/s: ')
 %>
-
+type: courseIndex
 title: <% title %>
 alias: 
 language: <% language %>
 teacher: <% teacher %>
 tags: 
 dateStarted: <% tp.file.creation_date("MMM Do YYYY") %>
+status: open
 ---
 
 back::  [[<%* tp.file.folder() %>]]

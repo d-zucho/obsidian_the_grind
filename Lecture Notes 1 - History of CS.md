@@ -1,3 +1,13 @@
+---
+course: Intro to Computer Science
+type: assignment
+title: Week 1 Discussion Lecture Exercise
+status: notDone
+due: 1/24/23
+submitted: late
+tags: assignment
+---
+
 
 - [[#Early Computing Tools|Early Computing Tools]]
 - [[#17th Century|17th Century]]
@@ -83,4 +93,11 @@
 
 # [[Herman Hollerith]] 
 #person
-/comm
+
+![[Herman Hollerith]]
+
+# Punch Cards & Paper Tape
+
+These were used in computers well into the 1990s 
+
+[[Lecture 1 Notes - Part 3]]

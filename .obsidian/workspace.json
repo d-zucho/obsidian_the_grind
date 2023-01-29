@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f5d0e49f98e862",
+        "id": "c3dc2762276e1f35",
         "type": "tabs",
         "children": [
           {
-            "id": "d898c6de6dc06101",
+            "id": "bb319815ea0f6de2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes 1 - History of CS.md",
+                "file": "010 - Programming/016 - Python/016 - Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Notes 1 - History of CS.md",
+                "file": "010 - Programming/016 - Python/016 - Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Notes 1 - History of CS.md",
+                "file": "010 - Programming/016 - Python/016 - Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Notes 1 - History of CS.md"
+                "file": "010 - Programming/016 - Python/016 - Python.md"
               }
             }
           }
@@ -176,17 +176,17 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "d898c6de6dc06101",
+  "active": "bb319815ea0f6de2",
   "lastOpenFiles": [
-    "Ada LoveLace.md",
+    "templates/courseIndex.md",
+    "010 - Programming/016 - Python/100 Days of Code - Python.md",
+    "010 - Programming/016 - Python/016 - Python.md",
+    "Week 1 Lecture 2.md",
+    "Daily Notes/2023-01-28.md",
+    "Lecture 1 Notes - Part 3.md",
     "Lecture Notes 1 - History of CS.md",
-    "Analytical Engine (Analytical Machine).md",
-    "Charles Babbage.md",
     "Introduction to Computer Science 1A.md",
-    "090 - Saddleback/090 - Saddleback.md",
-    "Daily Notes/2023-01-23.md",
-    "010 - Programming/015 - React/React is Declarative.md",
-    "010 - Programming/015 - React/015 - React.md",
-    "010 - Programming/015 - React/Courses/Modern React with Redux.md"
+    "Alan Turing.md",
+    "090 - Saddleback/090 - Saddleback.md"
   ]
 }

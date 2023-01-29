@@ -3,13 +3,22 @@ language: python
 ---
 # Python Index
 
-
+/comm
 %% Begin Waypoint %%
+- [[100 Days of Code - Python]]
 - [[Loading a DataFrame]]
 - [[Python Variables]]
 - [[What is Pandas]]
 
 %% End Waypoint %%
+
+
+```dataview
+table
+teacher as "Teacher", status as "Status", dateStarted as "Date Started"
+from #python/class
+where type="courseIndex" 
+```
 
 
 
