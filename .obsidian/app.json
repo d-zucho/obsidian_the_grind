@@ -6,5 +6,7 @@
   "promptDelete": false,
   "showInlineTitle": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": ""
+  "newFileFolderPath": "",
+  "tabSize": 2,
+  "attachmentFolderPath": "888 - Assets"
 }

@@ -16,16 +16,25 @@ ___
 
 
 ## Class Index
-
+```button
+name New Class Note
+type note(Untitled) template
+action Python Class Note
+color blue
+```
 
 
 
 ### 📜 Notes and Ideas
+```dataview
+list
+from #python 
+where course="100 Days of Code - Python"
+```
 
--   first Note
 
 
-
+---
 ### 🔗 Github Project Links
 
 

@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6aed8dc21f7d6b79",
+            "id": "6eac046a0d4738ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-01-28.md",
+                "file": "Week 1 Lecture 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8cc399e6027dc12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "090 - Saddleback/Lecture 3 - Hardware.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "right": {
     "id": "b0599cbb85e987b8",
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-01-28.md",
+                "file": "090 - Saddleback/Lecture 3 - Hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-01-28.md",
+                "file": "090 - Saddleback/Lecture 3 - Hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,12 +146,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-01-28.md"
+                "file": "090 - Saddleback/Lecture 3 - Hardware.md"
               }
+            }
+          },
+          {
+            "id": "87b1edf13697bad2",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "22f630ffaa5b886a",
@@ -159,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 368.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -172,21 +194,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "6aed8dc21f7d6b79",
+  "active": "e8cc399e6027dc12",
   "lastOpenFiles": [
-    "2022/12/02.md",
-    "010 - Programming/017 - Node/017 - Node.md",
-    "010 - Programming/016 - Python/What is Pandas.md",
-    "010 - Programming/016 - Python/Python Variables.md",
-    "010 - Programming/015 - React/_index_.md",
-    "010 - Programming/015 - React/Dont Use && To Render.md",
-    "010 - Programming/014 - PHP & Databases/_index_.md",
-    "010 - Programming/012 - JavaScript/JavaScript Engine.md",
-    "010 - Programming/011 - HTML & CSS/_index_.md",
-    "010 - Programming/016 - Python/_index_.md"
+    "__TOC__.md",
+    "090 - Saddleback/Lecture 3 - Hardware.md",
+    "Week 1 Lecture 2.md",
+    "Introduction to Computer Science 1A.md",
+    "090 - Saddleback/090 - Saddleback.md",
+    "999 - Templates/Lecture Note.md",
+    "Daily Notes/2023-01-30.md",
+    "010 - Programming/012 - JavaScript/012 - JavaScript.md",
+    "000-Index/000-Index.md",
+    "010 - Programming/010 - Programming.md"
   ]
 }

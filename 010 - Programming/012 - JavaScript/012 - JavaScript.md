@@ -22,8 +22,6 @@ back: [[010 - Programming]]
 
 %% End Waypoint %%
 
-
-
 # JavaScript
 
 ## Book Notes

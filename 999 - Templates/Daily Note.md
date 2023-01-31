@@ -11,17 +11,18 @@ tags: daily-note, quick-note
 
 ### Any Priorities?
 
-- [ ] Priority 1
-- [ ]  
+- [ ] Priority 
+
+```tasks
+not done 
+due after 2023-1-20
+```
 
 
-
-
-
+- [ ] Finish work📅 2023-02-02 
 
 
 ## Daily Events or Thoughts
-
 
 
 

@@ -1,11 +1,12 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "enabledCssSnippets": [
-    "custom-admonitions.03f05e",
-    "Things"
+    "LYT_Dracula",
+    "custom-admonitions.03f05e"
   ],
-  "baseFontSize": 12,
+  "baseFontSize": 14,
   "accentColor": "#752cce",
   "showViewHeader": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter"
 }

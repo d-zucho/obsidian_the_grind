@@ -16,6 +16,7 @@
 - [[New Book Template]]
 - [[New Snippet]]
 - [[Project Note]]
+- [[Python Class Note]]
 - [[React Note Template]]
 - [[Tech Article]]
 - [[Video Note]]

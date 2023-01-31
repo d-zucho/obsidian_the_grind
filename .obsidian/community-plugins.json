@@ -28,5 +28,8 @@
   "obsidian-dynamic-toc",
   "obsidian-icon-folder",
   "metadata-menu",
-  "gpt3-notes"
+  "gpt3-notes",
+  "obsidian-tasks-plugin",
+  "obsidian-week-planner",
+  "obsidian-plugin-todo"
 ]
